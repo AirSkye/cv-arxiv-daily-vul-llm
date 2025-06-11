@@ -9,20 +9,45 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974](http://arxiv.org/abs/2506.07974)|null|
 |**2025-06-09**|**Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**|Honglin Shu et.al.|[2506.07503](http://arxiv.org/abs/2506.07503)|null|
 |**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|null|
+|**2025-06-09**|**Enhanced Consistency Bi-directional GAN(CBiGAN) for Malware Anomaly Detection**|Thesath Wijayasiri et.al.|[2506.07372](http://arxiv.org/abs/2506.07372)|null|
 |**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
+|**2025-06-06**|**Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies**|Sedick David Baker Effendi et.al.|[2506.06247](http://arxiv.org/abs/2506.06247)|null|
 |**2025-06-06**|**Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph**|Yufeng Wang et.al.|[2506.06161](http://arxiv.org/abs/2506.06161)|null|
+|**2025-06-06**|**A Sound and Complete Characterization of Fair Asynchronous Session Subtyping**|Mario Bravetti et.al.|[2506.06078](http://arxiv.org/abs/2506.06078)|null|
 |**2025-06-06**|**SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code**|Xinghang Li et.al.|[2506.05692](http://arxiv.org/abs/2506.05692)|null|
+|**2025-06-05**|**Model Checking as Program Verification by Abstract Interpretation (Extended Version)**|Paolo Baldan et.al.|[2506.05525](http://arxiv.org/abs/2506.05525)|null|
 |**2025-06-05**|**Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models**|Mingjie Chen et.al.|[2506.05430](http://arxiv.org/abs/2506.05430)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987](http://arxiv.org/abs/2506.04987)|null|
+|**2025-06-04**|**Client-Side Zero-Shot LLM Inference for Comprehensive In-Browser URL Analysis**|Avihay Cohen et.al.|[2506.03656](http://arxiv.org/abs/2506.03656)|null|
 |**2025-06-04**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651](http://arxiv.org/abs/2506.03651)|**[link](https://github.com/vul337/mono)**|
+|**2025-05-31**|**Machine vs Machine: Using AI to Tackle Generative AI Threats in Assessment**|Mohammad Saleh Torkestani et.al.|[2506.02046](http://arxiv.org/abs/2506.02046)|null|
+|**2025-06-02**|**Forcrat: Automatic I/O API Translation from C to Rust via Origin and Capability Analysis**|Jaemin Hong et.al.|[2506.01427](http://arxiv.org/abs/2506.01427)|null|
+|**2025-05-31**|**An LLM Agent for Functional Bug Detection in Network Protocols**|Mingwei Zheng et.al.|[2506.00714](http://arxiv.org/abs/2506.00714)|null|
+|**2025-05-30**|**Data Flows in You: Benchmarking and Improving Static Data-flow Analysis on Binary Executables**|Nicolaas Weideman et.al.|[2506.00313](http://arxiv.org/abs/2506.00313)|null|
 |**2025-05-30**|**LPASS: Linear Probes as Stepping Stones for vulnerability detection using compressed LLMs**|Luis Ibanez-Lissen et.al.|[2505.24451](http://arxiv.org/abs/2505.24451)|null|
+|**2025-05-30**|**FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation**|Vishal Pallagani et.al.|[2505.24258](http://arxiv.org/abs/2505.24258)|**[link](https://github.com/vishalpallagani/fable)**|
+|**2025-05-30**|**Dynamic Malware Classification of Windows PE Files using CNNs and Greyscale Images Derived from Runtime API Call Argument Conversion**|Md Shahnawaz et.al.|[2505.24231](http://arxiv.org/abs/2505.24231)|null|
+|**2025-06-07**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
+|**2025-05-29**|**Infinite-Instruct: Synthesizing Scaling Code instruction Data with Bidirectional Synthesis and Static Verification**|Wenjing Xing et.al.|[2505.23177](http://arxiv.org/abs/2505.23177)|null|
+|**2025-05-28**|**Evolution analysis of software quality metrics in an open-source java project: A case study on TestNG**|Venkata Sai Sravya Sambaturu et.al.|[2505.22884](http://arxiv.org/abs/2505.22884)|null|
 |**2025-05-28**|**BugWhisperer: Fine-Tuning LLMs for SoC Hardware Vulnerability Detection**|Shams Tarek et.al.|[2505.22878](http://arxiv.org/abs/2505.22878)|null|
 |**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
+|**2025-05-28**|**A Comparative Study of Fuzzers and Static Analysis Tools for Finding Memory Unsafety in C and C++**|Keno Hassler et.al.|[2505.22052](http://arxiv.org/abs/2505.22052)|null|
 |**2025-05-28**|**VulBinLLM: LLM-powered Vulnerability Detection for Stripped Binaries**|Nasir Hussain et.al.|[2505.22010](http://arxiv.org/abs/2505.22010)|null|
+|**2025-05-27**|**Reproducible Builds and Insights from an Independent Verifier for Arch Linux**|Joshua Drexel et.al.|[2505.21642](http://arxiv.org/abs/2505.21642)|null|
+|**2025-05-27**|**Thickness-aware E(3)-Equivariant 3D Mesh Neural Networks**|Sungwon Kim et.al.|[2505.21572](http://arxiv.org/abs/2505.21572)|null|
+|**2025-05-27**|**JavaSith: A Client-Side Framework for Analyzing Potentially Malicious Extensions in Browsers, VS Code, and NPM Packages**|Avihay Cohen et.al.|[2505.21263](http://arxiv.org/abs/2505.21263)|null|
 |**2025-05-27**|**ColorGo: Directed Concolic Execution**|Jia Li et.al.|[2505.21130](http://arxiv.org/abs/2505.21130)|null|
+|**2025-05-27**|**CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building**|Zhengmin Yu et.al.|[2505.21069](http://arxiv.org/abs/2505.21069)|null|
+|**2025-05-27**|**Static Communication Analysis for Hardware Design**|Mads Rosendahl et.al.|[2505.20849](http://arxiv.org/abs/2505.20849)|null|
 |**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|**[link](https://github.com/Jackline97/SV-TrustEval-C)**|
+|**2025-05-26**|**Towards the Automated Extraction and Refactoring of NoSQL Schemas from Application Code**|Carlos J. Fernández-Candel et.al.|[2505.20230](http://arxiv.org/abs/2505.20230)|null|
+|**2025-05-26**|**Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub**|Jafar Akhoundali et.al.|[2505.20186](http://arxiv.org/abs/2505.20186)|null|
+|**2025-05-26**|**Exposing Go's Hidden Bugs: A Novel Concolic Framework**|Karolina Gorna et.al.|[2505.20183](http://arxiv.org/abs/2505.20183)|**[link](https://github.com/ledger-donjon/zorya)**|
+|**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127](http://arxiv.org/abs/2505.20127)|null|
 |**2025-05-26**|**SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection**|Md Basim Uddin Ahmed et.al.|[2505.19828](http://arxiv.org/abs/2505.19828)|**[link](https://github.com/basimbd/secvuleval)**|
 |**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|
 |**2025-05-23**|**Learning to Focus: Context Extraction for Efficient Code Vulnerability Detection with Language Models**|Xinran Zheng et.al.|[2505.17460](http://arxiv.org/abs/2505.17460)|null|
@@ -32,6 +57,8 @@ layout: default
 |**2025-05-22**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
 |**2025-05-21**|**Leveraging Large Language Models for Command Injection Vulnerability Analysis in Python: An Empirical Study on Popular Open-Source Projects**|Yuxuan Wang et.al.|[2505.15088](http://arxiv.org/abs/2505.15088)|null|
 |**2025-05-21**|**An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security**|Haiyang Liu et.al.|[2505.15051](http://arxiv.org/abs/2505.15051)|null|
+|**2025-05-20**|**Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode**|Dingding Wang et.al.|[2505.14437](http://arxiv.org/abs/2505.14437)|null|
+|**2025-05-20**|**Augmented Weak Distance for Fast and Accurate Bounds Checking**|Zhoulai Fu et.al.|[2505.14213](http://arxiv.org/abs/2505.14213)|null|
 |**2025-05-16**|**Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents**|Ratnadira Widyasari et.al.|[2505.10961](http://arxiv.org/abs/2505.10961)|null|
 |**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494](http://arxiv.org/abs/2505.10494)|**[link](https://github.com/murraytom/cov-eval)**|
 |**2025-05-21**|**Are Sparse Autoencoders Useful for Java Function Bug Detection?**|Rui Melo et.al.|[2505.10375](http://arxiv.org/abs/2505.10375)|null|
