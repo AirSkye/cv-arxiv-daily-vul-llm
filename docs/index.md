@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
+|**2025-06-22**|**Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks**|Masudul Hasan Masud Bhuiyan et.al.|[2506.18191](http://arxiv.org/abs/2506.18191)|null|
+|**2025-06-22**|**Build It Clean: Large-Scale Detection of Code Smells in Build Scripts**|Mahzabin Tamanna et.al.|[2506.17948](http://arxiv.org/abs/2506.17948)|null|
+|**2025-06-21**|**SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis**|Wang Lingxiang et.al.|[2506.17798](http://arxiv.org/abs/2506.17798)|null|
+|**2025-06-21**|**PAGENT: Learning to Patch Software Engineering Agents**|Haoran Xue et.al.|[2506.17772](http://arxiv.org/abs/2506.17772)|null|
+|**2025-06-20**|**VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM**|Lesheng Jin et.al.|[2506.17506](http://arxiv.org/abs/2506.17506)|null|
+|**2025-06-19**|**Effects of hadronic reinteraction on jet fragmentation from small to large systems**|Hendrik Roch et.al.|[2506.16344](http://arxiv.org/abs/2506.16344)|null|
+|**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
 |**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|
 |**2025-06-13**|**Freer Arrows and Why You Need Them in Haskell**|Grant VanDomelen et.al.|[2506.12212](http://arxiv.org/abs/2506.12212)|null|
