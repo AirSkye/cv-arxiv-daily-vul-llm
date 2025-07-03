@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909](http://arxiv.org/abs/2506.23909)|null|
+|**2025-06-30**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
+|**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
+|**2025-06-29**|**Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**|Jiayi Zhang et.al.|[2506.23100](http://arxiv.org/abs/2506.23100)|null|
+|**2025-06-29**|**HF-DGF: Hybrid Feedback Guided Directed Grey-box Fuzzing**|Guangfa Lyu et.al.|[2506.23063](http://arxiv.org/abs/2506.23063)|null|
+|**2025-06-28**|**Enhancing Android Malware Detection with Retrieval-Augmented Generation**|Saraga S. et.al.|[2506.22750](http://arxiv.org/abs/2506.22750)|null|
+|**2025-06-27**|**Fingerprinting SDKs for Mobile Apps and Where to Find Them: Understanding the Market for Device Fingerprinting**|Michael A. Specter et.al.|[2506.22639](http://arxiv.org/abs/2506.22639)|null|
 |**2025-06-26**|**Boosting Vulnerability Detection with Inter-function Multilateral Association Insights**|Shaojian Qiu et.al.|[2506.21014](http://arxiv.org/abs/2506.21014)|null|
 |**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
 |**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444](http://arxiv.org/abs/2506.20444)|null|
