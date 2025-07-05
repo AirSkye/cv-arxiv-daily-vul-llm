@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Precisely Detecting Python Type Errors via LLM-based Unit Test Generation**|Chen Yang et.al.|[2507.02318](http://arxiv.org/abs/2507.02318)|null|
+|**2025-07-02**|**ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space**|Yan Long et.al.|[2507.02177](http://arxiv.org/abs/2507.02177)|null|
+|**2025-07-02**|**Ground calibration plan for the Athena/X-IFU microcalorimeter spectrometer**|Alexeï Molin et.al.|[2507.01525](http://arxiv.org/abs/2507.01525)|null|
+|**2025-07-01**|**Bugs in the Shadows: Static Detection of Faulty Python Refactorings**|Jonhnanthan Oliveira et.al.|[2507.01103](http://arxiv.org/abs/2507.01103)|null|
+|**2025-07-01**|**Interplay of prompt and non-prompt photons in photon-triggered jet observables**|Chathuranga Sirimanna et.al.|[2507.00905](http://arxiv.org/abs/2507.00905)|null|
+|**2025-07-01**|**Recommending Variable Names for Extract Local Variable Refactorings**|Taiming Wang et.al.|[2507.00413](http://arxiv.org/abs/2507.00413)|null|
 |**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909](http://arxiv.org/abs/2506.23909)|null|
 |**2025-06-30**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
 |**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
