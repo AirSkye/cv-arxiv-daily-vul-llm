@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
+|**2025-07-04**|**Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators**|Andong Chen et.al.|[2507.03387](http://arxiv.org/abs/2507.03387)|null|
+|**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
 |**2025-07-03**|**Precisely Detecting Python Type Errors via LLM-based Unit Test Generation**|Chen Yang et.al.|[2507.02318](http://arxiv.org/abs/2507.02318)|null|
 |**2025-07-02**|**ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space**|Yan Long et.al.|[2507.02177](http://arxiv.org/abs/2507.02177)|null|
 |**2025-07-02**|**Ground calibration plan for the Athena/X-IFU microcalorimeter spectrometer**|Alexeï Molin et.al.|[2507.01525](http://arxiv.org/abs/2507.01525)|null|
@@ -35,7 +39,7 @@ layout: default
 |**2025-06-21**|**PAGENT: Learning to Patch Software Engineering Agents**|Haoran Xue et.al.|[2506.17772](http://arxiv.org/abs/2506.17772)|null|
 |**2025-06-20**|**VeriLocc: End-to-End Cross-Architecture Register Allocation via LLM**|Lesheng Jin et.al.|[2506.17506](http://arxiv.org/abs/2506.17506)|null|
 |**2025-06-19**|**Effects of hadronic reinteraction on jet fragmentation from small to large systems**|Hendrik Roch et.al.|[2506.16344](http://arxiv.org/abs/2506.16344)|null|
-|**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
+|**2025-07-08**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-18**|**deepSURF: Detecting Memory Safety Vulnerabilities in Rust Through Fuzzing LLM-Augmented Harnesses**|Georgios Androutsopoulos et.al.|[2506.15648](http://arxiv.org/abs/2506.15648)|null|
 |**2025-06-20**|**Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers**|Mohammed Mehedi Hasan et.al.|[2506.13538](http://arxiv.org/abs/2506.13538)|**[link](https://github.com/sailresearch/replication-25-mcp-server-empirical-study)**|
 |**2025-06-13**|**Freer Arrows and Why You Need Them in Haskell**|Grant VanDomelen et.al.|[2506.12212](http://arxiv.org/abs/2506.12212)|null|
