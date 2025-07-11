@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**gigiProfiler: Diagnosing Performance Issues by Uncovering Application Resource Bottlenecks**|Yigong Hu et.al.|[2507.06452](http://arxiv.org/abs/2507.06452)|null|
+|**2025-07-05**|**We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems**|Zhihao Li et.al.|[2507.06250](http://arxiv.org/abs/2507.06250)|null|
+|**2025-07-09**|**Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models**|Igor Regis da Silva Simoes et.al.|[2507.05289](http://arxiv.org/abs/2507.05289)|null|
+|**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
 |**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
 |**2025-07-04**|**Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators**|Andong Chen et.al.|[2507.03387](http://arxiv.org/abs/2507.03387)|null|
 |**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
