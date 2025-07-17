@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
+|**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
+|**2025-07-14**|**Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks**|Emir Bosnak et.al.|[2507.10054](http://arxiv.org/abs/2507.10054)|null|
+|**2025-07-13**|**Is Quantization a Deal-breaker? Empirical Insights from Large Code Models**|Saima Afrin et.al.|[2507.09665](http://arxiv.org/abs/2507.09665)|null|
+|**2025-07-13**|**It Only Gets Worse: Revisiting DL-Based Vulnerability Detectors from a Practical Perspective**|Yunqian Wang et.al.|[2507.09529](http://arxiv.org/abs/2507.09529)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
 |**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|
 |**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
@@ -27,7 +32,7 @@ layout: default
 |**2025-07-01**|**Interplay of prompt and non-prompt photons in photon-triggered jet observables**|Chathuranga Sirimanna et.al.|[2507.00905](http://arxiv.org/abs/2507.00905)|null|
 |**2025-07-01**|**Recommending Variable Names for Extract Local Variable Refactorings**|Taiming Wang et.al.|[2507.00413](http://arxiv.org/abs/2507.00413)|null|
 |**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909](http://arxiv.org/abs/2506.23909)|null|
-|**2025-06-30**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
+|**2025-07-15**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
 |**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
 |**2025-06-29**|**Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**|Jiayi Zhang et.al.|[2506.23100](http://arxiv.org/abs/2506.23100)|null|
 |**2025-06-29**|**HF-DGF: Hybrid Feedback Guided Directed Grey-box Fuzzing**|Guangfa Lyu et.al.|[2506.23063](http://arxiv.org/abs/2506.23063)|null|
