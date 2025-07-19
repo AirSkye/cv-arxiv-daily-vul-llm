@@ -1,4 +1,4 @@
-## Updated on 2025.07.17
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
+|**2025-07-15**|**Rookie Mistakes: Measuring Software Quality in Student Projects to Guide Educational Enhancement**|Marco De Luca et.al.|[2507.12488](http://arxiv.org/abs/2507.12488)|null|
+|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
+|**2025-07-16**|**Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers**|Shaurya Gomber et.al.|[2507.11827](http://arxiv.org/abs/2507.11827)|null|
+|**2025-07-15**|**REST in Pieces: RESTful Design Rule Violations in Student-Built Web Apps**|Sergio Di Meglio et.al.|[2507.11689](http://arxiv.org/abs/2507.11689)|null|
 |**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
 |**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
 |**2025-07-14**|**Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks**|Emir Bosnak et.al.|[2507.10054](http://arxiv.org/abs/2507.10054)|null|
@@ -223,7 +228,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

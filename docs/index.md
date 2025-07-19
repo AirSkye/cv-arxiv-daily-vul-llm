@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
+|**2025-07-15**|**Rookie Mistakes: Measuring Software Quality in Student Projects to Guide Educational Enhancement**|Marco De Luca et.al.|[2507.12488](http://arxiv.org/abs/2507.12488)|null|
+|**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
+|**2025-07-16**|**Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers**|Shaurya Gomber et.al.|[2507.11827](http://arxiv.org/abs/2507.11827)|null|
+|**2025-07-15**|**REST in Pieces: RESTful Design Rule Violations in Student-Built Web Apps**|Sergio Di Meglio et.al.|[2507.11689](http://arxiv.org/abs/2507.11689)|null|
 |**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
 |**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
 |**2025-07-14**|**Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks**|Emir Bosnak et.al.|[2507.10054](http://arxiv.org/abs/2507.10054)|null|
