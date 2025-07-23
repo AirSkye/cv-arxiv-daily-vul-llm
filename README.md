@@ -1,4 +1,4 @@
-## Updated on 2025.07.21
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671](http://arxiv.org/abs/2507.15671)|null|
+|**2025-07-21**|**Formal Analysis of Networked PLC Controllers Interacting with Physical Environments**|Jaeseo Lee et.al.|[2507.15596](http://arxiv.org/abs/2507.15596)|null|
+|**2025-07-20**|**Enhancing Repository-Level Code Generation with Call Chain-Aware Multi-View Context**|Yang Liu et.al.|[2507.14791](http://arxiv.org/abs/2507.14791)|null|
+|**2025-07-19**|**On the Effect of Token Merging on Pre-trained Models for Code**|Mootez Saad et.al.|[2507.14423](http://arxiv.org/abs/2507.14423)|null|
 |**2025-07-17**|**Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense**|Victoria Childress et.al.|[2507.12919](http://arxiv.org/abs/2507.12919)|null|
 |**2025-07-15**|**Rookie Mistakes: Measuring Software Quality in Student Projects to Guide Educational Enhancement**|Marco De Luca et.al.|[2507.12488](http://arxiv.org/abs/2507.12488)|null|
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
@@ -29,7 +34,7 @@
 |**2025-07-05**|**We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems**|Zhihao Li et.al.|[2507.06250](http://arxiv.org/abs/2507.06250)|null|
 |**2025-07-09**|**Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models**|Igor Regis da Silva Simoes et.al.|[2507.05289](http://arxiv.org/abs/2507.05289)|null|
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
-|**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
+|**2025-07-22**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Atefeh Zareh Chahoki et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
 |**2025-07-04**|**Breaking the Bulkhead: Demystifying Cross-Namespace Reference Vulnerabilities in Kubernetes Operators**|Andong Chen et.al.|[2507.03387](http://arxiv.org/abs/2507.03387)|null|
 |**2025-07-03**|**Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization**|Marco Simoni et.al.|[2507.03051](http://arxiv.org/abs/2507.03051)|null|
 |**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
@@ -40,7 +45,7 @@
 |**2025-07-01**|**Interplay of prompt and non-prompt photons in photon-triggered jet observables**|Chathuranga Sirimanna et.al.|[2507.00905](http://arxiv.org/abs/2507.00905)|null|
 |**2025-07-01**|**Recommending Variable Names for Extract Local Variable Refactorings**|Taiming Wang et.al.|[2507.00413](http://arxiv.org/abs/2507.00413)|null|
 |**2025-06-30**|**RawMal-TF: Raw Malware Dataset Labeled by Type and Family**|David Bálik et.al.|[2506.23909](http://arxiv.org/abs/2506.23909)|null|
-|**2025-07-15**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
+|**2025-07-19**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
 |**2025-06-30**|**Improving vulnerability type prediction and line-level detection via adversarial training-based data augmentation and multi-task learning**|Siyu Chen et.al.|[2506.23534](http://arxiv.org/abs/2506.23534)|null|
 |**2025-06-29**|**Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**|Jiayi Zhang et.al.|[2506.23100](http://arxiv.org/abs/2506.23100)|null|
 |**2025-06-29**|**HF-DGF: Hybrid Feedback Guided Directed Grey-box Fuzzing**|Guangfa Lyu et.al.|[2506.23063](http://arxiv.org/abs/2506.23063)|null|
@@ -228,7 +233,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
