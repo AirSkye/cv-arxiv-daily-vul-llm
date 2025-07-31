@@ -27,6 +27,6 @@ keywords:
     "LLMVulData":
         filters: ["Code Vulnerability Detection data LLM"]
     "VulDetect":
-        filters: ["Vulnerability Detect","Static analysis","Static code analysis","taint analysis","Data flow analysis","Code audit","codeql","joern"]
+        filters: ["Vulnerability Detect","Static analysis","Static code analysis","taint analysis","Data flow analysis","Code audit","codeql","joern","Code Graph"]
     "FirmwareVulDetect":
         filters: ["firmware vulnerability detect"]
