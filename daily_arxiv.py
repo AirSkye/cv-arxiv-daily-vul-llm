@@ -128,8 +128,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         # r = requests.get(code_url).json()
         r = None
         repo_url = None
-        if "official" in r and r["official"]:
-            repo_url = r["official"]["url"]
+        # if "official" in r and r["official"]:
+        #     repo_url = r["official"]["url"]
         # TODO: not found, two more chances
         # else:
         #    repo_url = get_code_link(paper_title)
@@ -203,12 +203,12 @@ def update_paper_links(filename):
                 # r = requests.get(code_url).json()
                 r = None
                 repo_url = None
-                if "official" in r and r["official"]:
-                    repo_url = r["official"]["url"]
-                    if repo_url is not None:
-                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                        json_data[keywords][paper_id] = str(new_cont)
+                # if "official" in r and r["official"]:
+                #     repo_url = r["official"]["url"]
+                #     if repo_url is not None:
+                #         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                #         logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                #         json_data[keywords][paper_id] = str(new_cont)
 
                 # except Exception as e:
                 #     logging.error(f"exception: {e} with id: {paper_id}")
