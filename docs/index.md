@@ -9,6 +9,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-01**|**LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks**|Francesco Panebianco et.al.|[2508.00602](http://arxiv.org/abs/2508.00602)|null|
+|**2025-08-01**|**Desyan: A Platform for Seamless Value-Flow and Symbolic Analysis**|Panagiotis Diamantakis et.al.|[2508.00508](http://arxiv.org/abs/2508.00508)|null|
+|**2025-08-01**|**Automated Type Annotation in Python Using Large Language Models**|Varun Bharti et.al.|[2508.00422](http://arxiv.org/abs/2508.00422)|null|
+|**2025-07-31**|**SHACL Validation under Graph Updates (Extended Paper)**|Shqiponja Ahmetaj et.al.|[2508.00137](http://arxiv.org/abs/2508.00137)|null|
+|**2025-07-31**|**Fast prediction of the hydrodynamic QGP evolution in ultra-relativistic heavy-ion collisions using Fourier Neural Operators**|David Stewart et.al.|[2507.23598](http://arxiv.org/abs/2507.23598)|null|
+|**2025-07-31**|**Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures**|Daphné Larrivain et.al.|[2507.23425](http://arxiv.org/abs/2507.23425)|null|
+|**2025-07-30**|**A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models**|Sabrina Kaniewski et.al.|[2507.22659](http://arxiv.org/abs/2507.22659)|null|
+|**2025-07-30**|**Breaking Obfuscation: Cluster-Aware Graph with LLM-Aided Recovery for Malicious JavaScript Detection**|Zhihong Liang et.al.|[2507.22447](http://arxiv.org/abs/2507.22447)|null|
+|**2025-07-30**|**AutoCodeSherpa: Symbolic Explanations in AI Coding Agents**|Sungmin Kang et.al.|[2507.22414](http://arxiv.org/abs/2507.22414)|null|
+|**2025-07-30**|**SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2507.22371](http://arxiv.org/abs/2507.22371)|null|
+|**2025-07-29**|**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**|Yikun Li et.al.|[2507.21817](http://arxiv.org/abs/2507.21817)|null|
+|**2025-07-29**|**Fixed-Point-Oriented Programming: A Concise and Elegant Paradigm**|Yong Qi Foo et.al.|[2507.21439](http://arxiv.org/abs/2507.21439)|null|
+|**2025-07-28**|**LLM-Based Repair of Static Nullability Errors**|Nima Karimipour et.al.|[2507.20674](http://arxiv.org/abs/2507.20674)|null|
+|**2025-07-28**|**Program Analysis for High-Value Smart Contract Vulnerabilities: Techniques and Insights**|Yannis Smaragdakis et.al.|[2507.20672](http://arxiv.org/abs/2507.20672)|null|
+|**2025-07-27**|**Measuring and Explaining the Effects of Android App Transformations in Online Malware Detection**|Guozhu Meng et.al.|[2507.20361](http://arxiv.org/abs/2507.20361)|null|
+|**2025-07-26**|**The Effect of Pointer Analysis on Semantic Conflict Detection**|Matheus Barbosa et.al.|[2507.20081](http://arxiv.org/abs/2507.20081)|null|
+|**2025-07-25**|**Existence of Strong Randomized Equilibria in Mean-Field Games of Optimal Stopping with Common Noise**|Giorgio Ferrari et.al.|[2507.19123](http://arxiv.org/abs/2507.19123)|null|
+|**2025-07-31**|**Automated Code Review Using Large Language Models at Ericsson: An Experience Report**|Shweta Ramesh et.al.|[2507.19115](http://arxiv.org/abs/2507.19115)|null|
+|**2025-07-24**|**Resolving Indirect Calls in Binary Code via Cross-Reference Augmented Graph Neural Networks**|Haotian Zhang et.al.|[2507.18801](http://arxiv.org/abs/2507.18801)|null|
+|**2025-07-24**|**Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback**|Chandra Maddila et.al.|[2507.18755](http://arxiv.org/abs/2507.18755)|null|
+|**2025-07-24**|**YATE: The Role of Test Repair in LLM-Based Unit Test Generation**|Michael Konstantinou et.al.|[2507.18316](http://arxiv.org/abs/2507.18316)|null|
+|**2025-07-24**|**Information Security Based on LLM Approaches: A Review**|Chang Gong et.al.|[2507.18215](http://arxiv.org/abs/2507.18215)|null|
+|**2025-07-23**|**CASCADE: LLM-Powered JavaScript Deobfuscator at Google**|Shan Jiang et.al.|[2507.17691](http://arxiv.org/abs/2507.17691)|null|
+|**2025-07-23**|**Roseau: Fast, Accurate, Source-based API Breaking Change Analysis in Java**|Corentin Latappy et.al.|[2507.17369](http://arxiv.org/abs/2507.17369)|null|
+|**2025-07-22**|**Revisiting Pre-trained Language Models for Vulnerability Detection**|Youpeng Li et.al.|[2507.16887](http://arxiv.org/abs/2507.16887)|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
+|**2025-07-22**|**Meta-Learning for Cold-Start Personalization in Prompt-Tuned LLMs**|Yushang Zhao et.al.|[2507.16672](http://arxiv.org/abs/2507.16672)|null|
+|**2025-07-22**|**From Profiling to Optimization: Unveiling the Profile Guided Optimization**|Bingxin Liu et.al.|[2507.16649](http://arxiv.org/abs/2507.16649)|null|
+|**2025-07-22**|**LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models**|Ahmed Lekssays et.al.|[2507.16585](http://arxiv.org/abs/2507.16585)|null|
+|**2025-07-22**|**Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks**|Radowanul Haque et.al.|[2507.16540](http://arxiv.org/abs/2507.16540)|null|
 |**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
 |**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671](http://arxiv.org/abs/2507.15671)|null|
 |**2025-07-21**|**Formal Analysis of Networked PLC Controllers Interacting with Physical Environments**|Jaeseo Lee et.al.|[2507.15596](http://arxiv.org/abs/2507.15596)|null|
@@ -21,10 +51,10 @@ layout: default
 |**2025-07-15**|**REST in Pieces: RESTful Design Rule Violations in Student-Built Web Apps**|Sergio Di Meglio et.al.|[2507.11689](http://arxiv.org/abs/2507.11689)|null|
 |**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
 |**2025-07-15**|**MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning**|Jugal Gajjar et.al.|[2507.10898](http://arxiv.org/abs/2507.10898)|null|
-|**2025-07-14**|**Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks**|Emir Bosnak et.al.|[2507.10054](http://arxiv.org/abs/2507.10054)|null|
+|**2025-07-23**|**Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks**|Emir Bosnak et.al.|[2507.10054](http://arxiv.org/abs/2507.10054)|null|
 |**2025-07-13**|**Is Quantization a Deal-breaker? Empirical Insights from Large Code Models**|Saima Afrin et.al.|[2507.09665](http://arxiv.org/abs/2507.09665)|null|
 |**2025-07-13**|**It Only Gets Worse: Revisiting DL-Based Vulnerability Detectors from a Practical Perspective**|Yunqian Wang et.al.|[2507.09529](http://arxiv.org/abs/2507.09529)|null|
-|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
+|**2025-07-31**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
 |**2025-07-10**|**Autonomous AI-based Cybersecurity Framework for Critical Infrastructure: Real-Time Threat Mitigation**|Jenifer Paulraj et.al.|[2507.07416](http://arxiv.org/abs/2507.07416)|null|
 |**2025-07-09**|**Disa: Accurate Learning-based Static Disassembly with Attentions**|Peicheng Wang et.al.|[2507.07246](http://arxiv.org/abs/2507.07246)|null|
 |**2025-07-08**|**gigiProfiler: Diagnosing Performance Issues by Uncovering Application Resource Bottlenecks**|Yigong Hu et.al.|[2507.06452](http://arxiv.org/abs/2507.06452)|null|
