@@ -125,7 +125,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
+            # r = requests.get(code_url).json()
+            r = None
             repo_url = None
             if "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
@@ -199,7 +200,8 @@ def update_paper_links(filename):
                     continue
                 try:
                     code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    # r = requests.get(code_url).json()
+                    r = None
                     repo_url = None
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
