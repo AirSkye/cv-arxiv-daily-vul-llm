@@ -2,19 +2,32 @@
 layout: default
 ---
 
-## Updated on 2025.08.05
+## Updated on 2025.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-05**|**MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection**|Zhaoyi Meng et.al.|[2508.03588](http://arxiv.org/abs/2508.03588)|null|
+|**2025-08-05**|**BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice**|Yuanpeng Li et.al.|[2508.03487](http://arxiv.org/abs/2508.03487)|null|
+|**2025-08-04**|**Automated Code Repair for C/C++ Static Analysis Alerts**|David Svoboda et.al.|[2508.02820](http://arxiv.org/abs/2508.02820)|null|
+|**2025-08-04**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
+|**2025-08-04**|**Automatic Identification of Machine Learning-Specific Code Smells**|Peter Hamfelt et.al.|[2508.02541](http://arxiv.org/abs/2508.02541)|null|
+|**2025-08-04**|**TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs**|Daniele Cipollone et.al.|[2508.02455](http://arxiv.org/abs/2508.02455)|null|
+|**2025-08-04**|**Flow Sensitivity without Control Flow Graph: An Efficient Andersen-Style Flow-Sensitive Pointer Analysis**|Jiahao Zhang et.al.|[2508.01974](http://arxiv.org/abs/2508.01974)|null|
+|**2025-08-03**|**JSidentify-V2: Leveraging Dynamic Memory Fingerprinting for Mini-Game Plagiarism Detection**|Zhihao Li et.al.|[2508.01655](http://arxiv.org/abs/2508.01655)|null|
+|**2025-08-02**|**Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models**|Mohammed Sayagh et.al.|[2508.01451](http://arxiv.org/abs/2508.01451)|null|
+|**2025-08-02**|**NATLM: Detecting Defects in NFT Smart Contracts Leveraging LLM**|Yuanzheng Niu et.al.|[2508.01351](http://arxiv.org/abs/2508.01351)|null|
+|**2025-08-02**|**MultiCFV: Detecting Control Flow Vulnerabilities in Smart Contracts Leveraging Multimodal Deep Learning**|Hongli Peng et.al.|[2508.01346](http://arxiv.org/abs/2508.01346)|null|
+|**2025-08-02**|**UEChecker: Detecting Unchecked External Call Vulnerabilities in DApps via Graph Analysis**|Dechao Kong et.al.|[2508.01343](http://arxiv.org/abs/2508.01343)|null|
+|**2025-08-02**|**Screencast-Based Analysis of User-Perceived GUI Responsiveness**|Wei Liu et.al.|[2508.01337](http://arxiv.org/abs/2508.01337)|null|
 |**2025-08-01**|**LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks**|Francesco Panebianco et.al.|[2508.00602](http://arxiv.org/abs/2508.00602)|null|
 |**2025-08-01**|**Desyan: A Platform for Seamless Value-Flow and Symbolic Analysis**|Panagiotis Diamantakis et.al.|[2508.00508](http://arxiv.org/abs/2508.00508)|null|
 |**2025-08-01**|**Automated Type Annotation in Python Using Large Language Models**|Varun Bharti et.al.|[2508.00422](http://arxiv.org/abs/2508.00422)|null|
 |**2025-07-31**|**SHACL Validation under Graph Updates (Extended Paper)**|Shqiponja Ahmetaj et.al.|[2508.00137](http://arxiv.org/abs/2508.00137)|null|
 |**2025-07-31**|**Fast prediction of the hydrodynamic QGP evolution in ultra-relativistic heavy-ion collisions using Fourier Neural Operators**|David Stewart et.al.|[2507.23598](http://arxiv.org/abs/2507.23598)|null|
-|**2025-07-31**|**Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures**|Daphné Larrivain et.al.|[2507.23425](http://arxiv.org/abs/2507.23425)|null|
+|**2025-08-05**|**Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures**|Daphné Larrivain et.al.|[2507.23425](http://arxiv.org/abs/2507.23425)|null|
 |**2025-07-30**|**A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models**|Sabrina Kaniewski et.al.|[2507.22659](http://arxiv.org/abs/2507.22659)|null|
 |**2025-07-30**|**Breaking Obfuscation: Cluster-Aware Graph with LLM-Aided Recovery for Malicious JavaScript Detection**|Zhihong Liang et.al.|[2507.22447](http://arxiv.org/abs/2507.22447)|null|
 |**2025-07-30**|**AutoCodeSherpa: Symbolic Explanations in AI Coding Agents**|Sungmin Kang et.al.|[2507.22414](http://arxiv.org/abs/2507.22414)|null|
