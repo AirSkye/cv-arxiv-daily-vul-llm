@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.08.07
+## Updated on 2025.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-06**|**Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection**|Damian Gnieciak et.al.|[2508.04448](http://arxiv.org/abs/2508.04448)|null|
+|**2025-08-06**|**EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation**|Chaofan Wang et.al.|[2508.04295](http://arxiv.org/abs/2508.04295)|null|
+|**2025-08-06**|**Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation**|Teng Shi et.al.|[2508.04145](http://arxiv.org/abs/2508.04145)|null|
+|**2025-08-06**|**Raqlet: Cross-Paradigm Compilation for Recursive Queries**|Amir Shaikhha et.al.|[2508.03978](http://arxiv.org/abs/2508.03978)|null|
 |**2025-08-05**|**MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection**|Zhaoyi Meng et.al.|[2508.03588](http://arxiv.org/abs/2508.03588)|null|
 |**2025-08-05**|**BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice**|Yuanpeng Li et.al.|[2508.03487](http://arxiv.org/abs/2508.03487)|null|
 |**2025-08-04**|**Automated Code Repair for C/C++ Static Analysis Alerts**|David Svoboda et.al.|[2508.02820](http://arxiv.org/abs/2508.02820)|null|
