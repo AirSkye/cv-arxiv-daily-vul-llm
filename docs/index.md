@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.09
+## Updated on 2025.08.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
@@ -16,7 +16,7 @@ layout: default
 |**2025-08-05**|**MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection**|Zhaoyi Meng et.al.|[2508.03588](http://arxiv.org/abs/2508.03588)|null|
 |**2025-08-05**|**BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice**|Yuanpeng Li et.al.|[2508.03487](http://arxiv.org/abs/2508.03487)|null|
 |**2025-08-04**|**Automated Code Repair for C/C++ Static Analysis Alerts**|David Svoboda et.al.|[2508.02820](http://arxiv.org/abs/2508.02820)|null|
-|**2025-08-04**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
+|**2025-08-08**|**Web3 x AI Agents: Landscape, Integrations, and Foundational Challenges**|Yiming Shen et.al.|[2508.02773](http://arxiv.org/abs/2508.02773)|null|
 |**2025-08-04**|**Automatic Identification of Machine Learning-Specific Code Smells**|Peter Hamfelt et.al.|[2508.02541](http://arxiv.org/abs/2508.02541)|null|
 |**2025-08-04**|**TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs**|Daniele Cipollone et.al.|[2508.02455](http://arxiv.org/abs/2508.02455)|null|
 |**2025-08-04**|**Flow Sensitivity without Control Flow Graph: An Efficient Andersen-Style Flow-Sensitive Pointer Analysis**|Jiahao Zhang et.al.|[2508.01974](http://arxiv.org/abs/2508.01974)|null|
