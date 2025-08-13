@@ -1,4 +1,4 @@
-## Updated on 2025.08.11
+## Updated on 2025.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-10**|**TraceLens: Question-Driven Debugging for Taint Flow Understanding**|Burak Yetiştiren et.al.|[2508.07198](http://arxiv.org/abs/2508.07198)|null|
+|**2025-08-12**|**ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts**|Pasquale De Rosa et.al.|[2508.07094](http://arxiv.org/abs/2508.07094)|null|
+|**2025-08-09**|**When Prompt Engineering Meets Software Engineering: CNL-P as Natural and Robust "APIs'' for Human-AI Interaction**|Zhenchang Xing et.al.|[2508.06942](http://arxiv.org/abs/2508.06942)|null|
+|**2025-08-08**|**Position: Intelligent Coding Systems Should Write Programs with Justifications**|Xiangzhe Xu et.al.|[2508.06017](http://arxiv.org/abs/2508.06017)|null|
+|**2025-08-08**|**Enhancing Software Vulnerability Detection Through Adaptive Test Input Generation Using Genetic Algorithm**|Yanusha Mehendran et.al.|[2508.05923](http://arxiv.org/abs/2508.05923)|null|
 |**2025-08-06**|**Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection**|Damian Gnieciak et.al.|[2508.04448](http://arxiv.org/abs/2508.04448)|null|
 |**2025-08-06**|**EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation**|Chaofan Wang et.al.|[2508.04295](http://arxiv.org/abs/2508.04295)|null|
 |**2025-08-06**|**Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation**|Teng Shi et.al.|[2508.04145](http://arxiv.org/abs/2508.04145)|null|
@@ -280,7 +285,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250813>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
