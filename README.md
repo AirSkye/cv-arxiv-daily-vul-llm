@@ -1,4 +1,4 @@
-## Updated on 2025.08.13
+## Updated on 2025.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-13**|**Security Analysis of ChatGPT: Threats and Privacy Risks**|Yushan Xiang et.al.|[2508.09426](http://arxiv.org/abs/2508.09426)|null|
+|**2025-08-12**|**Teaching Code Refactoring Using LLMs**|Anshul Khairnar et.al.|[2508.09332](http://arxiv.org/abs/2508.09332)|null|
 |**2025-08-10**|**TraceLens: Question-Driven Debugging for Taint Flow Understanding**|Burak Yetiştiren et.al.|[2508.07198](http://arxiv.org/abs/2508.07198)|null|
 |**2025-08-12**|**ScamDetect: Towards a Robust, Agnostic Framework to Uncover Threats in Smart Contracts**|Pasquale De Rosa et.al.|[2508.07094](http://arxiv.org/abs/2508.07094)|null|
 |**2025-08-09**|**When Prompt Engineering Meets Software Engineering: CNL-P as Natural and Robust "APIs'' for Human-AI Interaction**|Zhenchang Xing et.al.|[2508.06942](http://arxiv.org/abs/2508.06942)|null|
@@ -44,7 +46,7 @@
 |**2025-07-30**|**Breaking Obfuscation: Cluster-Aware Graph with LLM-Aided Recovery for Malicious JavaScript Detection**|Zhihong Liang et.al.|[2507.22447](http://arxiv.org/abs/2507.22447)|null|
 |**2025-07-30**|**AutoCodeSherpa: Symbolic Explanations in AI Coding Agents**|Sungmin Kang et.al.|[2507.22414](http://arxiv.org/abs/2507.22414)|null|
 |**2025-07-30**|**SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2507.22371](http://arxiv.org/abs/2507.22371)|null|
-|**2025-07-29**|**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**|Yikun Li et.al.|[2507.21817](http://arxiv.org/abs/2507.21817)|null|
+|**2025-08-14**|**Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?**|Yikun Li et.al.|[2507.21817](http://arxiv.org/abs/2507.21817)|null|
 |**2025-07-29**|**Fixed-Point-Oriented Programming: A Concise and Elegant Paradigm**|Yong Qi Foo et.al.|[2507.21439](http://arxiv.org/abs/2507.21439)|null|
 |**2025-07-28**|**LLM-Based Repair of Static Nullability Errors**|Nima Karimipour et.al.|[2507.20674](http://arxiv.org/abs/2507.20674)|null|
 |**2025-07-28**|**Program Analysis for High-Value Smart Contract Vulnerabilities: Techniques and Insights**|Yannis Smaragdakis et.al.|[2507.20672](http://arxiv.org/abs/2507.20672)|null|
@@ -285,7 +287,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
