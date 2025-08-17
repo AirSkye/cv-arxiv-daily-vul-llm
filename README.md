@@ -1,4 +1,4 @@
-## Updated on 2025.08.15
+## Updated on 2025.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-12**|**Approximating Entanglement Based on Abstract Interpretation**|Aske Nord Raahauge et.al.|[2508.10056](http://arxiv.org/abs/2508.10056)|null|
 |**2025-08-13**|**Security Analysis of ChatGPT: Threats and Privacy Risks**|Yushan Xiang et.al.|[2508.09426](http://arxiv.org/abs/2508.09426)|null|
 |**2025-08-12**|**Teaching Code Refactoring Using LLMs**|Anshul Khairnar et.al.|[2508.09332](http://arxiv.org/abs/2508.09332)|null|
 |**2025-08-10**|**TraceLens: Question-Driven Debugging for Taint Flow Understanding**|Burak Yetiştiren et.al.|[2508.07198](http://arxiv.org/abs/2508.07198)|null|
@@ -287,7 +288,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
