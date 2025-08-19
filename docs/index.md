@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.08.18
+## Updated on 2025.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-15**|**CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection**|Zhihao Li et.al.|[2508.11599](http://arxiv.org/abs/2508.11599)|null|
 |**2025-08-12**|**Approximating Entanglement Based on Abstract Interpretation**|Aske Nord Raahauge et.al.|[2508.10056](http://arxiv.org/abs/2508.10056)|null|
 |**2025-08-13**|**Security Analysis of ChatGPT: Threats and Privacy Risks**|Yushan Xiang et.al.|[2508.09426](http://arxiv.org/abs/2508.09426)|null|
 |**2025-08-12**|**Teaching Code Refactoring Using LLMs**|Anshul Khairnar et.al.|[2508.09332](http://arxiv.org/abs/2508.09332)|null|
