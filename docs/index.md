@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.08.19
+## Updated on 2025.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-19**|**VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in Verilog**|Xiang Long et.al.|[2508.13092](http://arxiv.org/abs/2508.13092)|null|
+|**2025-08-14**|**Enhancing GraphQL Security by Detecting Malicious Queries Using Large Language Models, Sentence Transformers, and Convolutional Neural Networks**|Irash Perera et.al.|[2508.11711](http://arxiv.org/abs/2508.11711)|null|
+|**2025-08-14**|**Code Vulnerability Detection Across Different Programming Languages with AI Models**|Hael Abdulhakim Ali Humran et.al.|[2508.11710](http://arxiv.org/abs/2508.11710)|null|
 |**2025-08-15**|**CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection**|Zhihao Li et.al.|[2508.11599](http://arxiv.org/abs/2508.11599)|null|
 |**2025-08-12**|**Approximating Entanglement Based on Abstract Interpretation**|Aske Nord Raahauge et.al.|[2508.10056](http://arxiv.org/abs/2508.10056)|null|
 |**2025-08-13**|**Security Analysis of ChatGPT: Threats and Privacy Risks**|Yushan Xiang et.al.|[2508.09426](http://arxiv.org/abs/2508.09426)|null|
