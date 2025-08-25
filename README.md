@@ -1,4 +1,4 @@
-## Updated on 2025.08.21
+## Updated on 2025.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-19**|**VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in Verilog**|Xiang Long et.al.|[2508.13092](http://arxiv.org/abs/2508.13092)|null|
+|**2025-08-21**|**Probabilistic Inference for Datalog with Correlated Inputs**|Jingbo Wang et.al.|[2508.15166](http://arxiv.org/abs/2508.15166)|null|
+|**2025-08-22**|**Software Model Checking via Summary-Guided Search (Extended Version)**|Ruijie Fang et.al.|[2508.15137](http://arxiv.org/abs/2508.15137)|null|
+|**2025-08-21**|**On the need to perform comprehensive evaluations of automated program repair benchmarks: Sorald case study**|Sumudu Liyanage et.al.|[2508.15135](http://arxiv.org/abs/2508.15135)|null|
+|**2025-08-20**|**When Machine Learning Meets Vulnerability Discovery: Challenges and Lessons Learned**|Sima Arasteh et.al.|[2508.15042](http://arxiv.org/abs/2508.15042)|null|
+|**2025-08-20**|**TOAST: Fast and scalable auto-partitioning based on principled static analysis**|Sami Alabed et.al.|[2508.15010](http://arxiv.org/abs/2508.15010)|null|
+|**2025-08-20**|**Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis**|Abbas Sabra et.al.|[2508.14727](http://arxiv.org/abs/2508.14727)|null|
+|**2025-08-20**|**Preguss: It Analyzes, It Specifies, It Verifies**|Zhongyi Wang et.al.|[2508.14532](http://arxiv.org/abs/2508.14532)|null|
+|**2025-08-20**|**Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness**|Scott Blyth et.al.|[2508.14419](http://arxiv.org/abs/2508.14419)|null|
+|**2025-08-19**|**SaMOSA: Sandbox for Malware Orchestration and Side-Channel Analysis**|Meet Udeshi et.al.|[2508.14261](http://arxiv.org/abs/2508.14261)|null|
+|**2025-08-21**|**VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in Verilog**|Xiang Long et.al.|[2508.13092](http://arxiv.org/abs/2508.13092)|null|
 |**2025-08-14**|**Enhancing GraphQL Security by Detecting Malicious Queries Using Large Language Models, Sentence Transformers, and Convolutional Neural Networks**|Irash Perera et.al.|[2508.11711](http://arxiv.org/abs/2508.11711)|null|
 |**2025-08-14**|**Code Vulnerability Detection Across Different Programming Languages with AI Models**|Hael Abdulhakim Ali Humran et.al.|[2508.11710](http://arxiv.org/abs/2508.11710)|null|
 |**2025-08-15**|**CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection**|Zhihao Li et.al.|[2508.11599](http://arxiv.org/abs/2508.11599)|null|
@@ -292,7 +301,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
