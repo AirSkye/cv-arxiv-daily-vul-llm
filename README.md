@@ -1,4 +1,4 @@
-## Updated on 2025.08.25
+## Updated on 2025.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,11 +12,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-25**|**MoveScanner: Analysis of Security Risks of Move Smart Contracts**|Yuhe Lu et.al.|[2508.17964](http://arxiv.org/abs/2508.17964)|null|
+|**2025-08-24**|**Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational AI Agents**|Sameer Komoravolu et.al.|[2508.17393](http://arxiv.org/abs/2508.17393)|null|
+|**2025-08-24**|**Trust Me, I Know This Function: Hijacking LLM Static Analysis using Bias**|Shir Bernstein et.al.|[2508.17361](http://arxiv.org/abs/2508.17361)|null|
+|**2025-08-14**|**Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection**|Rijha Safdar et.al.|[2508.16625](http://arxiv.org/abs/2508.16625)|null|
+|**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419](http://arxiv.org/abs/2508.16419)|null|
+|**2025-08-22**|**On the nature and charge state of the X-Defect, a radiation-induced Silicon defect with field-enhanced charge carrier emission**|Niels Sorgenfrei et.al.|[2508.16197](http://arxiv.org/abs/2508.16197)|null|
 |**2025-08-21**|**Probabilistic Inference for Datalog with Correlated Inputs**|Jingbo Wang et.al.|[2508.15166](http://arxiv.org/abs/2508.15166)|null|
 |**2025-08-22**|**Software Model Checking via Summary-Guided Search (Extended Version)**|Ruijie Fang et.al.|[2508.15137](http://arxiv.org/abs/2508.15137)|null|
 |**2025-08-21**|**On the need to perform comprehensive evaluations of automated program repair benchmarks: Sorald case study**|Sumudu Liyanage et.al.|[2508.15135](http://arxiv.org/abs/2508.15135)|null|
 |**2025-08-20**|**When Machine Learning Meets Vulnerability Discovery: Challenges and Lessons Learned**|Sima Arasteh et.al.|[2508.15042](http://arxiv.org/abs/2508.15042)|null|
-|**2025-08-20**|**TOAST: Fast and scalable auto-partitioning based on principled static analysis**|Sami Alabed et.al.|[2508.15010](http://arxiv.org/abs/2508.15010)|null|
+|**2025-08-22**|**TOAST: Fast and scalable auto-partitioning based on principled static analysis**|Sami Alabed et.al.|[2508.15010](http://arxiv.org/abs/2508.15010)|null|
 |**2025-08-20**|**Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis**|Abbas Sabra et.al.|[2508.14727](http://arxiv.org/abs/2508.14727)|null|
 |**2025-08-20**|**Preguss: It Analyzes, It Specifies, It Verifies**|Zhongyi Wang et.al.|[2508.14532](http://arxiv.org/abs/2508.14532)|null|
 |**2025-08-20**|**Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness**|Scott Blyth et.al.|[2508.14419](http://arxiv.org/abs/2508.14419)|null|
@@ -301,7 +307,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
