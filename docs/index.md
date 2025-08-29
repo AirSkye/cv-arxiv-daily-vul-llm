@@ -2,14 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.08.27
+## Updated on 2025.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-25**|**MoveScanner: Analysis of Security Risks of Move Smart Contracts**|Yuhe Lu et.al.|[2508.17964](http://arxiv.org/abs/2508.17964)|null|
+|**2025-08-26**|**SIExVulTS: Sensitive Information Exposure Vulnerability Detection System using Transformer Models and Static Analysis**|Kyler Katz et.al.|[2508.19472](http://arxiv.org/abs/2508.19472)|null|
+|**2025-08-26**|**Automated Feature Tracking for Real-Time Kinematic Analysis and Shape Estimation of Carbon Nanotube Growth**|Kaveh Safavigerdini et.al.|[2508.19232](http://arxiv.org/abs/2508.19232)|null|
+|**2025-08-26**|**VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation**|David Egea et.al.|[2508.18933](http://arxiv.org/abs/2508.18933)|null|
+|**2025-08-26**|**Dealing with SonarQube Cloud: Initial Results from a Mining Software Repository Study**|Sabato Nocera et.al.|[2508.18816](http://arxiv.org/abs/2508.18816)|null|
+|**2025-08-26**|**Natural Image Classification via Quasi-Cyclic Graph Ensembles and Random-Bond Ising Models at the Nishimori Temperature**|V. S. Usatyuk et.al.|[2508.18717](http://arxiv.org/abs/2508.18717)|null|
+|**2025-08-27**|**MoveScanner: Analysis of Security Risks of Move Smart Contracts**|Yuhe Luo et.al.|[2508.17964](http://arxiv.org/abs/2508.17964)|null|
 |**2025-08-24**|**Agent-Testing Agent: A Meta-Agent for Automated Testing and Evaluation of Conversational AI Agents**|Sameer Komoravolu et.al.|[2508.17393](http://arxiv.org/abs/2508.17393)|null|
 |**2025-08-24**|**Trust Me, I Know This Function: Hijacking LLM Static Analysis using Bias**|Shir Bernstein et.al.|[2508.17361](http://arxiv.org/abs/2508.17361)|null|
 |**2025-08-14**|**Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection**|Rijha Safdar et.al.|[2508.16625](http://arxiv.org/abs/2508.16625)|null|
