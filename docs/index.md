@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-28**|**ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging**|Shiwen Shan et.al.|[2508.20977](http://arxiv.org/abs/2508.20977)|null|
+|**2025-08-29**|**ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging**|Shiwen Shan et.al.|[2508.20977](http://arxiv.org/abs/2508.20977)|null|
 |**2025-08-28**|**Static Factorisation of Probabilistic Programs With User-Labelled Sample Statements and While Loops**|Markus Böck et.al.|[2508.20922](http://arxiv.org/abs/2508.20922)|null|
 |**2025-08-28**|**AI Agentic Vulnerability Injection And Transformation with Optimized Reasoning**|Amine Lbath et.al.|[2508.20866](http://arxiv.org/abs/2508.20866)|null|
 |**2025-08-26**|**SIExVulTS: Sensitive Information Exposure Vulnerability Detection System using Transformer Models and Static Analysis**|Kyler Katz et.al.|[2508.19472](http://arxiv.org/abs/2508.19472)|null|
