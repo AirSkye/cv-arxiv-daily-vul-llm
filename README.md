@@ -1,4 +1,4 @@
-## Updated on 2025.09.01
+## Updated on 2025.09.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-29**|**Detecting Stealthy Data Poisoning Attacks in AI Code Generators**|Cristina Improta et.al.|[2508.21636](http://arxiv.org/abs/2508.21636)|null|
+|**2025-08-29**|**Agentic Discovery and Validation of Android App Vulnerabilities**|Ziyue Wang et.al.|[2508.21579](http://arxiv.org/abs/2508.21579)|null|
+|**2025-08-29**|**SIRA: Scaled-Integer Range Analysis for Optimizing FPGA Dataflow Neural Network Accelerators**|Yaman Umuroglu et.al.|[2508.21493](http://arxiv.org/abs/2508.21493)|null|
 |**2025-08-29**|**ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging**|Shiwen Shan et.al.|[2508.20977](http://arxiv.org/abs/2508.20977)|null|
 |**2025-08-28**|**Static Factorisation of Probabilistic Programs With User-Labelled Sample Statements and While Loops**|Markus Böck et.al.|[2508.20922](http://arxiv.org/abs/2508.20922)|null|
 |**2025-08-28**|**AI Agentic Vulnerability Injection And Transformation with Optimized Reasoning**|Amine Lbath et.al.|[2508.20866](http://arxiv.org/abs/2508.20866)|null|
@@ -315,7 +318,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
