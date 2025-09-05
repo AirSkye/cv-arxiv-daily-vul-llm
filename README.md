@@ -1,4 +1,4 @@
-## Updated on 2025.09.03
+## Updated on 2025.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-03**|**Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations**|Fatih Pehlivan et.al.|[2509.03093](http://arxiv.org/abs/2509.03093)|null|
+|**2025-09-03**|**TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum**|Shuzheng Wang et.al.|[2509.03037](http://arxiv.org/abs/2509.03037)|null|
+|**2025-09-03**|**From Attack Descriptions to Vulnerabilities: A Sentence Transformer-Based Approach**|Refat Othman et.al.|[2509.02077](http://arxiv.org/abs/2509.02077)|null|
+|**2025-09-02**|**Scalable Thread-Safety Analysis of Java Classes with CodeQL**|Bjørnar Haugstad Jåtten et.al.|[2509.02022](http://arxiv.org/abs/2509.02022)|null|
+|**2025-09-01**|**Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing**|Konstantinos Kitsios et.al.|[2509.01616](http://arxiv.org/abs/2509.01616)|null|
+|**2025-08-31**|**VULSOVER: Vulnerability Detection via LLM-Driven Constraint Solving**|Xiang Li et.al.|[2509.00882](http://arxiv.org/abs/2509.00882)|null|
 |**2025-08-29**|**Detecting Stealthy Data Poisoning Attacks in AI Code Generators**|Cristina Improta et.al.|[2508.21636](http://arxiv.org/abs/2508.21636)|null|
 |**2025-08-29**|**Agentic Discovery and Validation of Android App Vulnerabilities**|Ziyue Wang et.al.|[2508.21579](http://arxiv.org/abs/2508.21579)|null|
 |**2025-08-29**|**SIRA: Scaled-Integer Range Analysis for Optimizing FPGA Dataflow Neural Network Accelerators**|Yaman Umuroglu et.al.|[2508.21493](http://arxiv.org/abs/2508.21493)|null|
@@ -318,7 +324,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250903>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
