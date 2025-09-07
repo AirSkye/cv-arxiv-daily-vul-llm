@@ -1,4 +1,4 @@
-## Updated on 2025.09.05
+## Updated on 2025.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**An Empirical Study of Vulnerabilities in Python Packages and Their Detection**|Haowei Quan et.al.|[2509.04260](http://arxiv.org/abs/2509.04260)|null|
+|**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191](http://arxiv.org/abs/2509.04191)|null|
 |**2025-09-03**|**Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations**|Fatih Pehlivan et.al.|[2509.03093](http://arxiv.org/abs/2509.03093)|null|
 |**2025-09-03**|**TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum**|Shuzheng Wang et.al.|[2509.03037](http://arxiv.org/abs/2509.03037)|null|
 |**2025-09-03**|**From Attack Descriptions to Vulnerabilities: A Sentence Transformer-Based Approach**|Refat Othman et.al.|[2509.02077](http://arxiv.org/abs/2509.02077)|null|
@@ -324,7 +326,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

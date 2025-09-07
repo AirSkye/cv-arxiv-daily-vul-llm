@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.05
+## Updated on 2025.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**An Empirical Study of Vulnerabilities in Python Packages and Their Detection**|Haowei Quan et.al.|[2509.04260](http://arxiv.org/abs/2509.04260)|null|
+|**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191](http://arxiv.org/abs/2509.04191)|null|
 |**2025-09-03**|**Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations**|Fatih Pehlivan et.al.|[2509.03093](http://arxiv.org/abs/2509.03093)|null|
 |**2025-09-03**|**TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum**|Shuzheng Wang et.al.|[2509.03037](http://arxiv.org/abs/2509.03037)|null|
 |**2025-09-03**|**From Attack Descriptions to Vulnerabilities: A Sentence Transformer-Based Approach**|Refat Othman et.al.|[2509.02077](http://arxiv.org/abs/2509.02077)|null|
