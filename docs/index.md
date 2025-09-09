@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.09.08
+## Updated on 2025.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-05**|**FuzzRDUCC: Fuzzing with Reconstructed Def-Use Chain Coverage**|Kai Feng et.al.|[2509.04967](http://arxiv.org/abs/2509.04967)|null|
+|**2025-09-04**|**Comparative Evaluation of Large Language Models for Test-Skeleton Generation**|Subhang Boorlagadda et.al.|[2509.04644](http://arxiv.org/abs/2509.04644)|null|
 |**2025-09-04**|**An Empirical Study of Vulnerabilities in Python Packages and Their Detection**|Haowei Quan et.al.|[2509.04260](http://arxiv.org/abs/2509.04260)|null|
 |**2025-09-04**|**KubeGuard: LLM-Assisted Kubernetes Hardening via Configuration Files and Runtime Logs Analysis**|Omri Sgan Cohen et.al.|[2509.04191](http://arxiv.org/abs/2509.04191)|null|
 |**2025-09-03**|**Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations**|Fatih Pehlivan et.al.|[2509.03093](http://arxiv.org/abs/2509.03093)|null|
@@ -16,7 +18,7 @@ layout: default
 |**2025-09-03**|**From Attack Descriptions to Vulnerabilities: A Sentence Transformer-Based Approach**|Refat Othman et.al.|[2509.02077](http://arxiv.org/abs/2509.02077)|null|
 |**2025-09-02**|**Scalable Thread-Safety Analysis of Java Classes with CodeQL**|Bjørnar Haugstad Jåtten et.al.|[2509.02022](http://arxiv.org/abs/2509.02022)|null|
 |**2025-09-01**|**Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing**|Konstantinos Kitsios et.al.|[2509.01616](http://arxiv.org/abs/2509.01616)|null|
-|**2025-08-31**|**VULSOVER: Vulnerability Detection via LLM-Driven Constraint Solving**|Xiang Li et.al.|[2509.00882](http://arxiv.org/abs/2509.00882)|null|
+|**2025-09-06**|**VulSolver: Vulnerability Detection via LLM-Driven Constraint Solving**|Xiang Li et.al.|[2509.00882](http://arxiv.org/abs/2509.00882)|null|
 |**2025-08-29**|**Detecting Stealthy Data Poisoning Attacks in AI Code Generators**|Cristina Improta et.al.|[2508.21636](http://arxiv.org/abs/2508.21636)|null|
 |**2025-08-29**|**Agentic Discovery and Validation of Android App Vulnerabilities**|Ziyue Wang et.al.|[2508.21579](http://arxiv.org/abs/2508.21579)|null|
 |**2025-08-29**|**SIRA: Scaled-Integer Range Analysis for Optimizing FPGA Dataflow Neural Network Accelerators**|Yaman Umuroglu et.al.|[2508.21493](http://arxiv.org/abs/2508.21493)|null|
