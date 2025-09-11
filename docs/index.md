@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.09.09
+## Updated on 2025.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-08**|**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**|Ze Sheng et.al.|[2509.07225](http://arxiv.org/abs/2509.07225)|null|
+|**2025-09-09**|**Signal-Based Malware Classification Using 1D CNNs**|Jack Wilkie et.al.|[2509.06548](http://arxiv.org/abs/2509.06548)|null|
+|**2025-09-07**|**GRACE: Graph-Guided Repository-Aware Code Completion through Hierarchical Code Fusion**|Xingliang Wang et.al.|[2509.05980](http://arxiv.org/abs/2509.05980)|null|
+|**2025-09-04**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372](http://arxiv.org/abs/2509.05372)|null|
 |**2025-09-05**|**FuzzRDUCC: Fuzzing with Reconstructed Def-Use Chain Coverage**|Kai Feng et.al.|[2509.04967](http://arxiv.org/abs/2509.04967)|null|
 |**2025-09-04**|**Comparative Evaluation of Large Language Models for Test-Skeleton Generation**|Subhang Boorlagadda et.al.|[2509.04644](http://arxiv.org/abs/2509.04644)|null|
 |**2025-09-04**|**An Empirical Study of Vulnerabilities in Python Packages and Their Detection**|Haowei Quan et.al.|[2509.04260](http://arxiv.org/abs/2509.04260)|null|
@@ -37,7 +41,7 @@ layout: default
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419](http://arxiv.org/abs/2508.16419)|null|
 |**2025-08-22**|**On the nature and charge state of the X-Defect, a radiation-induced Silicon defect with field-enhanced charge carrier emission**|Niels Sorgenfrei et.al.|[2508.16197](http://arxiv.org/abs/2508.16197)|null|
 |**2025-08-21**|**Probabilistic Inference for Datalog with Correlated Inputs**|Jingbo Wang et.al.|[2508.15166](http://arxiv.org/abs/2508.15166)|null|
-|**2025-08-22**|**Software Model Checking via Summary-Guided Search (Extended Version)**|Ruijie Fang et.al.|[2508.15137](http://arxiv.org/abs/2508.15137)|null|
+|**2025-09-08**|**Software Model Checking via Summary-Guided Search (Extended Version)**|Ruijie Fang et.al.|[2508.15137](http://arxiv.org/abs/2508.15137)|null|
 |**2025-08-21**|**On the need to perform comprehensive evaluations of automated program repair benchmarks: Sorald case study**|Sumudu Liyanage et.al.|[2508.15135](http://arxiv.org/abs/2508.15135)|null|
 |**2025-08-20**|**When Machine Learning Meets Vulnerability Discovery: Challenges and Lessons Learned**|Sima Arasteh et.al.|[2508.15042](http://arxiv.org/abs/2508.15042)|null|
 |**2025-08-22**|**TOAST: Fast and scalable auto-partitioning based on principled static analysis**|Sami Alabed et.al.|[2508.15010](http://arxiv.org/abs/2508.15010)|null|
