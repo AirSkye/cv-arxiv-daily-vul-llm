@@ -1,4 +1,4 @@
-## Updated on 2025.09.11
+## Updated on 2025.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-11**|**Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data**|Moritz Mock et.al.|[2509.09313](http://arxiv.org/abs/2509.09313)|null|
+|**2025-09-11**|**What You Code Is What We Prove: Translating BLE App Logic into Formal Models with LLMs for Vulnerability Detection**|Biwei Yan et.al.|[2509.09291](http://arxiv.org/abs/2509.09291)|null|
 |**2025-09-08**|**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**|Ze Sheng et.al.|[2509.07225](http://arxiv.org/abs/2509.07225)|null|
 |**2025-09-09**|**Signal-Based Malware Classification Using 1D CNNs**|Jack Wilkie et.al.|[2509.06548](http://arxiv.org/abs/2509.06548)|null|
 |**2025-09-07**|**GRACE: Graph-Guided Repository-Aware Code Completion through Hierarchical Code Fusion**|Xingliang Wang et.al.|[2509.05980](http://arxiv.org/abs/2509.05980)|null|
@@ -332,7 +334,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
