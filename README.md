@@ -1,4 +1,4 @@
-## Updated on 2025.09.15
+## Updated on 2025.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-15**|**LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis**|Benedikt Fein et.al.|[2509.12021](http://arxiv.org/abs/2509.12021)|null|
+|**2025-09-15**|**VisDocSketcher: Towards Scalable Visual Documentation with Agentic Systems**|Luís F. Gomes et.al.|[2509.11942](http://arxiv.org/abs/2509.11942)|null|
+|**2025-09-15**|**CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings**|Pascal Joos et.al.|[2509.11787](http://arxiv.org/abs/2509.11787)|null|
+|**2025-09-15**|**Analysing Python Machine Learning Notebooks with Moose**|Marius Mignard et.al.|[2509.11748](http://arxiv.org/abs/2509.11748)|null|
+|**2025-09-15**|**VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection**|Ziliang Wang et.al.|[2509.11523](http://arxiv.org/abs/2509.11523)|null|
+|**2025-09-14**|**Weakly Supervised Vulnerability Localization via Multiple Instance Learning**|Wenchao Gu et.al.|[2509.11312](http://arxiv.org/abs/2509.11312)|null|
+|**2025-09-13**|**TPSQLi: Test Prioritization for SQL Injection Vulnerability Detection in Web Applications**|Guan-Yan Yang et.al.|[2509.10920](http://arxiv.org/abs/2509.10920)|null|
+|**2025-09-12**|**Feature-Centric Approaches to Android Malware Analysis: A Survey**|Shama Maganur et.al.|[2509.10709](http://arxiv.org/abs/2509.10709)|null|
+|**2025-09-12**|**ExDoS: Expert-Guided Dual-Focus Cross-Modal Distillation for Smart Contract Vulnerability Detection**|Yifan Jia et.al.|[2509.10252](http://arxiv.org/abs/2509.10252)|null|
+|**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970](http://arxiv.org/abs/2509.09970)|null|
 |**2025-09-11**|**Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data**|Moritz Mock et.al.|[2509.09313](http://arxiv.org/abs/2509.09313)|null|
 |**2025-09-11**|**What You Code Is What We Prove: Translating BLE App Logic into Formal Models with LLMs for Vulnerability Detection**|Biwei Yan et.al.|[2509.09291](http://arxiv.org/abs/2509.09291)|null|
 |**2025-09-08**|**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**|Ze Sheng et.al.|[2509.07225](http://arxiv.org/abs/2509.07225)|null|
@@ -334,7 +344,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
