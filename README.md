@@ -1,4 +1,4 @@
-## Updated on 2025.09.17
+## Updated on 2025.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches et.al.|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
+|**2025-09-17**|**Trace Sampling 2.0: Code Knowledge Enhanced Span-level Sampling for Distributed Tracing**|Yulun Wu et.al.|[2509.13852](http://arxiv.org/abs/2509.13852)|null|
+|**2025-09-17**|**Higher-order Network phenomena of cascading failures in resilient cities**|Jinghua Song et.al.|[2509.13808](http://arxiv.org/abs/2509.13808)|null|
+|**2025-09-17**|**GitHub's Copilot Code Review: Can AI Spot Security Flaws Before You Commit?**|Amena Amro et.al.|[2509.13650](http://arxiv.org/abs/2509.13650)|null|
+|**2025-09-16**|**Optimizing Code Embeddings and ML Classifiers for Python Source Code Vulnerability Detection**|Talaya Farasat et.al.|[2509.13134](http://arxiv.org/abs/2509.13134)|null|
+|**2025-09-16**|**Try-Mopsa: Relational Static Analysis in Your Pocket**|Raphaël Monat et.al.|[2509.13128](http://arxiv.org/abs/2509.13128)|null|
+|**2025-09-16**|**Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models**|Ştefan-Claudiu Susan et.al.|[2509.13023](http://arxiv.org/abs/2509.13023)|null|
+|**2025-09-18**|**Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation**|Zhihong Sun et.al.|[2509.12629](http://arxiv.org/abs/2509.12629)|null|
 |**2025-09-15**|**LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis**|Benedikt Fein et.al.|[2509.12021](http://arxiv.org/abs/2509.12021)|null|
 |**2025-09-15**|**VisDocSketcher: Towards Scalable Visual Documentation with Agentic Systems**|Luís F. Gomes et.al.|[2509.11942](http://arxiv.org/abs/2509.11942)|null|
 |**2025-09-15**|**CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings**|Pascal Joos et.al.|[2509.11787](http://arxiv.org/abs/2509.11787)|null|
@@ -344,7 +352,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
