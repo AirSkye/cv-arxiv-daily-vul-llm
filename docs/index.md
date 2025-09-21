@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.09.19
+## Updated on 2025.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**An immuno-Infrared Sensor detects preclinical Alzheimer's and Parkinson's Disease by misfolding**|Grischa Gerwert et.al.|[2509.14972](http://arxiv.org/abs/2509.14972)|null|
+|**2025-09-18**|**ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System**|Taesoo Kim et.al.|[2509.14589](http://arxiv.org/abs/2509.14589)|null|
+|**2025-09-18**|**BEACON: Behavioral Malware Classification with Large Language Model Embeddings and Deep Learning**|Wadduwage Shanika Perera et.al.|[2509.14519](http://arxiv.org/abs/2509.14519)|null|
+|**2025-09-17**|**On the Illusion of Success: An Empirical Study of Build Reruns and Silent Failures in Industrial CI**|Henri Aïdasso et.al.|[2509.14347](http://arxiv.org/abs/2509.14347)|null|
 |**2025-09-17**|**The Cybersecurity of a Humanoid Robot**|Víctor Mayoral-Vilches et.al.|[2509.14096](http://arxiv.org/abs/2509.14096)|null|
 |**2025-09-17**|**Trace Sampling 2.0: Code Knowledge Enhanced Span-level Sampling for Distributed Tracing**|Yulun Wu et.al.|[2509.13852](http://arxiv.org/abs/2509.13852)|null|
 |**2025-09-17**|**Higher-order Network phenomena of cascading failures in resilient cities**|Jinghua Song et.al.|[2509.13808](http://arxiv.org/abs/2509.13808)|null|
