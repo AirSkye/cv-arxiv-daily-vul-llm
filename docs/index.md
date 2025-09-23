@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-18**|**Synergizing Static Analysis with Large Language Models for Vulnerability Discovery and beyond**|Vaibhav Agrawal et.al.|[2509.15433](http://arxiv.org/abs/2509.15433)|null|
 |**2025-09-18**|**An immuno-Infrared Sensor detects preclinical Alzheimer's and Parkinson's Disease by misfolding**|Grischa Gerwert et.al.|[2509.14972](http://arxiv.org/abs/2509.14972)|null|
 |**2025-09-18**|**ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System**|Taesoo Kim et.al.|[2509.14589](http://arxiv.org/abs/2509.14589)|null|
 |**2025-09-18**|**BEACON: Behavioral Malware Classification with Large Language Model Embeddings and Deep Learning**|Wadduwage Shanika Perera et.al.|[2509.14519](http://arxiv.org/abs/2509.14519)|null|
