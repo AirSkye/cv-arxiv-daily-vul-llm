@@ -2,14 +2,25 @@
 layout: default
 ---
 
-## Updated on 2025.09.23
+## Updated on 2025.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-18**|**Synergizing Static Analysis with Large Language Models for Vulnerability Discovery and beyond**|Vaibhav Agrawal et.al.|[2509.15433](http://arxiv.org/abs/2509.15433)|null|
+|**2025-09-23**|**LLMs as verification oracles for Solidity**|Massimo Bartoletti et.al.|[2509.19153](http://arxiv.org/abs/2509.19153)|null|
+|**2025-09-23**|**Security Evaluation of Android apps in budget African Mobile Devices**|Alioune Diallo et.al.|[2509.18800](http://arxiv.org/abs/2509.18800)|null|
+|**2025-09-23**|**Detection of security smells in IaC scripts through semantics-aware code and language processing**|Aicha War et.al.|[2509.18790](http://arxiv.org/abs/2509.18790)|null|
+|**2025-09-23**|**Static Estimation of Reuse Profiles for Arrays in Nested Loops**|Abdur Razzak et.al.|[2509.18684](http://arxiv.org/abs/2509.18684)|null|
+|**2025-09-22**|**SoK: A Beginner-Friendly Introduction to Fault Injection Attacks**|Christopher Simon Liu et.al.|[2509.18341](http://arxiv.org/abs/2509.18341)|null|
+|**2025-09-22**|**STAFF: Stateful Taint-Assisted Full-system Firmware Fuzzing**|Alessio Izzillo et.al.|[2509.18039](http://arxiv.org/abs/2509.18039)|null|
+|**2025-09-22**|**AEAS: Actionable Exploit Assessment System**|Xiangmin Shen et.al.|[2509.17832](http://arxiv.org/abs/2509.17832)|null|
+|**2025-09-22**|**Diagnosing Violations of State-based Specifications in iCFTL**|Cristina Stratan et.al.|[2509.17776](http://arxiv.org/abs/2509.17776)|null|
+|**2025-09-20**|**Can We Trust the AI Pair Programmer? Copilot for API Misuse Detection and Correction**|Saikat Mondal et.al.|[2509.16795](http://arxiv.org/abs/2509.16795)|null|
+|**2025-09-19**|**LiteRSan: Lightweight Memory Safety Via Rust-specific Program Analysis and Selective Instrumentation**|Tianrou Xia et.al.|[2509.16389](http://arxiv.org/abs/2509.16389)|null|
+|**2025-09-18**|**SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair**|Jugal Gajjar et.al.|[2509.16275](http://arxiv.org/abs/2509.16275)|null|
+|**2025-09-23**|**LLM-Driven SAST-Genius: A Hybrid Static Analysis Framework for Comprehensive and Actionable Security**|Vaibhav Agrawal et.al.|[2509.15433](http://arxiv.org/abs/2509.15433)|null|
 |**2025-09-18**|**An immuno-Infrared Sensor detects preclinical Alzheimer's and Parkinson's Disease by misfolding**|Grischa Gerwert et.al.|[2509.14972](http://arxiv.org/abs/2509.14972)|null|
 |**2025-09-18**|**ATLANTIS: AI-driven Threat Localization, Analysis, and Triage Intelligence System**|Taesoo Kim et.al.|[2509.14589](http://arxiv.org/abs/2509.14589)|null|
 |**2025-09-18**|**BEACON: Behavioral Malware Classification with Large Language Model Embeddings and Deep Learning**|Wadduwage Shanika Perera et.al.|[2509.14519](http://arxiv.org/abs/2509.14519)|null|
