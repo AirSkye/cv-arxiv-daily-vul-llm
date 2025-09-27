@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.09.25
+## Updated on 2025.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-24**|**Enhancing Python Programming Education with an AI-Powered Code Helper: Design, Implementation, and Impact**|Sayed Mahbub Hasan Amiri et.al.|[2509.20518](http://arxiv.org/abs/2509.20518)|null|
+|**2025-09-24**|**AI-Specific Code Smells: From Specification to Detection**|Brahim Mahmoudi et.al.|[2509.20491](http://arxiv.org/abs/2509.20491)|null|
+|**2025-09-23**|**Automated Insertion of Flushes and Fences for Persistency**|Yutong Guo et.al.|[2509.19459](http://arxiv.org/abs/2509.19459)|null|
 |**2025-09-23**|**LLMs as verification oracles for Solidity**|Massimo Bartoletti et.al.|[2509.19153](http://arxiv.org/abs/2509.19153)|null|
 |**2025-09-23**|**Security Evaluation of Android apps in budget African Mobile Devices**|Alioune Diallo et.al.|[2509.18800](http://arxiv.org/abs/2509.18800)|null|
 |**2025-09-23**|**Detection of security smells in IaC scripts through semantics-aware code and language processing**|Aicha War et.al.|[2509.18790](http://arxiv.org/abs/2509.18790)|null|
