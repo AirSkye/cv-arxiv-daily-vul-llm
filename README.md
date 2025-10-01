@@ -1,4 +1,4 @@
-## Updated on 2025.09.29
+## Updated on 2025.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-29**|**Towards Reliable Generation of Executable Workflows by Foundation Models**|Sogol Masoumzadeh et.al.|[2509.25117](http://arxiv.org/abs/2509.25117)|null|
+|**2025-09-29**|**LISA Technical Report: An Agentic Framework for Smart Contract Auditing**|Izaiah Sun et.al.|[2509.24698](http://arxiv.org/abs/2509.24698)|null|
+|**2025-09-29**|**JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat**|Zhihao Li et.al.|[2509.24498](http://arxiv.org/abs/2509.24498)|null|
+|**2025-09-29**|**BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities**|Yury Yanovich et.al.|[2509.24444](http://arxiv.org/abs/2509.24444)|null|
+|**2025-09-28**|**LLM/Agent-as-Data-Analyst: A Survey**|Zirui Tang et.al.|[2509.23988](http://arxiv.org/abs/2509.23988)|null|
+|**2025-09-28**|**Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse**|Zeqin Liao et.al.|[2509.23679](http://arxiv.org/abs/2509.23679)|null|
+|**2025-09-28**|**Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence**|Yuqiao Meng et.al.|[2509.23573](http://arxiv.org/abs/2509.23573)|null|
+|**2025-09-26**|**Towards Human-interpretable Explanation in Code Clone Detection using LLM-based Post Hoc Explainer**|Teeradaj Racharak et.al.|[2509.22978](http://arxiv.org/abs/2509.22978)|null|
+|**2025-09-26**|**Boosting Pointer Analysis With Large Language Model-Enhanced Allocation Function Detection**|Baijun Cheng et.al.|[2509.22530](http://arxiv.org/abs/2509.22530)|null|
+|**2025-09-26**|**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**|Junkai Chen et.al.|[2509.22097](http://arxiv.org/abs/2509.22097)|null|
+|**2025-09-26**|**UISim: An Interactive Image-Based UI Simulator for Dynamic Mobile Environments**|Jiannan Xiang et.al.|[2509.21733](http://arxiv.org/abs/2509.21733)|null|
 |**2025-09-24**|**Enhancing Python Programming Education with an AI-Powered Code Helper: Design, Implementation, and Impact**|Sayed Mahbub Hasan Amiri et.al.|[2509.20518](http://arxiv.org/abs/2509.20518)|null|
 |**2025-09-24**|**AI-Specific Code Smells: From Specification to Detection**|Brahim Mahmoudi et.al.|[2509.20491](http://arxiv.org/abs/2509.20491)|null|
 |**2025-09-23**|**Automated Insertion of Flushes and Fences for Persistency**|Yutong Guo et.al.|[2509.19459](http://arxiv.org/abs/2509.19459)|null|
@@ -371,7 +382,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
