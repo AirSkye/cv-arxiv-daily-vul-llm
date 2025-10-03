@@ -2,20 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.10.01
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**|Junsong Pu et.al.|[2509.26463](http://arxiv.org/abs/2509.26463)|null|
 |**2025-09-29**|**Towards Reliable Generation of Executable Workflows by Foundation Models**|Sogol Masoumzadeh et.al.|[2509.25117](http://arxiv.org/abs/2509.25117)|null|
 |**2025-09-29**|**LISA Technical Report: An Agentic Framework for Smart Contract Auditing**|Izaiah Sun et.al.|[2509.24698](http://arxiv.org/abs/2509.24698)|null|
 |**2025-09-29**|**JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat**|Zhihao Li et.al.|[2509.24498](http://arxiv.org/abs/2509.24498)|null|
 |**2025-09-29**|**BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities**|Yury Yanovich et.al.|[2509.24444](http://arxiv.org/abs/2509.24444)|null|
 |**2025-09-28**|**LLM/Agent-as-Data-Analyst: A Survey**|Zirui Tang et.al.|[2509.23988](http://arxiv.org/abs/2509.23988)|null|
 |**2025-09-28**|**Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse**|Zeqin Liao et.al.|[2509.23679](http://arxiv.org/abs/2509.23679)|null|
-|**2025-09-28**|**Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence**|Yuqiao Meng et.al.|[2509.23573](http://arxiv.org/abs/2509.23573)|null|
+|**2025-10-01**|**Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence**|Yuqiao Meng et.al.|[2509.23573](http://arxiv.org/abs/2509.23573)|null|
 |**2025-09-26**|**Towards Human-interpretable Explanation in Code Clone Detection using LLM-based Post Hoc Explainer**|Teeradaj Racharak et.al.|[2509.22978](http://arxiv.org/abs/2509.22978)|null|
 |**2025-09-26**|**Boosting Pointer Analysis With Large Language Model-Enhanced Allocation Function Detection**|Baijun Cheng et.al.|[2509.22530](http://arxiv.org/abs/2509.22530)|null|
 |**2025-09-26**|**SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios**|Junkai Chen et.al.|[2509.22097](http://arxiv.org/abs/2509.22097)|null|
@@ -47,7 +48,7 @@ layout: default
 |**2025-09-16**|**Try-Mopsa: Relational Static Analysis in Your Pocket**|Raphaël Monat et.al.|[2509.13128](http://arxiv.org/abs/2509.13128)|null|
 |**2025-09-16**|**Validating Solidity Code Defects using Symbolic and Concrete Execution powered by Large Language Models**|Ştefan-Claudiu Susan et.al.|[2509.13023](http://arxiv.org/abs/2509.13023)|null|
 |**2025-09-18**|**Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation**|Zhihong Sun et.al.|[2509.12629](http://arxiv.org/abs/2509.12629)|null|
-|**2025-09-15**|**LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis**|Benedikt Fein et.al.|[2509.12021](http://arxiv.org/abs/2509.12021)|null|
+|**2025-10-02**|**LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis**|Benedikt Fein et.al.|[2509.12021](http://arxiv.org/abs/2509.12021)|null|
 |**2025-09-15**|**VisDocSketcher: Towards Scalable Visual Documentation with Agentic Systems**|Luís F. Gomes et.al.|[2509.11942](http://arxiv.org/abs/2509.11942)|null|
 |**2025-09-15**|**CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings**|Pascal Joos et.al.|[2509.11787](http://arxiv.org/abs/2509.11787)|null|
 |**2025-09-15**|**Analysing Python Machine Learning Notebooks with Moose**|Marius Mignard et.al.|[2509.11748](http://arxiv.org/abs/2509.11748)|null|
