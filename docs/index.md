@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.10.03
+## Updated on 2025.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-02**|**Transformers Discover Molecular Structure Without Graph Priors**|Tobias Kreiman et.al.|[2510.02259](http://arxiv.org/abs/2510.02259)|null|
+|**2025-10-02**|**RefFilter: Improving Semantic Conflict Detection via Refactoring-Aware Static Analysis**|Victor Lira et.al.|[2510.01960](http://arxiv.org/abs/2510.01960)|null|
+|**2025-10-02**|**POLAR: Automating Cyber Threat Prioritization through LLM-Powered Assessment**|Luoxi Tang et.al.|[2510.01552](http://arxiv.org/abs/2510.01552)|null|
+|**2025-10-01**|**Analyzing Latent Concepts in Code Language Models**|Arushi Sharma et.al.|[2510.00476](http://arxiv.org/abs/2510.00476)|null|
+|**2025-09-30**|**MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement**|Youpeng Li et.al.|[2510.00317](http://arxiv.org/abs/2510.00317)|null|
+|**2025-09-30**|**SecureBERT 2.0: Advanced Language Model for Cybersecurity Intelligence**|Ehsan Aghaei et.al.|[2510.00240](http://arxiv.org/abs/2510.00240)|null|
 |**2025-09-30**|**ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**|Junsong Pu et.al.|[2509.26463](http://arxiv.org/abs/2509.26463)|null|
 |**2025-09-29**|**Towards Reliable Generation of Executable Workflows by Foundation Models**|Sogol Masoumzadeh et.al.|[2509.25117](http://arxiv.org/abs/2509.25117)|null|
 |**2025-09-29**|**LISA Technical Report: An Agentic Framework for Smart Contract Auditing**|Izaiah Sun et.al.|[2509.24698](http://arxiv.org/abs/2509.24698)|null|
