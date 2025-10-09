@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.10.07
+## Updated on 2025.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-07**|**Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations**|Elijah Kayode Adejumo et.al.|[2510.06104](http://arxiv.org/abs/2510.06104)|null|
+|**2025-10-07**|**SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images**|Jacopo Bufalino et.al.|[2510.05798](http://arxiv.org/abs/2510.05798)|null|
+|**2025-10-06**|**NatGVD: Natural Adversarial Example Attack towards Graph-based Vulnerability Detection**|Avilash Rath et.al.|[2510.04987](http://arxiv.org/abs/2510.04987)|null|
+|**2025-10-06**|**Detecting and Characterizing Low and No Functionality Packages in the NPM Ecosystem**|Napasorn Tevarut et.al.|[2510.04495](http://arxiv.org/abs/2510.04495)|null|
+|**2025-10-05**|**MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection**|Van Nguyen et.al.|[2510.04397](http://arxiv.org/abs/2510.04397)|null|
+|**2025-10-05**|**Real-VulLLM: An LLM Based Assessment Framework in the Wild**|Rijha Safdar et.al.|[2510.04056](http://arxiv.org/abs/2510.04056)|null|
+|**2025-10-04**|**Shrinking the Kernel Attack Surface Through Static and Dynamic Syscall Limitation**|Dongyang Zhan et.al.|[2510.03720](http://arxiv.org/abs/2510.03720)|null|
+|**2025-10-03**|**Repairing Leaks in Resource Wrappers**|Sanjay Malakar et.al.|[2510.03461](http://arxiv.org/abs/2510.03461)|null|
 |**2025-10-02**|**ZeroFalse: Improving Precision in Static Analysis with LLMs**|Mohsen Iranmanesh et.al.|[2510.02534](http://arxiv.org/abs/2510.02534)|null|
 |**2025-09-30**|**From Trace to Line: LLM Agent for Real-World OSS Vulnerability Localization**|Haoran Xi et.al.|[2510.02389](http://arxiv.org/abs/2510.02389)|null|
 |**2025-10-02**|**Transformers Discover Molecular Structure Without Graph Priors**|Tobias Kreiman et.al.|[2510.02259](http://arxiv.org/abs/2510.02259)|null|
