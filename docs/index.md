@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-08**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
+|**2025-10-08**|**Beyond More Context: How Granularity and Order Drive Code Completion Quality**|Uswat Yusuf et.al.|[2510.06606](http://arxiv.org/abs/2510.06606)|null|
 |**2025-10-07**|**Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations**|Elijah Kayode Adejumo et.al.|[2510.06104](http://arxiv.org/abs/2510.06104)|null|
 |**2025-10-07**|**SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images**|Jacopo Bufalino et.al.|[2510.05798](http://arxiv.org/abs/2510.05798)|null|
 |**2025-10-06**|**NatGVD: Natural Adversarial Example Attack towards Graph-based Vulnerability Detection**|Avilash Rath et.al.|[2510.04987](http://arxiv.org/abs/2510.04987)|null|

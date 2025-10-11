@@ -1,4 +1,4 @@
-## Updated on 2025.10.09
+## Updated on 2025.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-08**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
+|**2025-10-08**|**Beyond More Context: How Granularity and Order Drive Code Completion Quality**|Uswat Yusuf et.al.|[2510.06606](http://arxiv.org/abs/2510.06606)|null|
 |**2025-10-07**|**Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations**|Elijah Kayode Adejumo et.al.|[2510.06104](http://arxiv.org/abs/2510.06104)|null|
 |**2025-10-07**|**SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images**|Jacopo Bufalino et.al.|[2510.05798](http://arxiv.org/abs/2510.05798)|null|
 |**2025-10-06**|**NatGVD: Natural Adversarial Example Attack towards Graph-based Vulnerability Detection**|Avilash Rath et.al.|[2510.04987](http://arxiv.org/abs/2510.04987)|null|
@@ -399,7 +401,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
