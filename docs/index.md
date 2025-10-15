@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-13**|**Automatically Generating Questions About Scratch Programs**|Florian Obermüller et.al.|[2510.11658](http://arxiv.org/abs/2510.11658)|null|
+|**2025-10-13**|**(Dis)Proving Spectre Security with Speculation-Passing Style**|Santiago Arranz-Olmos et.al.|[2510.11573](http://arxiv.org/abs/2510.11573)|null|
+|**2025-10-13**|**Evaluating Line-level Localization Ability of Learning-based Code Vulnerability Detection Models**|Marco Pintore et.al.|[2510.11202](http://arxiv.org/abs/2510.11202)|null|
+|**2025-10-11**|**Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models**|Jugal Gajjar et.al.|[2510.10321](http://arxiv.org/abs/2510.10321)|null|
+|**2025-10-11**|**Grounded AI for Code Review: Resource-Efficient Large-Model Serving in Enterprise Pipelines**|Sayan Mandal et.al.|[2510.10290](http://arxiv.org/abs/2510.10290)|null|
+|**2025-10-09**|**PyMigTool: a tool for end-to-end Python library migration**|Mohayeminul Islam et.al.|[2510.08810](http://arxiv.org/abs/2510.08810)|null|
+|**2025-10-09**|**RA-Gen: A Controllable Code Generation Framework Using ReAct for Multi-Agent Task Execution**|Aofan Liu et.al.|[2510.08665](http://arxiv.org/abs/2510.08665)|null|
 |**2025-10-08**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
 |**2025-10-08**|**Beyond More Context: How Granularity and Order Drive Code Completion Quality**|Uswat Yusuf et.al.|[2510.06606](http://arxiv.org/abs/2510.06606)|null|
 |**2025-10-07**|**Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations**|Elijah Kayode Adejumo et.al.|[2510.06104](http://arxiv.org/abs/2510.06104)|null|
@@ -26,7 +33,7 @@ layout: default
 |**2025-10-02**|**POLAR: Automating Cyber Threat Prioritization through LLM-Powered Assessment**|Luoxi Tang et.al.|[2510.01552](http://arxiv.org/abs/2510.01552)|null|
 |**2025-10-02**|**Analyzing Latent Concepts in Code Language Models**|Arushi Sharma et.al.|[2510.00476](http://arxiv.org/abs/2510.00476)|null|
 |**2025-09-30**|**MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement**|Youpeng Li et.al.|[2510.00317](http://arxiv.org/abs/2510.00317)|null|
-|**2025-09-30**|**SecureBERT 2.0: Advanced Language Model for Cybersecurity Intelligence**|Ehsan Aghaei et.al.|[2510.00240](http://arxiv.org/abs/2510.00240)|null|
+|**2025-10-10**|**SecureBERT 2.0: Advanced Language Model for Cybersecurity Intelligence**|Ehsan Aghaei et.al.|[2510.00240](http://arxiv.org/abs/2510.00240)|null|
 |**2025-09-30**|**ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**|Junsong Pu et.al.|[2509.26463](http://arxiv.org/abs/2509.26463)|null|
 |**2025-09-29**|**Towards Reliable Generation of Executable Workflows by Foundation Models**|Sogol Masoumzadeh et.al.|[2509.25117](http://arxiv.org/abs/2509.25117)|null|
 |**2025-09-29**|**LISA Technical Report: An Agentic Framework for Smart Contract Auditing**|Izaiah Sun et.al.|[2509.24698](http://arxiv.org/abs/2509.24698)|null|
