@@ -2,13 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Relativistic reflection within an extended hot plasma geometry**|Alexey D. Nekrasov et.al.|[2510.13337](http://arxiv.org/abs/2510.13337)|null|
+|**2025-10-15**|**Injection, Attack and Erasure: Revocable Backdoor Attacks via Machine Unlearning**|Baogang Song et.al.|[2510.13322](http://arxiv.org/abs/2510.13322)|null|
+|**2025-10-15**|**A Matter of Representation: Towards Graph-Based Abstract Code Generation**|Nyx Iskandar et.al.|[2510.13163](http://arxiv.org/abs/2510.13163)|null|
+|**2025-10-07**|**Applying Graph Analysis for Unsupervised Fast Malware Fingerprinting**|ElMouatez Billah Karbab et.al.|[2510.12811](http://arxiv.org/abs/2510.12811)|null|
+|**2025-10-14**|**HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities**|Xiaoxue Ren et.al.|[2510.12200](http://arxiv.org/abs/2510.12200)|null|
+|**2025-10-14**|**iCodeReviewer: Improving Secure Code Review with Mixture of Prompts**|Yun Peng et.al.|[2510.12186](http://arxiv.org/abs/2510.12186)|null|
+|**2025-10-14**|**Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach**|Zhenyu Mao et.al.|[2510.12120](http://arxiv.org/abs/2510.12120)|null|
 |**2025-10-13**|**Automatically Generating Questions About Scratch Programs**|Florian Obermüller et.al.|[2510.11658](http://arxiv.org/abs/2510.11658)|null|
 |**2025-10-13**|**(Dis)Proving Spectre Security with Speculation-Passing Style**|Santiago Arranz-Olmos et.al.|[2510.11573](http://arxiv.org/abs/2510.11573)|null|
 |**2025-10-13**|**Evaluating Line-level Localization Ability of Learning-based Code Vulnerability Detection Models**|Marco Pintore et.al.|[2510.11202](http://arxiv.org/abs/2510.11202)|null|
@@ -39,7 +46,7 @@ layout: default
 |**2025-09-29**|**LISA Technical Report: An Agentic Framework for Smart Contract Auditing**|Izaiah Sun et.al.|[2509.24698](http://arxiv.org/abs/2509.24698)|null|
 |**2025-09-29**|**JSProtect: A Scalable Obfuscation Framework for Mini-Games in WeChat**|Zhihao Li et.al.|[2509.24498](http://arxiv.org/abs/2509.24498)|null|
 |**2025-09-29**|**BugMagnifier: TON Transaction Simulator for Revealing Smart Contract Vulnerabilities**|Yury Yanovich et.al.|[2509.24444](http://arxiv.org/abs/2509.24444)|null|
-|**2025-09-28**|**LLM/Agent-as-Data-Analyst: A Survey**|Zirui Tang et.al.|[2509.23988](http://arxiv.org/abs/2509.23988)|null|
+|**2025-10-15**|**LLM/Agent-as-Data-Analyst: A Survey**|Zirui Tang et.al.|[2509.23988](http://arxiv.org/abs/2509.23988)|null|
 |**2025-09-28**|**Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse**|Zeqin Liao et.al.|[2509.23679](http://arxiv.org/abs/2509.23679)|null|
 |**2025-10-01**|**Uncovering Vulnerabilities of LLM-Assisted Cyber Threat Intelligence**|Yuqiao Meng et.al.|[2509.23573](http://arxiv.org/abs/2509.23573)|null|
 |**2025-09-26**|**Towards Human-interpretable Explanation in Code Clone Detection using LLM-based Post Hoc Explainer**|Teeradaj Racharak et.al.|[2509.22978](http://arxiv.org/abs/2509.22978)|null|
