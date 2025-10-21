@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.19
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-16**|**Caruca: Effective and Efficient Specification Mining for Opaque Software Components**|Evangelos Lamprou et.al.|[2510.14279](http://arxiv.org/abs/2510.14279)|null|
 |**2025-10-15**|**Relativistic reflection within an extended hot plasma geometry**|Alexey D. Nekrasov et.al.|[2510.13337](http://arxiv.org/abs/2510.13337)|null|
 |**2025-10-15**|**Injection, Attack and Erasure: Revocable Backdoor Attacks via Machine Unlearning**|Baogang Song et.al.|[2510.13322](http://arxiv.org/abs/2510.13322)|null|
