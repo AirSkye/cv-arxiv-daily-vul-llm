@@ -1,4 +1,4 @@
-## Updated on 2025.10.21
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Evaluating Large Language Models in detecting Secrets in Android Apps**|Marco Alecci et.al.|[2510.18601](http://arxiv.org/abs/2510.18601)|null|
+|**2025-10-21**|**TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts**|Hadis Rezaei et.al.|[2510.18192](http://arxiv.org/abs/2510.18192)|null|
+|**2025-10-20**|**ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection**|Tenghui Huang et.al.|[2510.17919](http://arxiv.org/abs/2510.17919)|null|
+|**2025-10-18**|**SimpliPy: A Source-Tracking Notional Machine for Simplified Python**|Moida Praneeth Jain et.al.|[2510.16594](http://arxiv.org/abs/2510.16594)|null|
+|**2025-10-18**|**Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions**|Tatsuya Shirai et.al.|[2510.16433](http://arxiv.org/abs/2510.16433)|null|
+|**2025-10-18**|**SemOpt: LLM-Driven Code Optimization via Rule-Based Analysis**|Yuwei Zhao et.al.|[2510.16384](http://arxiv.org/abs/2510.16384)|null|
+|**2025-10-15**|**On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation**|Abdulrahman Alhaidari et.al.|[2510.16024](http://arxiv.org/abs/2510.16024)|null|
 |**2025-10-16**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-16**|**Caruca: Effective and Efficient Specification Mining for Opaque Software Components**|Evangelos Lamprou et.al.|[2510.14279](http://arxiv.org/abs/2510.14279)|null|
 |**2025-10-15**|**Relativistic reflection within an extended hot plasma geometry**|Alexey D. Nekrasov et.al.|[2510.13337](http://arxiv.org/abs/2510.13337)|null|
@@ -417,7 +424,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251023>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
