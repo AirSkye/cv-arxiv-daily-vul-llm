@@ -1,4 +1,4 @@
-## Updated on 2025.10.27
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy**|Roham Koohestani et.al.|[2510.23487](http://arxiv.org/abs/2510.23487)|null|
+|**2025-10-27**|**Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing**|Yifan Zhang et.al.|[2510.23101](http://arxiv.org/abs/2510.23101)|null|
+|**2025-10-27**|**Checkstyle+: Reducing Technical Debt Through The Use of Linters with LLMs**|Ella Dodor et.al.|[2510.23068](http://arxiv.org/abs/2510.23068)|null|
+|**2025-10-27**|**A Multi-Store Privacy Measurement of Virtual Reality App Ecosystem**|Chuan Yan et.al.|[2510.23024](http://arxiv.org/abs/2510.23024)|null|
+|**2025-10-26**|**SCAL for Pinch-Lifting: Complementary Rotational and Linear Prototypes for Environment-Adaptive Grasping**|Wentao Guo et.al.|[2510.22738](http://arxiv.org/abs/2510.22738)|null|
+|**2025-10-25**|**LSPRAG: LSP-Guided RAG for Language-Agnostic Real-Time Unit Test Generation**|Gwihwan Go et.al.|[2510.22210](http://arxiv.org/abs/2510.22210)|null|
+|**2025-10-24**|**Software Engineering Agents for Embodied Controller Generation : A Study in Minigrid Environments**|Timothé Boulet et.al.|[2510.21902](http://arxiv.org/abs/2510.21902)|null|
+|**2025-10-24**|**FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security**|Mojtaba Eshghie et.al.|[2510.21401](http://arxiv.org/abs/2510.21401)|null|
+|**2025-10-24**|**LLM-Powered Detection of Price Manipulation in DeFi**|Lu Liu et.al.|[2510.21272](http://arxiv.org/abs/2510.21272)|null|
+|**2025-10-23**|**xMem: A CPU-Based Approach for Accurate Estimation of GPU Memory in Deep Learning Training Workloads**|Jiabo Shi et.al.|[2510.21048](http://arxiv.org/abs/2510.21048)|null|
 |**2025-10-21**|**Evaluating Large Language Models in detecting Secrets in Android Apps**|Marco Alecci et.al.|[2510.18601](http://arxiv.org/abs/2510.18601)|null|
 |**2025-10-21**|**TaintSentinel: Path-Level Randomness Vulnerability Detection for Ethereum Smart Contracts**|Hadis Rezaei et.al.|[2510.18192](http://arxiv.org/abs/2510.18192)|null|
 |**2025-10-20**|**ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection**|Tenghui Huang et.al.|[2510.17919](http://arxiv.org/abs/2510.17919)|null|
@@ -424,7 +434,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
