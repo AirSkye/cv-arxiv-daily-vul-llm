@@ -1,4 +1,4 @@
-## Updated on 2025.10.29
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**|Miao Zhang et.al.|[2510.24141](http://arxiv.org/abs/2510.24141)|null|
 |**2025-10-27**|**Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy**|Roham Koohestani et.al.|[2510.23487](http://arxiv.org/abs/2510.23487)|null|
 |**2025-10-27**|**Beyond Imprecise Distance Metrics: LLM-Predicted Target Call Stacks for Directed Greybox Fuzzing**|Yifan Zhang et.al.|[2510.23101](http://arxiv.org/abs/2510.23101)|null|
 |**2025-10-27**|**Checkstyle+: Reducing Technical Debt Through The Use of Linters with LLMs**|Ella Dodor et.al.|[2510.23068](http://arxiv.org/abs/2510.23068)|null|
@@ -434,7 +435,7 @@
 |**2024-10-08**|**StagedVulBERT: Multi-Granular Vulnerability Detection with a Novel Pre-trained Code Model**|Yuan Jiang et.al.|[2410.05766](http://arxiv.org/abs/2410.05766)|null|
 |**2024-10-04**|**Vulnerability Detection via Topological Analysis of Attention Maps**|Pavel Snopov et.al.|[2410.03470](http://arxiv.org/abs/2410.03470)|**[link](https://github.com/Snopoff/Vulnerability-Detection-via-Topological-Analysis-of-Attention-Maps)**|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
