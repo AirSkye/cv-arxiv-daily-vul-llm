@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.03
+## Updated on 2025.11.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-31**|**On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection**|Md Abdul Hannan et.al.|[2510.27675](http://arxiv.org/abs/2510.27675)|null|
 |**2025-10-30**|**Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories**|Maximilian Schreiber et.al.|[2510.26103](http://arxiv.org/abs/2510.26103)|null|
 |**2025-10-28**|**Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**|Miao Zhang et.al.|[2510.24141](http://arxiv.org/abs/2510.24141)|null|
 |**2025-10-27**|**Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy**|Roham Koohestani et.al.|[2510.23487](http://arxiv.org/abs/2510.23487)|null|
