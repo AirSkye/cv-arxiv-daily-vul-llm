@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.11.05
+## Updated on 2025.11.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**Security Audit of intel ICE Driver for e810 Network Interface Card**|Oisin O Sullivan et.al.|[2511.01910](http://arxiv.org/abs/2511.01910)|null|
+|**2025-11-03**|**ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis**|Hanzhong Liang et.al.|[2511.01393](http://arxiv.org/abs/2511.01393)|null|
+|**2025-11-03**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
+|**2025-11-02**|**A Comprehensive Empirical Evaluation of Agent Frameworks on Code-centric Software Engineering Tasks**|Zhuowen Yin et.al.|[2511.00872](http://arxiv.org/abs/2511.00872)|null|
 |**2025-10-31**|**On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection**|Md Abdul Hannan et.al.|[2510.27675](http://arxiv.org/abs/2510.27675)|null|
 |**2025-10-30**|**Security Vulnerabilities in AI-Generated Code: A Large-Scale Analysis of Public GitHub Repositories**|Maximilian Schreiber et.al.|[2510.26103](http://arxiv.org/abs/2510.26103)|null|
 |**2025-10-28**|**Demystifying Cookie Sharing Risks in WebView-based Mobile App-in-app Ecosystems**|Miao Zhang et.al.|[2510.24141](http://arxiv.org/abs/2510.24141)|null|
@@ -29,7 +33,7 @@ layout: default
 |**2025-10-18**|**Large-Scale Empirical Analysis of Continuous Fuzzing: Insights from 1 Million Fuzzing Sessions**|Tatsuya Shirai et.al.|[2510.16433](http://arxiv.org/abs/2510.16433)|null|
 |**2025-10-18**|**SemOpt: LLM-Driven Code Optimization via Rule-Based Analysis**|Yuwei Zhao et.al.|[2510.16384](http://arxiv.org/abs/2510.16384)|null|
 |**2025-10-15**|**On-Chain Decentralized Learning and Cost-Effective Inference for DeFi Attack Mitigation**|Abdulrahman Alhaidari et.al.|[2510.16024](http://arxiv.org/abs/2510.16024)|null|
-|**2025-10-16**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
+|**2025-11-04**|**AndroByte: LLM-Driven Privacy Analysis through Bytecode Summarization and Dynamic Dataflow Call Graph Generation**|Mst Eshita Khatun et.al.|[2510.15112](http://arxiv.org/abs/2510.15112)|null|
 |**2025-10-16**|**Caruca: Effective and Efficient Specification Mining for Opaque Software Components**|Evangelos Lamprou et.al.|[2510.14279](http://arxiv.org/abs/2510.14279)|null|
 |**2025-10-15**|**Relativistic reflection within an extended hot plasma geometry**|Alexey D. Nekrasov et.al.|[2510.13337](http://arxiv.org/abs/2510.13337)|null|
 |**2025-10-15**|**Injection, Attack and Erasure: Revocable Backdoor Attacks via Machine Unlearning**|Baogang Song et.al.|[2510.13322](http://arxiv.org/abs/2510.13322)|null|
