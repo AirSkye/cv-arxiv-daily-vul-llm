@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.11.07
+## Updated on 2025.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**Speed at the Cost of Quality? The Impact of LLM Agent Assistance on Software Development**|Hao He et.al.|[2511.04427](http://arxiv.org/abs/2511.04427)|null|
+|**2025-11-06**|**Explaining Software Vulnerabilities with Large Language Models**|Oshando Johnson et.al.|[2511.04179](http://arxiv.org/abs/2511.04179)|null|
+|**2025-11-06**|**LLM-Driven Adaptive Source-Sink Identification and False Positive Mitigation for Static Analysis**|Shiyin Lin et.al.|[2511.04023](http://arxiv.org/abs/2511.04023)|null|
+|**2025-11-06**|**Specification-Guided Vulnerability Detection with Large Language Models**|Hao Zhu et.al.|[2511.04014](http://arxiv.org/abs/2511.04014)|null|
+|**2025-11-06**|**Hybrid Fuzzing with LLM-Guided Input Mutation and Semantic Feedback**|Shiyin Lin et.al.|[2511.03995](http://arxiv.org/abs/2511.03995)|null|
 |**2025-11-05**|**Security Audit of intel ICE Driver for e810 Network Interface Card**|Oisin O Sullivan et.al.|[2511.01910](http://arxiv.org/abs/2511.01910)|null|
 |**2025-11-03**|**ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis**|Hanzhong Liang et.al.|[2511.01393](http://arxiv.org/abs/2511.01393)|null|
 |**2025-11-03**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
