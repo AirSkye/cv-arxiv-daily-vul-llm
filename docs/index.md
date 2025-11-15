@@ -2,15 +2,63 @@
 layout: default
 ---
 
-## Updated on 2025.11.13
+## Updated on 2025.11.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-03**|**On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection**|Md Abdul Hannan et.al.|[2510.27675](http://arxiv.org/abs/2510.27675)|null|
-|**2025-10-27**|**LLM-Powered Detection of Price Manipulation in DeFi**|Lu Liu et.al.|[2510.21272](http://arxiv.org/abs/2510.21272)|null|
+|**2025-11-13**|**Taught by the Flawed: How Dataset Insecurity Breeds Vulnerable AI Code**|Catherine Xia et.al.|[2511.09879](http://arxiv.org/abs/2511.09879)|null|
+|**2025-11-12**|**Leveraging Self-Paced Learning for Software Vulnerability Detection**|Zeru Cheng et.al.|[2511.09212](http://arxiv.org/abs/2511.09212)|null|
+|**2025-11-12**|**One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts**|Zexu Wang et.al.|[2511.09134](http://arxiv.org/abs/2511.09134)|null|
+|**2025-11-12**|**Simulating Psychological Risks in Human-AI Interactions: Real-Case Informed Modeling of AI-Induced Addiction, Anorexia, Depression, Homicide, Psychosis, and Suicide**|Chayapatr Archiwaranguprok et.al.|[2511.08880](http://arxiv.org/abs/2511.08880)|null|
+|**2025-10-29**|**Knowledge Graph Analysis of Legal Understanding and Violations in LLMs**|Abha Jha et.al.|[2511.08593](http://arxiv.org/abs/2511.08593)|null|
+|**2025-11-12**|**QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities**|Claire Wang et.al.|[2511.08462](http://arxiv.org/abs/2511.08462)|null|
+|**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060](http://arxiv.org/abs/2511.08060)|null|
+|**2025-11-10**|**A Self-Improving Architecture for Dynamic Safety in Large Language Models**|Tyler Slater et.al.|[2511.07645](http://arxiv.org/abs/2511.07645)|null|
+|**2025-11-10**|**Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents**|Hanlin Cai et.al.|[2511.07176](http://arxiv.org/abs/2511.07176)|null|
+|**2025-11-10**|**MedVoiceBias: A Controlled Study of Audio LLM Behavior in Clinical Decision-Making**|Zhi Rui Tam et.al.|[2511.06592](http://arxiv.org/abs/2511.06592)|null|
+|**2025-11-09**|**RAG-targeted Adversarial Attack on LLM-based Threat Detection and Mitigation Framework**|Seif Ikbarieh et.al.|[2511.06212](http://arxiv.org/abs/2511.06212)|null|
+|**2025-11-12**|**MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
+|**2025-11-06**|**Explaining Software Vulnerabilities with Large Language Models**|Oshando Johnson et.al.|[2511.04179](http://arxiv.org/abs/2511.04179)|null|
+|**2025-11-06**|**Specification-Guided Vulnerability Detection with Large Language Models**|Hao Zhu et.al.|[2511.04014](http://arxiv.org/abs/2511.04014)|null|
+|**2025-11-03**|**Detecting Vulnerabilities from Issue Reports for Internet-of-Things**|Sogol Masoumzadeh et.al.|[2511.01941](http://arxiv.org/abs/2511.01941)|null|
+|**2025-11-03**|**ConneX: Automatically Resolving Transaction Opacity of Cross-Chain Bridges for Security Analysis**|Hanzhong Liang et.al.|[2511.01393](http://arxiv.org/abs/2511.01393)|null|
+|**2025-11-03**|**Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems**|Minseok Kim et.al.|[2511.01268](http://arxiv.org/abs/2511.01268)|null|
+|**2025-11-02**|**A Comprehensive Empirical Evaluation of Agent Frameworks on Code-centric Software Engineering Tasks**|Zhuowen Yin et.al.|[2511.00872](http://arxiv.org/abs/2511.00872)|null|
+|**2025-11-01**|**ShadowLogic: Backdoors in Any Whitebox LLM**|Kasimir Schulz et.al.|[2511.00664](http://arxiv.org/abs/2511.00664)|null|
+|**2025-11-01**|**Proactive DDoS Detection and Mitigation in Decentralized Software-Defined Networking via Port-Level Monitoring and Zero-Training Large Language Models**|Mohammed N. Swileh et.al.|[2511.00460](http://arxiv.org/abs/2511.00460)|null|
+|**2025-11-01**|**PADBen: A Comprehensive Benchmark for Evaluating AI Text Detectors Against Paraphrase Attacks**|Yiwei Zha et.al.|[2511.00416](http://arxiv.org/abs/2511.00416)|null|
+|**2025-10-31**|**On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection**|Md Abdul Hannan et.al.|[2510.27675](http://arxiv.org/abs/2510.27675)|null|
+|**2025-10-31**|**Adapting Large Language Models to Emerging Cybersecurity using Retrieval Augmented Generation**|Arnabh Borah et.al.|[2510.27080](http://arxiv.org/abs/2510.27080)|null|
+|**2025-10-28**|**Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations**|Yifan Wu et.al.|[2510.24408](http://arxiv.org/abs/2510.24408)|null|
+|**2025-10-27**|**MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers**|Bin Wang et.al.|[2510.23673](http://arxiv.org/abs/2510.23673)|null|
+|**2025-10-24**|**Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models**|Pavlos Ntais et.al.|[2510.22085](http://arxiv.org/abs/2510.22085)|null|
+|**2025-10-24**|**FLAMES: Fine-tuning LLMs to Synthesize Invariants for Smart Contract Security**|Mojtaba Eshghie et.al.|[2510.21401](http://arxiv.org/abs/2510.21401)|null|
+|**2025-10-24**|**LLM-Powered Detection of Price Manipulation in DeFi**|Lu Liu et.al.|[2510.21272](http://arxiv.org/abs/2510.21272)|null|
+|**2025-10-24**|**Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency**|Yukun Jiang et.al.|[2510.21189](http://arxiv.org/abs/2510.21189)|null|
+|**2025-10-23**|**Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages**|Ronghao Ni et.al.|[2510.20739](http://arxiv.org/abs/2510.20739)|null|
+|**2025-10-22**|**LAPRAD: LLM-Assisted PRotocol Attack Discovery**|R. Can Aygun et.al.|[2510.19264](http://arxiv.org/abs/2510.19264)|null|
+|**2025-10-22**|**Trace: Securing Smart Contract Repository Against Access Control Vulnerability**|Chong Chen et.al.|[2510.19254](http://arxiv.org/abs/2510.19254)|null|
+|**2025-10-20**|**BlueCodeAgent: A Blue Teaming Agent Enabled by Automated Red Teaming for CodeGen AI**|Chengquan Guo et.al.|[2510.18131](http://arxiv.org/abs/2510.18131)|null|
+|**2025-10-20**|**BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?**|Fengqing Jiang et.al.|[2510.18003](http://arxiv.org/abs/2510.18003)|null|
+|**2025-10-20**|**ParaVul: A Parallel Large Language Model and Retrieval-Augmented Framework for Smart Contract Vulnerability Detection**|Tenghui Huang et.al.|[2510.17919](http://arxiv.org/abs/2510.17919)|null|
+|**2025-10-18**|**TritonRL: Training LLMs to Think and Code Triton Without Cheating**|Jiin Woo et.al.|[2510.17891](http://arxiv.org/abs/2510.17891)|null|
+|**2025-10-17**|**MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing**|Shiwen Ou et.al.|[2510.15690](http://arxiv.org/abs/2510.15690)|null|
+|**2025-10-17**|**MalCVE: Malware Detection and CVE Association Using Large Language Models**|Eduard Andrei Cristea et.al.|[2510.15567](http://arxiv.org/abs/2510.15567)|null|
+|**2025-10-17**|**Selecting and Combining Large Language Models for Scalable Code Clone Detection**|Muslim Chochlov et.al.|[2510.15480](http://arxiv.org/abs/2510.15480)|null|
+|**2025-10-15**|**Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems**|Edoardo Allegrini et.al.|[2510.14133](http://arxiv.org/abs/2510.14133)|null|
+|**2025-10-17**|**PIShield: Detecting Prompt Injection Attacks via Intrinsic LLM Features**|Wei Zou et.al.|[2510.14005](http://arxiv.org/abs/2510.14005)|null|
+|**2025-10-14**|**Guarding the Guardrails: A Taxonomy-Driven Approach to Jailbreak Detection**|Olga E. Sorokoletova et.al.|[2510.13893](http://arxiv.org/abs/2510.13893)|null|
+|**2025-10-29**|**A Multilingual, Large-Scale Study of the Interplay between LLM Safeguards, Personalisation, and Disinformation**|João A. Leite et.al.|[2510.12993](http://arxiv.org/abs/2510.12993)|null|
+|**2025-10-14**|**StyleDecipher: Robust and Explainable Detection of LLM-Generated Texts with Stylistic Analysis**|Siyuan Li et.al.|[2510.12608](http://arxiv.org/abs/2510.12608)|null|
+|**2025-10-14**|**Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach**|Zhenyu Mao et.al.|[2510.12120](http://arxiv.org/abs/2510.12120)|null|
+|**2025-10-13**|**TraceAegis: Securing LLM-Based Agents via Hierarchical and Behavioral Anomaly Detection**|Jiahao Liu et.al.|[2510.11203](http://arxiv.org/abs/2510.11203)|null|
+|**2025-10-12**|**The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable High-Accuracy Authorship Attribution**|Norbert Tihanyi et.al.|[2510.10493](http://arxiv.org/abs/2510.10493)|null|
+|**2025-10-11**|**Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models**|Jugal Gajjar et.al.|[2510.10321](http://arxiv.org/abs/2510.10321)|null|
+|**2025-10-10**|**Group-Adaptive Adversarial Learning for Robust Fake News Detection Against Malicious Comments**|Zhao Tong et.al.|[2510.09712](http://arxiv.org/abs/2510.09712)|null|
+|**2025-10-10**|**Detecting Data Contamination from Reinforcement Learning Post-training for Large Language Models**|Yongding Tao et.al.|[2510.09259](http://arxiv.org/abs/2510.09259)|null|
 |**2025-10-06**|**From Trace to Line: LLM Agent for Real-World OSS Vulnerability Localization**|Haoran Xi et.al.|[2510.02389](http://arxiv.org/abs/2510.02389)|null|
 |**2025-09-23**|**LLaVul: A Multimodal LLM for Interpretable Vulnerability Reasoning about Source Code**|Ala Jararweh et.al.|[2509.17337](http://arxiv.org/abs/2509.17337)|null|
 |**2025-09-16**|**VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection**|Ziliang Wang et.al.|[2509.11523](http://arxiv.org/abs/2509.11523)|null|
@@ -64,29 +112,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-07**|**Specification-Guided Vulnerability Detection with Large Language Models**|Hao Zhu et.al.|[2511.04014](http://arxiv.org/abs/2511.04014)|null|
-|**2025-10-29**|**Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations**|Yifan Wu et.al.|[2510.24408](http://arxiv.org/abs/2510.24408)|null|
-|**2025-10-29**|**MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers**|Bin Wang et.al.|[2510.23673](http://arxiv.org/abs/2510.23673)|null|
-|**2025-10-09**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
-|**2025-10-01**|**Where LLM Agents Fail and How They can Learn From Failures**|Kunlun Zhu et.al.|[2509.25370](http://arxiv.org/abs/2509.25370)|null|
-|**2025-09-24**|**Generic Adversarial Smart Contract Detection with Semantics and Uncertainty-Aware LLM**|Yating Liu et.al.|[2509.18934](http://arxiv.org/abs/2509.18934)|null|
-|**2025-09-10**|**VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation**|David Egea et.al.|[2508.18933](http://arxiv.org/abs/2508.18933)|null|
-|**2025-08-22**|**VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in Verilog**|Xiang Long et.al.|[2508.13092](http://arxiv.org/abs/2508.13092)|null|
-|**2025-07-29**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977](http://arxiv.org/abs/2507.20977)|null|
-|**2025-07-25**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
-|**2025-07-22**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
-|**2025-06-26**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
-|**2025-06-26**|**VulStamp: Vulnerability Assessment using Large Language Model**|Hao Shen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|
-|**2025-06-10**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|null|
-|**2025-05-28**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|null|
-|**2025-05-27**|**VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation**|Ethan TS. Liu et.al.|[2505.19395](http://arxiv.org/abs/2505.19395)|null|
-|**2025-05-06**|**LAMeD: LLM-generated Annotations for Memory Leak Detection**|Ekaterina Shemetova et.al.|[2505.02376](http://arxiv.org/abs/2505.02376)|null|
-|**2025-05-01**|**Leveraging LLM to Strengthen ML-Based Cross-Site Scripting Detection**|Dennis Miczek et.al.|[2504.21045](http://arxiv.org/abs/2504.21045)|null|
-|**2025-04-24**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|
-|**2025-04-21**|**Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask**|Yue Li et.al.|[2504.13474](http://arxiv.org/abs/2504.13474)|null|
-|**2025-06-03**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711](http://arxiv.org/abs/2504.11711)|null|
-|**2025-08-08**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|null|
-|**2025-03-17**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
+|**2025-11-13**|**Taught by the Flawed: How Dataset Insecurity Breeds Vulnerable AI Code**|Catherine Xia et.al.|[2511.09879](http://arxiv.org/abs/2511.09879)|null|
+|**2025-11-12**|**Leveraging Self-Paced Learning for Software Vulnerability Detection**|Zeru Cheng et.al.|[2511.09212](http://arxiv.org/abs/2511.09212)|null|
+|**2025-11-12**|**MCP-RiskCue: Can LLM Infer Risk Information From MCP Server System Logs?**|Jiayi Fu et.al.|[2511.05867](http://arxiv.org/abs/2511.05867)|null|
+|**2025-11-06**|**Specification-Guided Vulnerability Detection with Large Language Models**|Hao Zhu et.al.|[2511.04014](http://arxiv.org/abs/2511.04014)|null|
+|**2025-10-28**|**Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations**|Yifan Wu et.al.|[2510.24408](http://arxiv.org/abs/2510.24408)|null|
+|**2025-10-27**|**MCPGuard : Automatically Detecting Vulnerabilities in MCP Servers**|Bin Wang et.al.|[2510.23673](http://arxiv.org/abs/2510.23673)|null|
+|**2025-10-18**|**TritonRL: Training LLMs to Think and Code Triton Without Cheating**|Jiin Woo et.al.|[2510.17891](http://arxiv.org/abs/2510.17891)|null|
+|**2025-10-17**|**MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing**|Shiwen Ou et.al.|[2510.15690](http://arxiv.org/abs/2510.15690)|null|
+|**2025-10-08**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
+|**2025-10-04**|**LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis**|Hangting Ye et.al.|[2510.03904](http://arxiv.org/abs/2510.03904)|null|
+|**2025-10-19**|**Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs**|Zhixin Xie et.al.|[2510.02833](http://arxiv.org/abs/2510.02833)|null|
+|**2025-09-29**|**Where LLM Agents Fail and How They can Learn From Failures**|Kunlun Zhu et.al.|[2509.25370](http://arxiv.org/abs/2509.25370)|null|
+|**2025-09-23**|**Generic Adversarial Smart Contract Detection with Semantics and Uncertainty-Aware LLM**|Yating Liu et.al.|[2509.18934](http://arxiv.org/abs/2509.18934)|null|
+|**2025-10-01**|**A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks**|S M Asif Hossain et.al.|[2509.14285](http://arxiv.org/abs/2509.14285)|null|
+|**2025-09-05**|**CTCC: A Robust and Stealthy Fingerprinting Framework for Large Language Models via Cross-Turn Contextual Correlation Backdoor**|Zhenhua Xu et.al.|[2509.09703](http://arxiv.org/abs/2509.09703)|null|
+|**2025-08-28**|**CoCoNUTS: Concentrating on Content while Neglecting Uninformative Textual Styles for AI-Generated Peer Review Detection**|Yihan Chen et.al.|[2509.04460](http://arxiv.org/abs/2509.04460)|null|
+|**2025-11-06**|**AI Agentic Vulnerability Injection And Transformation with Optimized Reasoning**|Amine Lbath et.al.|[2508.20866](http://arxiv.org/abs/2508.20866)|null|
+|**2025-08-26**|**VISION: Robust and Interpretable Code Vulnerability Detection Leveraging Counterfactual Augmentation**|David Egea et.al.|[2508.18933](http://arxiv.org/abs/2508.18933)|null|
+|**2025-08-21**|**VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in Verilog**|Xiang Long et.al.|[2508.13092](http://arxiv.org/abs/2508.13092)|null|
+|**2025-07-24**|**Protecting Vulnerable Voices: Synthetic Dataset Generation for Self-Disclosure Detection**|Shalini Jangra et.al.|[2507.22930](http://arxiv.org/abs/2507.22930)|null|
+|**2025-07-28**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977](http://arxiv.org/abs/2507.20977)|null|
+|**2025-07-23**|**VeriMinder: Mitigating Analytical Vulnerabilities in NL2SQL**|Shubham Mohole et.al.|[2507.17896](http://arxiv.org/abs/2507.17896)|null|
+|**2025-11-07**|**CoRe: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
+|**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
+|**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
+|**2025-07-19**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
+|**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
+|**2025-06-25**|**VulStamp: Vulnerability Assessment using Large Language Model**|Hao Shen et.al.|[2506.11484](http://arxiv.org/abs/2506.11484)|null|
+|**2025-06-09**|**Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data**|Xin-Cheng Wen et.al.|[2506.07390](http://arxiv.org/abs/2506.07390)|null|
+|**2025-06-04**|**Client-Side Zero-Shot LLM Inference for Comprehensive In-Browser URL Analysis**|Avihay Cohen et.al.|[2506.03656](http://arxiv.org/abs/2506.03656)|null|
+|**2025-10-05**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842](http://arxiv.org/abs/2505.24842)|null|
+|**2025-05-27**|**How does Misinformation Affect Large Language Model Behaviors and Preferences?**|Miao Peng et.al.|[2505.21608](http://arxiv.org/abs/2505.21608)|null|
+|**2025-05-27**|**SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis**|Yansong Li et.al.|[2505.20630](http://arxiv.org/abs/2505.20630)|null|
+|**2025-05-26**|**VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation**|Ethan TS. Liu et.al.|[2505.19395](http://arxiv.org/abs/2505.19395)|null|
+|**2025-05-22**|**ReCopilot: Reverse Engineering Copilot in Binary Analysis**|Guoqiang Chen et.al.|[2505.16366](http://arxiv.org/abs/2505.16366)|null|
+|**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
+|**2025-05-17**|**On Membership Inference Attacks in Knowledge Distillation**|Ziyao Cui et.al.|[2505.11837](http://arxiv.org/abs/2505.11837)|null|
+|**2025-09-17**|**Defending against Indirect Prompt Injection by Instruction Detection**|Tongyu Wen et.al.|[2505.06311](http://arxiv.org/abs/2505.06311)|null|
+|**2025-08-28**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
+|**2025-05-05**|**LAMeD: LLM-generated Annotations for Memory Leak Detection**|Ekaterina Shemetova et.al.|[2505.02376](http://arxiv.org/abs/2505.02376)|null|
+|**2025-04-28**|**Leveraging LLM to Strengthen ML-Based Cross-Site Scripting Detection**|Dennis Miczek et.al.|[2504.21045](http://arxiv.org/abs/2504.21045)|null|
+|**2025-04-23**|**Case Study: Fine-tuning Small Language Models for Accurate and Private CWE Detection in Python Code**|Md. Azizul Hakim Bappy et.al.|[2504.16584](http://arxiv.org/abs/2504.16584)|null|
+|**2025-09-26**|**MrGuard: A Multilingual Reasoning Guardrail for Universal LLM Safety**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
+|**2025-04-18**|**Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask**|Yue Li et.al.|[2504.13474](http://arxiv.org/abs/2504.13474)|null|
+|**2025-04-15**|**Propaganda via AI? A Study on Semantic Backdoors in Large Language Models**|Nay Myat Min et.al.|[2504.12344](http://arxiv.org/abs/2504.12344)|null|
+|**2025-05-31**|**The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs**|Haonan Li et.al.|[2504.11711](http://arxiv.org/abs/2504.11711)|null|
+|**2025-04-11**|**X-Guard: Multilingual Guard Agent for Content Moderation**|Bibek Upadhayay et.al.|[2504.08848](http://arxiv.org/abs/2504.08848)|null|
+|**2025-08-07**|**R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation**|Martin Weyssow et.al.|[2504.04699](http://arxiv.org/abs/2504.04699)|null|
+|**2025-04-11**|**MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits**|Brandon Radosevich et.al.|[2504.03767](http://arxiv.org/abs/2504.03767)|null|
+|**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
 |**2025-02-19**|**LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights**|Ze Sheng et.al.|[2502.07049](http://arxiv.org/abs/2502.07049)|null|
 |**2025-10-17**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|
 |**2025-07-22**|**CGP-Tuning: Structure-Aware Soft Prompt Tuning for Code Vulnerability Detection**|Ruijun Feng et.al.|[2501.04510](http://arxiv.org/abs/2501.04510)|null|
@@ -119,6 +194,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-13**|**On the Detectability of Active Gradient Inversion Attacks in Federated Learning**|Vincenzo Carletti et.al.|[2511.10502](http://arxiv.org/abs/2511.10502)|null|
+|**2025-11-13**|**Odd-Ramsey numbers of Hamilton cycles**|Simona Boyadzhiyska et.al.|[2511.10497](http://arxiv.org/abs/2511.10497)|null|
+|**2025-11-13**|**Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting**|Feng Wang et.al.|[2511.10434](http://arxiv.org/abs/2511.10434)|null|
+|**2025-11-13**|**Fragile by Design: On the Limits of Adversarial Defenses in Personalized Generation**|Zhen Chen et.al.|[2511.10382](http://arxiv.org/abs/2511.10382)|null|
+|**2025-11-13**|**Development of the CEPC analog hadron calorimeter prototype**|Yukun Shi et.al.|[2511.10377](http://arxiv.org/abs/2511.10377)|null|
+|**2025-11-13**|**MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation**|Xun Huang et.al.|[2511.10376](http://arxiv.org/abs/2511.10376)|null|
+|**2025-11-13**|**A Large-Scale Collection Of (Non-)Actionable Static Code Analysis Reports**|Dávid Kószó et.al.|[2511.10323](http://arxiv.org/abs/2511.10323)|null|
+|**2025-11-13**|**Semantic Communication with Hopfield Memories**|Karim Nasreddine et.al.|[2511.10302](http://arxiv.org/abs/2511.10302)|null|
+|**2025-11-13**|**A Third-order Conservative Semi-Lagrangian Discontinuous Galerkin Scheme For the Transport Equation on Curvilinear Unstructured Meshes**|Xiaofeng Cai et.al.|[2511.10100](http://arxiv.org/abs/2511.10100)|null|
+|**2025-11-13**|**From Static Structures to Ensembles: Studying and Harnessing Protein Structure Tokenization**|Zijing Liu et.al.|[2511.10056](http://arxiv.org/abs/2511.10056)|null|
+|**2025-11-13**|**Trapped by Their Own Light: Deployable and Stealth Retroreflective Patch Attacks on Traffic Sign Recognition Systems**|Go Tsuruoka et.al.|[2511.10050](http://arxiv.org/abs/2511.10050)|null|
+|**2025-11-13**|**Grating haptic perception through touchscreen: Sighted vs. Visually Impaired**|Yichen Gao et.al.|[2511.10026](http://arxiv.org/abs/2511.10026)|null|
+|**2025-11-13**|**SVD-NO: Learning PDE Solution Operators with SVD Integral Kernels**|Noam Koren et.al.|[2511.10025](http://arxiv.org/abs/2511.10025)|null|
+|**2025-11-13**|**AssertMiner: Module-Level Spec Generation and Assertion Mining using Static Analysis Guided LLMs**|Hongqin Lyu et.al.|[2511.10007](http://arxiv.org/abs/2511.10007)|null|
+|**2025-11-13**|**MOBA: A Material-Oriented Backdoor Attack against LiDAR-based 3D Object Detection Systems**|Saket S. Chaturvedi et.al.|[2511.09999](http://arxiv.org/abs/2511.09999)|null|
+|**2025-11-13**|**ASSENT: Learning-Based Association Optimization for Distributed Cell-Free ISAC**|Mehdi Zafari et.al.|[2511.09992](http://arxiv.org/abs/2511.09992)|null|
+|**2025-11-13**|**Pack-A-Mal: A Malware Analysis Framework for Open-Source Packages**|Duc-Ly Vu et.al.|[2511.09957](http://arxiv.org/abs/2511.09957)|null|
+|**2025-11-13**|**SeQuant Framework for Symbolic and Numerical Tensor Algebra. I. Core Capabilities**|Bimal Gaudel et.al.|[2511.09943](http://arxiv.org/abs/2511.09943)|null|
+|**2025-11-13**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al.|[2511.09917](http://arxiv.org/abs/2511.09917)|null|
+|**2025-11-13**|**EnchTable: Unified Safety Alignment Transfer in Fine-tuned Large Language Models**|Jialin Wu et.al.|[2511.09880](http://arxiv.org/abs/2511.09880)|null|
+|**2025-11-13**|**Taught by the Flawed: How Dataset Insecurity Breeds Vulnerable AI Code**|Catherine Xia et.al.|[2511.09879](http://arxiv.org/abs/2511.09879)|null|
+|**2025-11-13**|**Randomized batch-sampling Kaczmarz methods for general linear systems**|Dong-Yue Xie et.al.|[2511.09872](http://arxiv.org/abs/2511.09872)|null|
+|**2025-11-13**|**ConSurv: Multimodal Continual Learning for Survival Analysis**|Dianzhi Yu et.al.|[2511.09853](http://arxiv.org/abs/2511.09853)|null|
+|**2025-11-12**|**AI Annotation Orchestration: Evaluating LLM verifiers to Improve the Quality of LLM Annotations in Learning Analytics**|Bakhtawar Ahtisham et.al.|[2511.09785](http://arxiv.org/abs/2511.09785)|null|
+|**2025-11-12**|**Lithological Controls on the Permeability of Geologic Faults: Surrogate Modeling and Sensitivity Analysis**|Hannah Lu et.al.|[2511.09674](http://arxiv.org/abs/2511.09674)|null|
+|**2025-11-12**|**TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks**|Johannes Kiechle et.al.|[2511.09605](http://arxiv.org/abs/2511.09605)|null|
+|**2025-11-11**|**SynthTools: A Framework for Scaling Synthetic Tools for Agent Development**|Tommaso Castellani et.al.|[2511.09572](http://arxiv.org/abs/2511.09572)|null|
+|**2025-11-12**|**Instantaneous Type~I blow-up and non-uniqueness of smooth solutions of the Navier--Stokes equations**|Alexey Cheskidov et.al.|[2511.09556](http://arxiv.org/abs/2511.09556)|null|
+|**2025-11-13**|**Enhancing Password Security Through a High-Accuracy Scoring Framework Using Random Forests**|Muhammed El Mustaqeem Mazelan et.al.|[2511.09492](http://arxiv.org/abs/2511.09492)|null|
+|**2025-11-12**|**CARE-Bench: A Benchmark of Diverse Client Simulations Guided by Expert Principles for Evaluating LLMs in Psychological Counseling**|Bichen Wang et.al.|[2511.09407](http://arxiv.org/abs/2511.09407)|null|
+|**2025-11-13**|**Potent but Stealthy: Rethink Profile Pollution against Sequential Recommendation via Bi-level Constrained Reinforcement Paradigm**|Jiajie Su et.al.|[2511.09392](http://arxiv.org/abs/2511.09392)|null|
+|**2025-11-12**|**Thermodynamic uncertainty relations for relativistic quantum thermal machines**|Dimitris Moustos et.al.|[2511.09369](http://arxiv.org/abs/2511.09369)|null|
+|**2025-11-12**|**Efficient and Noise-Resilient Molecular Quantum Simulation with the Generalized Superfast Encoding**|James Brown et.al.|[2511.09322](http://arxiv.org/abs/2511.09322)|null|
+|**2025-11-12**|**Explaining higher-order correlations between elliptic and triangular flow**|Mubarak Alqahtani et.al.|[2511.09283](http://arxiv.org/abs/2511.09283)|null|
+|**2025-11-12**|**Leveraging Self-Paced Learning for Software Vulnerability Detection**|Zeru Cheng et.al.|[2511.09212](http://arxiv.org/abs/2511.09212)|null|
+|**2025-11-12**|**CoCo-MILP: Inter-Variable Contrastive and Intra-Constraint Competitive MILP Solution Prediction**|Tianle Pu et.al.|[2511.09209](http://arxiv.org/abs/2511.09209)|null|
+|**2025-11-12**|**One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts**|Zexu Wang et.al.|[2511.09134](http://arxiv.org/abs/2511.09134)|null|
+|**2025-11-12**|**Attack-Centric by Design: A Program-Structure Taxonomy of Smart Contract Vulnerabilities**|Parsa Hedayatnia et.al.|[2511.09051](http://arxiv.org/abs/2511.09051)|null|
+|**2025-11-12**|**Causally-Grounded Dual-Path Attention Intervention for Object Hallucination Mitigation in LVLMs**|Liu Yu et.al.|[2511.09018](http://arxiv.org/abs/2511.09018)|null|
+|**2025-11-12**|**T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection**|Jiazhou Zhou et.al.|[2511.08997](http://arxiv.org/abs/2511.08997)|null|
+|**2025-11-12**|**Simulating Psychological Risks in Human-AI Interactions: Real-Case Informed Modeling of AI-Induced Addiction, Anorexia, Depression, Homicide, Psychosis, and Suicide**|Chayapatr Archiwaranguprok et.al.|[2511.08880](http://arxiv.org/abs/2511.08880)|null|
+|**2025-11-12**|**Conformal Prediction for Multi-Source Detection on a Network**|Xingchao Jian et.al.|[2511.08867](http://arxiv.org/abs/2511.08867)|null|
+|**2025-11-12**|**On topological descriptors for graph products**|Mattie Ji et.al.|[2511.08846](http://arxiv.org/abs/2511.08846)|null|
+|**2025-11-11**|**Physics-based localization methodology for Data Assimilation by Ensemble Kalman Filter**|Sarp Er et.al.|[2511.08845](http://arxiv.org/abs/2511.08845)|null|
+|**2025-11-11**|**3D Guard-Layer: An Integrated Agentic AI Safety System for Edge Artificial Intelligence**|Eren Kurshan et.al.|[2511.08842](http://arxiv.org/abs/2511.08842)|null|
+|**2025-11-11**|**TIGER-MARL: Enhancing Multi-Agent Reinforcement Learning with Temporal Information through Graph-based Embeddings and Representations**|Nikunj Gupta et.al.|[2511.08832](http://arxiv.org/abs/2511.08832)|null|
+|**2025-11-11**|**Electromagnetic Radiation from Baryon-Rich Matter in Heavy-Ion Collisions**|Xiang-Yu Wu et.al.|[2511.08773](http://arxiv.org/abs/2511.08773)|null|
+|**2025-11-11**|**Grid Operational Benefit Analysis of Data Center Spatial Flexibility: Congestion Relief, Renewable Energy Curtailment Reduction, and Cost Saving**|Haoxiang Wan et.al.|[2511.08759](http://arxiv.org/abs/2511.08759)|null|
+|**2025-11-11**|**Bridging Natural Language and ASP: A Hybrid Approach Using LLMs and AMR Parsing**|Connar Hite et.al.|[2511.08715](http://arxiv.org/abs/2511.08715)|null|
+|**2025-11-11**|**PEGNet: A Physics-Embedded Graph Network for Long-Term Stable Multiphysics Simulation**|Can Yang et.al.|[2511.08697](http://arxiv.org/abs/2511.08697)|null|
 |**2025-11-12**|**QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities**|Claire Wang et.al.|[2511.08462](http://arxiv.org/abs/2511.08462)|null|
 |**2025-11-06**|**Speed at the Cost of Quality? The Impact of LLM Agent Assistance on Software Development**|Hao He et.al.|[2511.04427](http://arxiv.org/abs/2511.04427)|null|
 |**2025-11-06**|**Explaining Software Vulnerabilities with Large Language Models**|Oshando Johnson et.al.|[2511.04179](http://arxiv.org/abs/2511.04179)|null|
@@ -597,45 +722,45 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-04**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
-|**2025-09-18**|**Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**|Moritz Bley et.al.|[2509.13740](http://arxiv.org/abs/2509.13740)|null|
-|**2025-09-15**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970](http://arxiv.org/abs/2509.09970)|null|
-|**2025-09-09**|**FuzzBox: Blending Fuzzing into Emulation for Binary-Only Embedded Targets**|Carmine Cesarano et.al.|[2509.05643](http://arxiv.org/abs/2509.05643)|null|
-|**2025-05-29**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
-|**2025-05-14**|**ROSA: Finding Backdoors with Fuzzing**|Dimitri Kokkonis et.al.|[2505.08544](http://arxiv.org/abs/2505.08544)|null|
-|**2025-01-13**|**IoT Firmware Version Identification Using Transfer Learning with Twin Neural Networks**|Ashley Andrews et.al.|[2501.06033](http://arxiv.org/abs/2501.06033)|null|
-|**2024-12-23**|**Autonomous Vehicle Security: A Deep Dive into Threat Modeling**|Amal Yousseef et.al.|[2412.15348](http://arxiv.org/abs/2412.15348)|null|
-|**2024-11-08**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
-|**2024-07-18**|**UEFI Vulnerability Signature Generation using Static and Symbolic Analysis**|Md Shafiuzzaman et.al.|[2407.07166](http://arxiv.org/abs/2407.07166)|null|
-|**2024-06-21**|**AutoFirm: Automatically Identifying Reused Libraries inside IoT Firmware at Large-Scale**|YongLe Chen et.al.|[2406.12947](http://arxiv.org/abs/2406.12947)|null|
-|**2024-10-16**|**Mitigating and Analysis of Memory Usage Attack in IoE System**|Zainab Alwaisi et.al.|[2404.19480](http://arxiv.org/abs/2404.19480)|null|
-|**2024-03-06**|**Self-adaptive Traffic Anomaly Detection System for IoT Smart Home Environments**|Naoto Watanabe et.al.|[2403.02744](http://arxiv.org/abs/2403.02744)|null|
-|**2025-04-02**|**LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Devices**|Jiahui Xiang et.al.|[2402.16043](http://arxiv.org/abs/2402.16043)|null|
-|**2023-11-08**|**SoK: Security Below the OS -- A Security Analysis of UEFI**|Priyanka Prakash Surve et.al.|[2311.03809](http://arxiv.org/abs/2311.03809)|null|
-|**2025-01-10**|**Harnessing the Power of LLM to Support Binary Taint Analysis**|Puzhuo Liu et.al.|[2310.08275](http://arxiv.org/abs/2310.08275)|null|
-|**2023-08-04**|**SemDiff: Binary Similarity Detection by Diffing Key-Semantics Graphs**|Zian Liu et.al.|[2308.01463](http://arxiv.org/abs/2308.01463)|null|
-|**2024-01-19**|**VulMatch: Binary-level Vulnerability Detection Through Signature**|Zian Liu et.al.|[2308.00288](http://arxiv.org/abs/2308.00288)|null|
-|**2023-06-21**|**UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware**|Binbin Zhao et.al.|[2306.11206](http://arxiv.org/abs/2306.11206)|null|
-|**2023-05-12**|**HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning**|Chongqi Guan et.al.|[2305.06430](http://arxiv.org/abs/2305.06430)|null|
-|**2023-09-13**|**LibAM: An Area Matching Framework for Detecting Third-party Libraries in Binaries**|Siyuan Li et.al.|[2305.04026](http://arxiv.org/abs/2305.04026)|null|
-|**2023-02-13**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
-|**2023-05-23**|**Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge**|Shouguo Yang et.al.|[2301.00511](http://arxiv.org/abs/2301.00511)|null|
-|**2023-01-02**|**One Bad Apple Spoils the Barrel: Understanding the Security Risks Introduced by Third-Party Components in IoT Firmware**|Binbin Zhao et.al.|[2212.13716](http://arxiv.org/abs/2212.13716)|null|
-|**2022-05-03**|**Protecting the Integrity of IoT Sensor Data and Firmware With A Feather-Light Blockchain Infrastructure**|Daniel Reijsbergen et.al.|[2205.00185](http://arxiv.org/abs/2205.00185)|null|
-|**2022-02-08**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
-|**2021-11-04**|**A Survey of Machine Learning Algorithms for Detecting Malware in IoT Firmware**|Erik Larsen et.al.|[2111.02388](http://arxiv.org/abs/2111.02388)|null|
-|**2021-09-28**|**Finding Taint-Style Vulnerabilities in Linux-based Embedded Firmware with SSE-based Alias Analysis**|Kai Cheng et.al.|[2109.12209](http://arxiv.org/abs/2109.12209)|null|
-|**2021-08-16**|**Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection**|Shouguo Yang et.al.|[2108.06082](http://arxiv.org/abs/2108.06082)|null|
-|**2021-06-01**|**A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices**|Dingding Wang et.al.|[2105.14298](http://arxiv.org/abs/2105.14298)|null|
-|**2021-04-07**|**RFQuack: A Universal Hardware-Software Toolkit for Wireless Protocol (Security) Analysis and Research**|Federico Maggi et.al.|[2104.02551](http://arxiv.org/abs/2104.02551)|null|
-|**2021-10-01**|**Using a Cyber Digital Twin for Continuous Automotive Security Requirements Verification**|Ana Cristina Franco da Silva et.al.|[2102.00790](http://arxiv.org/abs/2102.00790)|null|
-|**2020-01-30**|**IoT Behavioral Monitoring via Network Traffic Analysis**|Arunan Sivanathan et.al.|[2001.10632](http://arxiv.org/abs/2001.10632)|null|
-|**2019-12-19**|**Harzer Roller: Linker-Based Instrumentation for Enhanced Embedded Security Testing**|Katharina Bogad et.al.|[1912.08573](http://arxiv.org/abs/1912.08573)|null|
-|**2021-08-24**|**Towards usable automated detection of CPU architecture and endianness for arbitrary binary files and object code sequences**|Sami Kairajärvi et.al.|[1908.05459](http://arxiv.org/abs/1908.05459)|null|
-|**2019-08-15**|**Side-Channel Aware Fuzzing**|Philip Sperl et.al.|[1908.05012](http://arxiv.org/abs/1908.05012)|null|
-|**2018-03-08**|**Co-processor-based Behavior Monitoring: Application to the Detection of Attacks Against the System Management Mode**|Ronny Chevalier et.al.|[1803.02700](http://arxiv.org/abs/1803.02700)|null|
-|**2018-07-30**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
-|**2017-02-20**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
+|**2025-11-03**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
+|**2025-09-17**|**Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**|Moritz Bley et.al.|[2509.13740](http://arxiv.org/abs/2509.13740)|null|
+|**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970](http://arxiv.org/abs/2509.09970)|null|
+|**2025-09-06**|**FuzzBox: Blending Fuzzing into Emulation for Binary-Only Embedded Targets**|Carmine Cesarano et.al.|[2509.05643](http://arxiv.org/abs/2509.05643)|null|
+|**2025-05-28**|**Transformers for Secure Hardware Systems: Applications, Challenges, and Outlook**|Banafsheh Saber Latibari et.al.|[2505.22605](http://arxiv.org/abs/2505.22605)|null|
+|**2025-05-13**|**ROSA: Finding Backdoors with Fuzzing**|Dimitri Kokkonis et.al.|[2505.08544](http://arxiv.org/abs/2505.08544)|null|
+|**2025-01-10**|**IoT Firmware Version Identification Using Transfer Learning with Twin Neural Networks**|Ashley Andrews et.al.|[2501.06033](http://arxiv.org/abs/2501.06033)|null|
+|**2024-12-19**|**Autonomous Vehicle Security: A Deep Dive into Threat Modeling**|Amal Yousseef et.al.|[2412.15348](http://arxiv.org/abs/2412.15348)|null|
+|**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
+|**2024-07-17**|**UEFI Vulnerability Signature Generation using Static and Symbolic Analysis**|Md Shafiuzzaman et.al.|[2407.07166](http://arxiv.org/abs/2407.07166)|null|
+|**2024-06-18**|**AutoFirm: Automatically Identifying Reused Libraries inside IoT Firmware at Large-Scale**|YongLe Chen et.al.|[2406.12947](http://arxiv.org/abs/2406.12947)|null|
+|**2024-10-15**|**Mitigating and Analysis of Memory Usage Attack in IoE System**|Zainab Alwaisi et.al.|[2404.19480](http://arxiv.org/abs/2404.19480)|null|
+|**2024-03-05**|**Self-adaptive Traffic Anomaly Detection System for IoT Smart Home Environments**|Naoto Watanabe et.al.|[2403.02744](http://arxiv.org/abs/2403.02744)|null|
+|**2024-11-04**|**LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Devices**|Jiahui Xiang et.al.|[2402.16043](http://arxiv.org/abs/2402.16043)|null|
+|**2023-11-07**|**SoK: Security Below the OS -- A Security Analysis of UEFI**|Priyanka Prakash Surve et.al.|[2311.03809](http://arxiv.org/abs/2311.03809)|null|
+|**2025-01-09**|**Harnessing the Power of LLM to Support Binary Taint Analysis**|Puzhuo Liu et.al.|[2310.08275](http://arxiv.org/abs/2310.08275)|null|
+|**2023-08-02**|**SemDiff: Binary Similarity Detection by Diffing Key-Semantics Graphs**|Zian Liu et.al.|[2308.01463](http://arxiv.org/abs/2308.01463)|null|
+|**2024-01-18**|**VulMatch: Binary-level Vulnerability Detection Through Signature**|Zian Liu et.al.|[2308.00288](http://arxiv.org/abs/2308.00288)|null|
+|**2023-06-20**|**UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware**|Binbin Zhao et.al.|[2306.11206](http://arxiv.org/abs/2306.11206)|null|
+|**2023-05-10**|**HoneyIoT: Adaptive High-Interaction Honeypot for IoT Devices Through Reinforcement Learning**|Chongqi Guan et.al.|[2305.06430](http://arxiv.org/abs/2305.06430)|null|
+|**2023-09-12**|**LibAM: An Area Matching Framework for Detecting Third-party Libraries in Binaries**|Siyuan Li et.al.|[2305.04026](http://arxiv.org/abs/2305.04026)|null|
+|**2023-02-09**|**PETIoT: PEnetration Testing the Internet of Things**|Giampaolo Bella et.al.|[2302.04900](http://arxiv.org/abs/2302.04900)|null|
+|**2023-05-22**|**Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge**|Shouguo Yang et.al.|[2301.00511](http://arxiv.org/abs/2301.00511)|null|
+|**2022-12-29**|**One Bad Apple Spoils the Barrel: Understanding the Security Risks Introduced by Third-Party Components in IoT Firmware**|Binbin Zhao et.al.|[2212.13716](http://arxiv.org/abs/2212.13716)|null|
+|**2022-04-30**|**Protecting the Integrity of IoT Sensor Data and Firmware With A Feather-Light Blockchain Infrastructure**|Daniel Reijsbergen et.al.|[2205.00185](http://arxiv.org/abs/2205.00185)|null|
+|**2022-02-05**|**Iota: A Framework for Analyzing System-Level Security of IoTs**|Zheng Fang et.al.|[2202.02506](http://arxiv.org/abs/2202.02506)|null|
+|**2021-11-03**|**A Survey of Machine Learning Algorithms for Detecting Malware in IoT Firmware**|Erik Larsen et.al.|[2111.02388](http://arxiv.org/abs/2111.02388)|null|
+|**2021-09-24**|**Finding Taint-Style Vulnerabilities in Linux-based Embedded Firmware with SSE-based Alias Analysis**|Kai Cheng et.al.|[2109.12209](http://arxiv.org/abs/2109.12209)|null|
+|**2021-08-13**|**Asteria: Deep Learning-based AST-Encoding for Cross-platform Binary Code Similarity Detection**|Shouguo Yang et.al.|[2108.06082](http://arxiv.org/abs/2108.06082)|null|
+|**2021-05-29**|**A Measurement Study on the (In)security of End-of-Life (EoL) Embedded Devices**|Dingding Wang et.al.|[2105.14298](http://arxiv.org/abs/2105.14298)|null|
+|**2021-04-06**|**RFQuack: A Universal Hardware-Software Toolkit for Wireless Protocol (Security) Analysis and Research**|Federico Maggi et.al.|[2104.02551](http://arxiv.org/abs/2104.02551)|null|
+|**2021-09-30**|**Using a Cyber Digital Twin for Continuous Automotive Security Requirements Verification**|Ana Cristina Franco da Silva et.al.|[2102.00790](http://arxiv.org/abs/2102.00790)|null|
+|**2020-01-28**|**IoT Behavioral Monitoring via Network Traffic Analysis**|Arunan Sivanathan et.al.|[2001.10632](http://arxiv.org/abs/2001.10632)|null|
+|**2019-12-18**|**Harzer Roller: Linker-Based Instrumentation for Enhanced Embedded Security Testing**|Katharina Bogad et.al.|[1912.08573](http://arxiv.org/abs/1912.08573)|null|
+|**2019-08-15**|**Towards usable automated detection of CPU architecture and endianness for arbitrary binary files and object code sequences**|Sami Kairajärvi et.al.|[1908.05459](http://arxiv.org/abs/1908.05459)|null|
+|**2019-08-14**|**Side-Channel Aware Fuzzing**|Philip Sperl et.al.|[1908.05012](http://arxiv.org/abs/1908.05012)|null|
+|**2018-03-07**|**Co-processor-based Behavior Monitoring: Application to the Detection of Attacks Against the System Management Mode**|Ronny Chevalier et.al.|[1803.02700](http://arxiv.org/abs/1803.02700)|null|
+|**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
+|**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
