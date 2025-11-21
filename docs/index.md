@@ -2,15 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.11.19
+## Updated on 2025.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-18**|**From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs**|Heng Zhao et.al.|[2511.14467](http://arxiv.org/abs/2511.14467)|null|
+|**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
+|**2025-11-15**|**ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning**|Shaowei Guan et.al.|[2511.13771](http://arxiv.org/abs/2511.13771)|null|
 |**2025-11-15**|**AlignTree: Efficient Defense Against LLM Jailbreak Attacks**|Gil Goren et.al.|[2511.12217](http://arxiv.org/abs/2511.12217)|null|
-|**2025-11-14**|**VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization**|Youpeng Li et.al.|[2511.11896](http://arxiv.org/abs/2511.11896)|null|
+|**2025-11-18**|**VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization**|Youpeng Li et.al.|[2511.11896](http://arxiv.org/abs/2511.11896)|null|
 |**2025-11-14**|**Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts**|Biagio Boi et.al.|[2511.11250](http://arxiv.org/abs/2511.11250)|null|
 |**2025-11-13**|**BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models**|Shuaitong Liu et.al.|[2511.10714](http://arxiv.org/abs/2511.10714)|null|
 |**2025-11-13**|**Taught by the Flawed: How Dataset Insecurity Breeds Vulnerable AI Code**|Catherine Xia et.al.|[2511.09879](http://arxiv.org/abs/2511.09879)|null|
@@ -199,11 +202,44 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data**|Xiongyi Cai et.al.|[2511.15704](http://arxiv.org/abs/2511.15704)|null|
+|**2025-11-19**|**Assessing Power Flow Controllability via Variable Line Reactance**|Eric Haag et.al.|[2511.15685](http://arxiv.org/abs/2511.15685)|null|
+|**2025-11-19**|**Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**|Haidong Kang et.al.|[2511.15390](http://arxiv.org/abs/2511.15390)|null|
+|**2025-11-19**|**QSentry: Backdoor Detection for Quantum Neural Networks via Measurement Clustering**|Shuolei Wang et.al.|[2511.15376](http://arxiv.org/abs/2511.15376)|null|
+|**2025-11-19**|**A Hybrid-High Order method for fracture modelling**|Alessandra Crippa et.al.|[2511.15345](http://arxiv.org/abs/2511.15345)|null|
+|**2025-11-19**|**The Walls Have Ears: Unveiling Cross-Chain Sandwich Attacks in DeFi**|Chuanlei Li et.al.|[2511.15245](http://arxiv.org/abs/2511.15245)|null|
+|**2025-11-19**|**Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments**|Jingzhuo Zhou et.al.|[2511.15165](http://arxiv.org/abs/2511.15165)|null|
+|**2025-11-19**|**MAIF: Enforcing AI Trust and Provenance with an Artifact-Centric Agentic Paradigm**|Vineeth Sai Narajala et.al.|[2511.15097](http://arxiv.org/abs/2511.15097)|null|
+|**2025-11-19**|**Lippmann-Schwinger-Lanczos algorithm for inverse scattering problems with unknown reflectivity and loss distributions: One-dimensional Case**|Jorn Zimmerling et.al.|[2511.15058](http://arxiv.org/abs/2511.15058)|null|
+|**2025-11-19**|**Towards Classifying Benign And Malicious Packages Using Machine Learning**|Thanh-Cong Nguyen et.al.|[2511.15033](http://arxiv.org/abs/2511.15033)|null|
+|**2025-11-19**|**GeoShield: Byzantine Fault Detection and Recovery for Geo-Distributed Real-Time Cyber-Physical Systems**|Yifan Cai et.al.|[2511.15031](http://arxiv.org/abs/2511.15031)|null|
+|**2025-11-18**|**RAID: In-Network RA Signaling Storm Detection for 5G Open RAN**|Mohamed Rouili et.al.|[2511.14921](http://arxiv.org/abs/2511.14921)|null|
+|**2025-11-19**|**FLARE: Adaptive Multi-Dimensional Reputation for Robust Client Reliability in Federated Learning**|Abolfazl Younesi et.al.|[2511.14715](http://arxiv.org/abs/2511.14715)|null|
+|**2025-11-18**|**Improving segmentation of retinal arteries and veins using cardiac signal in doppler holograms**|Marius Dubosc et.al.|[2511.14654](http://arxiv.org/abs/2511.14654)|null|
+|**2025-11-18**|**Enhancing Agentic Autonomous Scientific Discovery with Vision-Language Model Capabilities**|Kahaan Gandhi et.al.|[2511.14631](http://arxiv.org/abs/2511.14631)|null|
+|**2025-11-18**|**3D-Guided Scalable Flow Matching for Generating Volumetric Tissue Spatial Transcriptomics from Serial Histology**|Mohammad Vali Sanian et.al.|[2511.14613](http://arxiv.org/abs/2511.14613)|null|
+|**2025-11-18**|**Transition and Stability of 3D MHD Around Couette Flow**|Niklas Knobel et.al.|[2511.14609](http://arxiv.org/abs/2511.14609)|null|
+|**2025-11-18**|**Uncertainty analysis of URANS simulations coupled with an anisotropic pressure fluctuation model**|Ali Eidi et.al.|[2511.14564](http://arxiv.org/abs/2511.14564)|null|
+|**2025-11-18**|**Solving Navier-Stokes Equations Using Data-free Physics-Informed Neural Networks With Hard Boundary Conditions**|Ritik Pal et.al.|[2511.14497](http://arxiv.org/abs/2511.14497)|null|
+|**2025-11-18**|**From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs**|Heng Zhao et.al.|[2511.14467](http://arxiv.org/abs/2511.14467)|null|
+|**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
+|**2025-11-18**|**Sigil: Server-Enforced Watermarking in U-Shaped Split Federated Learning via Gradient Injection**|Zhengchunmin Dai et.al.|[2511.14422](http://arxiv.org/abs/2511.14422)|null|
+|**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
+|**2025-11-18**|**Towards Authentic Movie Dubbing with Retrieve-Augmented Director-Actor Interaction Learning**|Rui Liu et.al.|[2511.14249](http://arxiv.org/abs/2511.14249)|null|
+|**2025-11-18**|**Two-dimensional Spatial Optimization for Electric Motorcycle Powertrain Elements using Mixed-integer Programming**|Jorn van Kampen et.al.|[2511.14236](http://arxiv.org/abs/2511.14236)|null|
+|**2025-11-18**|**KTester: Leveraging Domain and Testing Knowledge for More Effective LLM-based Test Generation**|Anji Li et.al.|[2511.14224](http://arxiv.org/abs/2511.14224)|null|
+|**2025-11-18**|**Exotic compact objects in Einstein-Scalar-Maxwell theories**|Antonio De Felice et.al.|[2511.14207](http://arxiv.org/abs/2511.14207)|null|
+|**2025-11-18**|**Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation**|Zhaoyu Liu et.al.|[2511.14186](http://arxiv.org/abs/2511.14186)|null|
+|**2025-11-18**|**NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval**|Junchen Li et.al.|[2511.14096](http://arxiv.org/abs/2511.14096)|null|
+|**2025-11-18**|**MRI Plane Orientation Detection using a Context-Aware 2.5D Model**|SangHyuk Kim et.al.|[2511.14021](http://arxiv.org/abs/2511.14021)|null|
+|**2025-11-18**|**Hybrid to Quarkonia transitions**|Rubén Oncala et.al.|[2511.14016](http://arxiv.org/abs/2511.14016)|null|
+|**2025-11-18**|**FlakyGuard: Automatically Fixing Flaky Tests at Industry Scale**|Chengpeng Li et.al.|[2511.14002](http://arxiv.org/abs/2511.14002)|null|
+|**2025-11-17**|**CORGI: Efficient Pattern Matching With Quadratic Guarantees**|Daniel Weitekamp et.al.|[2511.13942](http://arxiv.org/abs/2511.13942)|null|
 |**2025-11-17**|**Sequences of Bivariate Bicycle Codes from Covering Graphs**|Benjamin C. B. Symons et.al.|[2511.13560](http://arxiv.org/abs/2511.13560)|null|
-|**2025-11-17**|**Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew**|Farhin Farhad Riya et.al.|[2511.13535](http://arxiv.org/abs/2511.13535)|null|
+|**2025-11-18**|**Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew**|Farhin Farhad Riya et.al.|[2511.13535](http://arxiv.org/abs/2511.13535)|null|
 |**2025-11-17**|**A Computationally Efficient Framework for Free-trajectory Minimum-lap-time Optimization of Racing Cars**|Erik van den Eshof et.al.|[2511.13522](http://arxiv.org/abs/2511.13522)|null|
 |**2025-11-17**|**Discovering Operational Patterns Using Image-Based Convolutional Clustering and Composite Evaluation: A Case Study in Foundry Melting Processes**|Zhipeng Ma et.al.|[2511.13444](http://arxiv.org/abs/2511.13444)|null|
-|**2025-11-17**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
+|**2025-11-18**|**Emergent spectral geometry in the Coherence--Curvature Model**|Jorge Lamas et.al.|[2511.13423](http://arxiv.org/abs/2511.13423)|null|
 |**2025-11-17**|**FLOWER: Flow-Oriented Entity-Relationship Tool**|Dmitry Moskalev et.al.|[2511.13357](http://arxiv.org/abs/2511.13357)|null|
 |**2025-11-17**|**An LLM-based Quantitative Framework for Evaluating High-Stealthy Backdoor Risks in OSS Supply Chains**|Zihe Yan et.al.|[2511.13341](http://arxiv.org/abs/2511.13341)|null|
 |**2025-11-17**|**AutoMalDesc: Large-Scale Script Analysis for Cyber Threat Research**|Alexandru-Mihai Apostu et.al.|[2511.13333](http://arxiv.org/abs/2511.13333)|null|
