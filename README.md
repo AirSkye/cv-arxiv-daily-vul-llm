@@ -1,4 +1,4 @@
-## Updated on 2025.11.21
+## Updated on 2025.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -121,7 +121,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -206,12 +206,34 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-20**|**Systematically Deconstructing APVD Steganography and its Payload with a Unified Deep Learning Paradigm**|Kabbo Jit Deb et.al.|[2511.16604](http://arxiv.org/abs/2511.16604)|null|
+|**2025-11-20**|**An Information-Theoretic Reconstruction of Curvature**|Amandip Sangha et.al.|[2511.16601](http://arxiv.org/abs/2511.16601)|null|
+|**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi et.al.|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
+|**2025-11-20**|**OpenQudit: Extensible and Accelerated Numerical Quantum Compilation via a JIT-Compiled DSL**|Ed Younis et.al.|[2511.16585](http://arxiv.org/abs/2511.16585)|null|
+|**2025-11-20**|**Li-P-S Electrolyte Materials as a Benchmark for Machine-Learned Interatomic Potentials**|Natascia L. Fragapane et.al.|[2511.16569](http://arxiv.org/abs/2511.16569)|null|
+|**2025-11-20**|**LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling**|Rongjie Liao et.al.|[2511.16485](http://arxiv.org/abs/2511.16485)|null|
+|**2025-11-20**|**Scalable and Provable Kemeny Constant Computation on Static and Dynamic Graphs: A 2-Forest Sampling Approach**|Cheng Li et.al.|[2511.16356](http://arxiv.org/abs/2511.16356)|null|
+|**2025-11-20**|**Multi-Domain Security for 6G ISAC: Challenges and Opportunities in Transportation**|Musa Furkan Keskin et.al.|[2511.16316](http://arxiv.org/abs/2511.16316)|null|
+|**2025-11-20**|**Dynamic Risk Assessment for the Wildland-Urban Interface**|Yusheng Hu et.al.|[2511.16302](http://arxiv.org/abs/2511.16302)|null|
+|**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
+|**2025-11-20**|**Physics-informed Gaussian Processes as Linear Model Predictive Controller with Constraint Satisfaction**|Jörn Tebbe et.al.|[2511.16195](http://arxiv.org/abs/2511.16195)|null|
+|**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
+|**2025-11-20**|**The Immersed Boundary Problem in 2-D: the Navier-Stokes Case**|Jiajun Tong et.al.|[2511.16189](http://arxiv.org/abs/2511.16189)|null|
+|**2025-11-20**|**HybSpecNet: A Critical Analysis of Architectural Instability in Hybrid-Domain Spectral GNNs**|Huseyin Goksu et.al.|[2511.16101](http://arxiv.org/abs/2511.16101)|null|
+|**2025-11-20**|**Chiral Spin-Split Magnons in the Metallic Altermagnet CrSb**|Ashutosh K. Singh et.al.|[2511.16086](http://arxiv.org/abs/2511.16086)|null|
+|**2025-11-20**|**L-JacobiNet and S-JacobiNet: An Analysis of Adaptive Generalization, Stabilization, and Spectral Domain Trade-offs in GNNs**|Huseyin Goksu et.al.|[2511.16081](http://arxiv.org/abs/2511.16081)|null|
+|**2025-11-20**|**Gauge-Equivariant Graph Networks via Self-Interference Cancellation**|Yoonhyuk Choi et.al.|[2511.16062](http://arxiv.org/abs/2511.16062)|null|
+|**2025-11-20**|**Physically Realistic Sequence-Level Adversarial Clothing for Robust Human-Detection Evasion**|Dingkun Zhou et.al.|[2511.16020](http://arxiv.org/abs/2511.16020)|null|
+|**2025-11-20**|**InfCode-C++: Intent-Guided Semantic Retrieval and AST-Structured Search for C++ Issue Resolution**|Qingao Dong et.al.|[2511.16005](http://arxiv.org/abs/2511.16005)|null|
+|**2025-11-19**|**Scalable Privilege Analysis for Multi-Cloud Big Data Platforms: A Hypergraph Approach**|Sai Sitharaman et.al.|[2511.15837](http://arxiv.org/abs/2511.15837)|null|
+|**2025-11-19**|**Securing AI Agents Against Prompt Injection Attacks**|Badrinath Ramakrishnan et.al.|[2511.15759](http://arxiv.org/abs/2511.15759)|null|
+|**2025-11-19**|**Towards Streaming Prediction of Oscillatory Flows: A Data Assimilation and Machine Learning Approach**|Miguel M. Valero et.al.|[2511.15758](http://arxiv.org/abs/2511.15758)|null|
 |**2025-11-19**|**In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data**|Xiongyi Cai et.al.|[2511.15704](http://arxiv.org/abs/2511.15704)|null|
 |**2025-11-19**|**Assessing Power Flow Controllability via Variable Line Reactance**|Eric Haag et.al.|[2511.15685](http://arxiv.org/abs/2511.15685)|null|
 |**2025-11-19**|**Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**|Haidong Kang et.al.|[2511.15390](http://arxiv.org/abs/2511.15390)|null|
@@ -819,7 +841,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -865,7 +887,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
