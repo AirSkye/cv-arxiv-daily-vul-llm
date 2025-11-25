@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.11.24
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Multi-Agent Code Verification with Compound Vulnerability Detection**|Shreshth Rajan et.al.|[2511.16708](http://arxiv.org/abs/2511.16708)|null|
 |**2025-11-18**|**From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs**|Heng Zhao et.al.|[2511.14467](http://arxiv.org/abs/2511.14467)|null|
 |**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
 |**2025-11-15**|**ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning**|Shaowei Guan et.al.|[2511.13771](http://arxiv.org/abs/2511.13771)|null|
@@ -202,6 +203,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|null|
+|**2025-11-21**|**A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents**|Sizhe Zhou et.al.|[2511.17208](http://arxiv.org/abs/2511.17208)|null|
+|**2025-11-21**|**Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition**|Aditya Mishra et.al.|[2511.17183](http://arxiv.org/abs/2511.17183)|null|
+|**2025-11-21**|**Teager-Kaiser Energy Methods For EEG Feature Extraction In Biomedical Applications**|Ioanna Chourdaki et.al.|[2511.17164](http://arxiv.org/abs/2511.17164)|null|
+|**2025-11-21**|**TICAL: Trusted and Integrity-protected Compilation of AppLications**|Robert Krahn et.al.|[2511.17070](http://arxiv.org/abs/2511.17070)|null|
+|**2025-11-21**|**Empirical Validation of Continuum Traffic Flow Model of Capacity Drop at Sag and Tunnel Bottlenecks**|Shin-ichiro Kai et.al.|[2511.16962](http://arxiv.org/abs/2511.16962)|null|
+|**2025-11-21**|**MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models**|Xiongtao Sun et.al.|[2511.16940](http://arxiv.org/abs/2511.16940)|null|
+|**2025-11-20**|**The F. John model and Cummins' equations for freely floating objects**|David Lannes et.al.|[2511.16826](http://arxiv.org/abs/2511.16826)|null|
+|**2025-11-20**|**GCL-OT: Graph Contrastive Learning with Optimal Transport for Heterophilic Text-Attributed Graphs**|Yating Ren et.al.|[2511.16778](http://arxiv.org/abs/2511.16778)|null|
+|**2025-11-20**|**RampoNN: A Reachability-Guided System Falsification for Efficient Cyber-Kinetic Vulnerability Detection**|Kohei Tsujio et.al.|[2511.16765](http://arxiv.org/abs/2511.16765)|null|
+|**2025-11-20**|**Multi-Agent Code Verification with Compound Vulnerability Detection**|Shreshth Rajan et.al.|[2511.16708](http://arxiv.org/abs/2511.16708)|null|
 |**2025-11-20**|**Systematically Deconstructing APVD Steganography and its Payload with a Unified Deep Learning Paradigm**|Kabbo Jit Deb et.al.|[2511.16604](http://arxiv.org/abs/2511.16604)|null|
 |**2025-11-20**|**An Information-Theoretic Reconstruction of Curvature**|Amandip Sangha et.al.|[2511.16601](http://arxiv.org/abs/2511.16601)|null|
 |**2025-11-20**|**Green Resilience of Cyber-Physical Systems: Doctoral Dissertation**|Diaeddin Rimawi et.al.|[2511.16593](http://arxiv.org/abs/2511.16593)|null|
@@ -210,7 +222,7 @@ layout: default
 |**2025-11-20**|**LLM4EO: Large Language Model for Evolutionary Optimization in Flexible Job Shop Scheduling**|Rongjie Liao et.al.|[2511.16485](http://arxiv.org/abs/2511.16485)|null|
 |**2025-11-20**|**Scalable and Provable Kemeny Constant Computation on Static and Dynamic Graphs: A 2-Forest Sampling Approach**|Cheng Li et.al.|[2511.16356](http://arxiv.org/abs/2511.16356)|null|
 |**2025-11-20**|**Multi-Domain Security for 6G ISAC: Challenges and Opportunities in Transportation**|Musa Furkan Keskin et.al.|[2511.16316](http://arxiv.org/abs/2511.16316)|null|
-|**2025-11-20**|**Dynamic Risk Assessment for the Wildland-Urban Interface**|Yusheng Hu et.al.|[2511.16302](http://arxiv.org/abs/2511.16302)|null|
+|**2025-11-21**|**Dynamic Risk Assessment of Wildland-Urban Interface Fires**|Yusheng Hu et.al.|[2511.16302](http://arxiv.org/abs/2511.16302)|null|
 |**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
 |**2025-11-20**|**Physics-informed Gaussian Processes as Linear Model Predictive Controller with Constraint Satisfaction**|Jörn Tebbe et.al.|[2511.16195](http://arxiv.org/abs/2511.16195)|null|
 |**2025-11-20**|**CausalMamba: Interpretable State Space Modeling for Temporal Rumor Causality**|Xiaotong Zhan et.al.|[2511.16191](http://arxiv.org/abs/2511.16191)|null|
