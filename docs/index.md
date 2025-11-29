@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.27
+## Updated on 2025.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -135,7 +135,7 @@ layout: default
 |**2025-10-17**|**MirrorFuzz: Leveraging LLM and Shared Bugs for Deep Learning Framework APIs Fuzzing**|Shiwen Ou et.al.|[2510.15690](http://arxiv.org/abs/2510.15690)|null|
 |**2025-10-08**|**Distilling Lightweight Language Models for C/C++ Vulnerabilities**|Zhiyuan Wei et.al.|[2510.06645](http://arxiv.org/abs/2510.06645)|null|
 |**2025-10-04**|**LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis**|Hangting Ye et.al.|[2510.03904](http://arxiv.org/abs/2510.03904)|null|
-|**2025-10-19**|**Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs**|Zhixin Xie et.al.|[2510.02833](http://arxiv.org/abs/2510.02833)|null|
+|**2025-11-26**|**Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs**|Zhixin Xie et.al.|[2510.02833](http://arxiv.org/abs/2510.02833)|null|
 |**2025-09-29**|**Where LLM Agents Fail and How They can Learn From Failures**|Kunlun Zhu et.al.|[2509.25370](http://arxiv.org/abs/2509.25370)|null|
 |**2025-11-14**|**Revealing Adversarial Smart Contracts through Semantic Interpretation and Uncertainty Estimation**|Yating Liu et.al.|[2509.18934](http://arxiv.org/abs/2509.18934)|null|
 |**2025-10-01**|**A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks**|S M Asif Hossain et.al.|[2509.14285](http://arxiv.org/abs/2509.14285)|null|
@@ -207,6 +207,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
+|**2025-11-26**|**An AI-Enabled Hybrid Cyber-Physical Framework for Adaptive Control in Smart Grids**|Muhammad Siddique et.al.|[2511.21590](http://arxiv.org/abs/2511.21590)|null|
+|**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
+|**2025-11-26**|**Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning**|Kaifeng Hong et.al.|[2511.21416](http://arxiv.org/abs/2511.21416)|null|
+|**2025-11-26**|**An octree-based sampling algorithm for analyzing big simulation data**|Janis Geise et.al.|[2511.21352](http://arxiv.org/abs/2511.21352)|null|
+|**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
+|**2025-11-26**|**Sampling-Based Optimization with Parallelized Physics Simulator for Bimanual Manipulation**|Iryna Hurova et.al.|[2511.21264](http://arxiv.org/abs/2511.21264)|null|
+|**2025-11-26**|**Curvature-driven pattern formation in biomembranes: A gradient flow approach**|Patrik Knopf et.al.|[2511.21230](http://arxiv.org/abs/2511.21230)|null|
+|**2025-11-26**|**The effect of tip-speed ratio and free-stream turbulence on the coupled wind turbine blade/wake dynamics**|Francisco J. G. de Oliveira et.al.|[2511.21206](http://arxiv.org/abs/2511.21206)|null|
+|**2025-11-26**|**A Network Dynamical Systems Approach to SDGs**|Wuyang Zhang et.al.|[2511.21091](http://arxiv.org/abs/2511.21091)|null|
+|**2025-11-26**|**A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems**|Yuxuan Zhu et.al.|[2511.21032](http://arxiv.org/abs/2511.21032)|null|
+|**2025-11-26**|**Semantic Superiority vs. Forensic Efficiency: A Comparative Analysis of Deep Learning and Psycholinguistics for Business Email Compromise Detection**|Yaw Osei Adjei et.al.|[2511.20944](http://arxiv.org/abs/2511.20944)|null|
+|**2025-11-26**|**Data-Driven Post-Event Analysis with Real-World Oscillation Data from Denmark**|Youhong Chen et.al.|[2511.20939](http://arxiv.org/abs/2511.20939)|null|
+|**2025-11-25**|**Securing the Model Context Protocol (MCP): Risks, Controls, and Governance**|Herman Errico et.al.|[2511.20920](http://arxiv.org/abs/2511.20920)|null|
+|**2025-11-24**|**PropensityBench: Evaluating Latent Safety Risks in Large Language Models via an Agentic Approach**|Udari Madhushani Sehwag et.al.|[2511.20703](http://arxiv.org/abs/2511.20703)|null|
 |**2025-11-25**|**E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems**|Rui Xue et.al.|[2511.20564](http://arxiv.org/abs/2511.20564)|null|
 |**2025-11-25**|**Towards Trustworthy Wi-Fi Sensing: Systematic Evaluation of Deep Learning Model Robustness to Adversarial Attacks**|Shreevanth Krishnaa Gopalakrishnan et.al.|[2511.20456](http://arxiv.org/abs/2511.20456)|null|
 |**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333](http://arxiv.org/abs/2511.20333)|null|
@@ -220,9 +235,9 @@ layout: default
 |**2025-11-25**|**Semantic-KG: Using Knowledge Graphs to Construct Benchmarks for Measuring Semantic Similarity**|Qiyao Wei et.al.|[2511.19925](http://arxiv.org/abs/2511.19925)|null|
 |**2025-11-25**|**Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains**|Arun Chowdary Sanna et.al.|[2511.19874](http://arxiv.org/abs/2511.19874)|null|
 |**2025-11-25**|**Response Analysis of Four-Level Heterodyne Rydberg Atom Receiver**|Yu Tang et.al.|[2511.19867](http://arxiv.org/abs/2511.19867)|null|
-|**2025-11-25**|**A Systematic Analysis of Large Language Models with RAG-enabled Dynamic Prompting for Medical Error Detection and Correction**|Farzad Ahmed et.al.|[2511.19858](http://arxiv.org/abs/2511.19858)|null|
+|**2025-11-26**|**A Systematic Analysis of Large Language Models with RAG-enabled Dynamic Prompting for Medical Error Detection and Correction**|Farzad Ahmed et.al.|[2511.19858](http://arxiv.org/abs/2511.19858)|null|
 |**2025-11-25**|**DOGE: Differentiable Bezier Graph Optimization for Road Network Extraction**|Jiahui Sun et.al.|[2511.19850](http://arxiv.org/abs/2511.19850)|null|
-|**2025-11-24**|**Multi-Hypotheses Ego-Tracking for Resilient Navigation**|Peter Iwer Hoedt Karstensen et.al.|[2511.19770](http://arxiv.org/abs/2511.19770)|null|
+|**2025-11-26**|**Multi-Hypotheses Ego-Tracking for Resilient Navigation**|Peter Iwer Hoedt Karstensen et.al.|[2511.19770](http://arxiv.org/abs/2511.19770)|null|
 |**2025-11-24**|**Efficient Transferable Optimal Transport via Min-Sliced Transport Plans**|Xinran Liu et.al.|[2511.19741](http://arxiv.org/abs/2511.19741)|null|
 |**2025-11-24**|**BASICS: Binary Analysis and Stack Integrity Checker System for Buffer Overflow Mitigation**|Luis Ferreirinha et.al.|[2511.19670](http://arxiv.org/abs/2511.19670)|null|
 |**2025-11-24**|**Agint: Agentic Graph Compilation for Software Engineering Agents**|Abhi Chivukula et.al.|[2511.19635](http://arxiv.org/abs/2511.19635)|null|
