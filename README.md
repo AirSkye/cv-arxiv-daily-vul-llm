@@ -1,4 +1,4 @@
-## Updated on 2025.12.01
+## Updated on 2025.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
+|**2025-12-01**|**Large Language Models Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation**|Qingyuan Fei et.al.|[2512.01255](http://arxiv.org/abs/2512.01255)|null|
+|**2025-11-23**|**Proactive Defense: Compound AI for Detecting Persuasion Attacks and Measuring Inoculation Effectiveness**|Svitlana Volkova et.al.|[2511.21749](http://arxiv.org/abs/2511.21749)|null|
 |**2025-11-25**|**Cross-LLM Generalization of Behavioral Backdoor Detection in AI Agent Supply Chains**|Arun Chowdary Sanna et.al.|[2511.19874](http://arxiv.org/abs/2511.19874)|null|
 |**2025-11-24**|**Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution**|Rong Feng et.al.|[2511.19130](http://arxiv.org/abs/2511.19130)|null|
 |**2025-11-23**|**From Reviewers' Lens: Understanding Bug Bounty Report Invalid Reasons with LLMs**|Jiangrui Zheng et.al.|[2511.18608](http://arxiv.org/abs/2511.18608)|null|
@@ -126,7 +129,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -156,7 +159,7 @@
 |**2025-07-28**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977](http://arxiv.org/abs/2507.20977)|null|
 |**2025-07-23**|**VeriMinder: Mitigating Analytical Vulnerabilities in NL2SQL**|Shubham Mohole et.al.|[2507.17896](http://arxiv.org/abs/2507.17896)|null|
 |**2025-11-07**|**CoRe: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
-|**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
+|**2025-11-29**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
 |**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
 |**2025-07-19**|**QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration**|Junze Hu et.al.|[2506.23644](http://arxiv.org/abs/2506.23644)|null|
 |**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
@@ -211,12 +214,62 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[2512.01973](http://arxiv.org/abs/2512.01973)|null|
+|**2025-12-01**|**CauSight: Learning to Supersense for Visual Causal Discovery**|Yize Zhang et.al.|[2512.01827](http://arxiv.org/abs/2512.01827)|null|
+|**2025-12-01**|**Gravitational lensing inside and outside of a marginally unstable photon sphere in a general, static, spherically symmetric, and asymptotically-flat spacetime in strong deflection limits**|Naoki Tsukamoto et.al.|[2512.01688](http://arxiv.org/abs/2512.01688)|null|
+|**2025-12-01**|**Morphling: Fast, Fused, and Flexible GNN Training at Scale**|Anubhab et.al.|[2512.01678](http://arxiv.org/abs/2512.01678)|null|
+|**2025-12-01**|**StarDist: A Code Generator for Distributed Graph Algorithms**|Barenya Kumar Nandy et.al.|[2512.01646](http://arxiv.org/abs/2512.01646)|null|
+|**2025-12-01**|**Equivalence of Stability Criteria for Multi-Fluid Stars**|Tian-Shun Chen et.al.|[2512.01640](http://arxiv.org/abs/2512.01640)|null|
+|**2025-12-01**|**Heuristic algorithms for the stochastic critical node detection problem**|Tuguldur Bayarsaikhan et.al.|[2512.01497](http://arxiv.org/abs/2512.01497)|null|
+|**2025-12-01**|**A Wolf in Sheep's Clothing: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
+|**2025-12-01**|**Generative Modeling with Continuous Flows: Sample Complexity of Flow Matching**|Mudit Gaur et.al.|[2512.01286](http://arxiv.org/abs/2512.01286)|null|
+|**2025-12-01**|**Large Language Models Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation**|Qingyuan Fei et.al.|[2512.01255](http://arxiv.org/abs/2512.01255)|null|
+|**2025-12-01**|**Knowledge Graph Augmented Large Language Models for Next-Visit Disease Prediction**|Ruiyu Wang et.al.|[2512.01210](http://arxiv.org/abs/2512.01210)|null|
+|**2025-12-01**|**Physics-Constrained Neural Dynamics: A Unified Manifold Framework for Large-Scale Power Flow Computation**|Xuezhi Liu et.al.|[2512.01207](http://arxiv.org/abs/2512.01207)|null|
+|**2025-12-01**|**Teaching by Failure: Counter-Example-Driven Curricula for Transformer Self-Improvement**|Harshil Vejendla et.al.|[2512.01187](http://arxiv.org/abs/2512.01187)|null|
+|**2025-12-01**|**DrawingBench: Evaluating Spatial Reasoning and UI Interaction Capabilities of Large Language Models through Mouse-Based Drawing Tasks**|Hyunjun Kim et.al.|[2512.01174](http://arxiv.org/abs/2512.01174)|null|
+|**2025-11-30**|**Sliced Rényi Pufferfish Privacy: Directional Additive Noise Mechanism and Private Learning with Gradient Clipping**|Tao Zhang et.al.|[2512.01115](http://arxiv.org/abs/2512.01115)|null|
+|**2025-11-30**|**A Fast Algorithm for Finding Minimum Weight Cycles in Mining Cyclic Graph Topologies**|Heman Shakeri et.al.|[2512.01049](http://arxiv.org/abs/2512.01049)|null|
+|**2025-11-30**|**A data-driven framework to identify restenosis-prone regions in femoral arteries from geometric and inflow waveform parameters**|Chotirawee Chatpattanasiri et.al.|[2512.01024](http://arxiv.org/abs/2512.01024)|null|
+|**2025-11-30**|**Fault-Tolerant Temperature Control of HRSG Superheaters: Stability Analysis Under Valve Leakage Using Physics-Informed Neural Networks**|Mojtaba Fanoodi et.al.|[2512.00990](http://arxiv.org/abs/2512.00990)|null|
+|**2025-11-30**|**A robust empirical relationship between speed and turbulence energy in the near-Earth solar wind**|Rohit Chhiber et.al.|[2512.00983](http://arxiv.org/abs/2512.00983)|null|
+|**2025-11-30**|**A WASM-Subset Stack Architecture for Low-cost FPGAs using Open-Source EDA Flows**|Aradhya Chakrabarti et.al.|[2512.00974](http://arxiv.org/abs/2512.00974)|null|
+|**2025-11-30**|**SceneProp: Combining Neural Network and Markov Random Field for Scene-Graph Grounding**|Keita Otani et.al.|[2512.00936](http://arxiv.org/abs/2512.00936)|null|
+|**2025-11-30**|**Minimal neuron ablation triggers catastrophic collapse in the language core of Large Vision-Language Models**|Cen Lu et.al.|[2512.00918](http://arxiv.org/abs/2512.00918)|null|
+|**2025-11-30**|**Text Mining Analysis of Symptom Patterns in Medical Chatbot Conversations**|Hamed Razavi et.al.|[2512.00768](http://arxiv.org/abs/2512.00768)|null|
+|**2025-11-30**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Jia et.al.|[2512.00765](http://arxiv.org/abs/2512.00765)|null|
+|**2025-11-30**|**MS-PPO: Morphological-Symmetry-Equivariant Policy for Legged Robot Locomotion**|Sizhe Wei et.al.|[2512.00727](http://arxiv.org/abs/2512.00727)|null|
+|**2025-11-30**|**Graph Data Augmentation with Contrastive Learning on Covariate Distribution Shift**|Fanlong Zeng et.al.|[2512.00716](http://arxiv.org/abs/2512.00716)|null|
+|**2025-11-30**|**FlexiWalker: Extensible GPU Framework for Efficient Dynamic Random Walks with Runtime Adaptation**|Seongyeon Park et.al.|[2512.00705](http://arxiv.org/abs/2512.00705)|null|
+|**2025-11-30**|**Weighted Projective Line ZX Calculus: Quantized Orbifold Geometry for Quantum Compilation**|Gunhee Cho et.al.|[2512.00682](http://arxiv.org/abs/2512.00682)|null|
+|**2025-11-29**|**Self-sufficient Independent Component Analysis via KL Minimizing Flows**|Song Liu et.al.|[2512.00665](http://arxiv.org/abs/2512.00665)|null|
+|**2025-11-29**|**Extended Abstract: Synthesizable Low-overhead Circuit-level Countermeasures and Pro-Active Detection Techniques for Power and EM SCA**|Archisman Ghosh et.al.|[2512.00635](http://arxiv.org/abs/2512.00635)|null|
+|**2025-11-29**|**TrojanLoC: LLM-based Framework for RTL Trojan Localization**|Weihua Xiao et.al.|[2512.00591](http://arxiv.org/abs/2512.00591)|null|
+|**2025-11-29**|**Describe Anything Anywhere At Any Moment**|Nicolas Gorlo et.al.|[2512.00565](http://arxiv.org/abs/2512.00565)|null|
+|**2025-11-29**|**Data-Driven Multi-Emitter Localization Using Spatially Distributed Power Measurements**|H. Nazim Bicer et.al.|[2512.00510](http://arxiv.org/abs/2512.00510)|null|
+|**2025-11-29**|**Inverse spectral problem for glassy state relaxation approximated by Prony series**|Shuli Chen et.al.|[2512.00507](http://arxiv.org/abs/2512.00507)|null|
+|**2025-11-29**|**CausalAffect: Causal Discovery for Facial Affective Understanding**|Guanyu Hu et.al.|[2512.00456](http://arxiv.org/abs/2512.00456)|null|
+|**2025-11-29**|**An RKHS Perspective on Tree Ensembles**|Mehdi Dagdoug et.al.|[2512.00397](http://arxiv.org/abs/2512.00397)|null|
+|**2025-11-29**|**Framework-Aware Code Generation with API Knowledge Graph-Constructed Data: A Study on HarmonyOS**|Mingwei Liu et.al.|[2512.00380](http://arxiv.org/abs/2512.00380)|null|
+|**2025-11-29**|**Assimilation Matters: Model-level Backdoor Detection in Vision-Language Pretrained Models**|Zhongqi Wang et.al.|[2512.00343](http://arxiv.org/abs/2512.00343)|null|
+|**2025-11-29**|**FiCoTS: Fine-to-Coarse LLM-Enhanced Hierarchical Cross-Modality Interaction for Time Series Forecasting**|Yafei Lyu et.al.|[2512.00293](http://arxiv.org/abs/2512.00293)|null|
+|**2025-11-28**|**ng-reactive-lint: Smarter Linting for Angular Apps**|Shrinivass Arunachalam Balasubramanian et.al.|[2512.00250](http://arxiv.org/abs/2512.00250)|null|
+|**2025-11-28**|**When the center matters: color screening and gluelumps in dihedral lattice gauge theories**|Pavel P. Popov et.al.|[2512.00152](http://arxiv.org/abs/2512.00152)|null|
+|**2025-11-28**|**Kinetic Mixing and the Phantom Illusion: Axion-Dilaton Quintessence in Light of DESI DR2**|Michael W. Toomey et.al.|[2511.23463](http://arxiv.org/abs/2511.23463)|null|
+|**2025-11-28**|**Distributed Dynamic Associative Memory via Online Convex Optimization**|Bowen Wang et.al.|[2511.23347](http://arxiv.org/abs/2511.23347)|null|
+|**2025-11-28**|**ParaGate: Parasitic-Driven Domain Adaptation Transfer Learning for Netlist Performance Prediction**|Bin Sun et.al.|[2511.23340](http://arxiv.org/abs/2511.23340)|null|
+|**2025-11-28**|**Multi-Modal Scene Graph with Kolmogorov-Arnold Experts for Audio-Visual Question Answering**|Zijian Fu et.al.|[2511.23304](http://arxiv.org/abs/2511.23304)|null|
+|**2025-11-28**|**Machine Learning for Scientific Visualization: Ensemble Data Analysis**|Hamid Gadirov et.al.|[2511.23290](http://arxiv.org/abs/2511.23290)|null|
+|**2025-11-28**|**High fidelity simulations of the multi-species Vlasov-Maxwell system with the Numerical Flow Iteration**|Rostislav-Paul Wilhelm et.al.|[2511.23286](http://arxiv.org/abs/2511.23286)|null|
+|**2025-11-28**|**SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows**|Niklas Houba et.al.|[2511.23228](http://arxiv.org/abs/2511.23228)|null|
+|**2025-11-28**|**GAPS: Guiding Dynamic Android Analysis with Static Path Synthesis**|Samuele Doria et.al.|[2511.23213](http://arxiv.org/abs/2511.23213)|null|
+|**2025-11-28**|**Quantifying the Privacy-Utility Trade-off in GPS-based Daily Stress Recognition using Semantic Features**|Hoang Khang Phan et.al.|[2511.23200](http://arxiv.org/abs/2511.23200)|null|
 |**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-26**|**An AI-Enabled Hybrid Cyber-Physical Framework for Adaptive Control in Smart Grids**|Muhammad Siddique et.al.|[2511.21590](http://arxiv.org/abs/2511.21590)|null|
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
@@ -922,12 +975,13 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
 |**2025-11-23**|**LLMs as Firmware Experts: A Runtime-Grown Tree-of-Agents Framework**|Xiangrui Zhang et.al.|[2511.18438](http://arxiv.org/abs/2511.18438)|null|
 |**2025-11-03**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
 |**2025-09-17**|**Protocol-Aware Firmware Rehosting for Effective Fuzzing of Embedded Network Stacks**|Moritz Bley et.al.|[2509.13740](http://arxiv.org/abs/2509.13740)|null|
@@ -969,7 +1023,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
