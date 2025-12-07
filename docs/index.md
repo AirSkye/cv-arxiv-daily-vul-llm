@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.12.05
+## Updated on 2025.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
+|**2025-11-28**|**Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection**|Fouad Trad et.al.|[2512.04106](http://arxiv.org/abs/2512.04106)|null|
 |**2025-12-03**|**SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting**|Hanxiu Zhang et.al.|[2512.03620](http://arxiv.org/abs/2512.03620)|null|
 |**2025-12-03**|**Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models**|Jun Leng et.al.|[2512.03356](http://arxiv.org/abs/2512.03356)|null|
 |**2025-12-02**|**AGENTSAFE: A Unified Framework for Ethical Assurance and Governance in Agentic AI**|Rafflesia Khan et.al.|[2512.03180](http://arxiv.org/abs/2512.03180)|null|
@@ -22,7 +24,7 @@ layout: default
 |**2025-11-24**|**Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution**|Rong Feng et.al.|[2511.19130](http://arxiv.org/abs/2511.19130)|null|
 |**2025-11-23**|**From Reviewers' Lens: Understanding Bug Bounty Report Invalid Reasons with LLMs**|Jiangrui Zheng et.al.|[2511.18608](http://arxiv.org/abs/2511.18608)|null|
 |**2025-11-23**|**LLMs as Firmware Experts: A Runtime-Grown Tree-of-Agents Framework**|Xiangrui Zhang et.al.|[2511.18438](http://arxiv.org/abs/2511.18438)|null|
-|**2025-12-02**|**Multi-Agent Code Verification via Information Theory**|Shreshth Rajan et.al.|[2511.16708](http://arxiv.org/abs/2511.16708)|null|
+|**2025-12-03**|**Multi-Agent Code Verification via Information Theory**|Shreshth Rajan et.al.|[2511.16708](http://arxiv.org/abs/2511.16708)|null|
 |**2025-11-18**|**From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs**|Heng Zhao et.al.|[2511.14467](http://arxiv.org/abs/2511.14467)|null|
 |**2025-11-18**|**Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education**|Xin Yi et.al.|[2511.14423](http://arxiv.org/abs/2511.14423)|null|
 |**2025-11-15**|**ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning**|Shaowei Guan et.al.|[2511.13771](http://arxiv.org/abs/2511.13771)|null|
@@ -172,6 +174,7 @@ layout: default
 |**2025-05-22**|**ReCopilot: Reverse Engineering Copilot in Binary Analysis**|Guoqiang Chen et.al.|[2505.16366](http://arxiv.org/abs/2505.16366)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
 |**2025-05-17**|**On Membership Inference Attacks in Knowledge Distillation**|Ziyao Cui et.al.|[2505.11837](http://arxiv.org/abs/2505.11837)|null|
+|**2025-12-03**|**Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents**|Ratnadira Widyasari et.al.|[2505.10961](http://arxiv.org/abs/2505.10961)|null|
 |**2025-09-17**|**Defending against Indirect Prompt Injection by Instruction Detection**|Tongyu Wen et.al.|[2505.06311](http://arxiv.org/abs/2505.06311)|null|
 |**2025-08-28**|**Program Semantic Inequivalence Game with Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2505.03818](http://arxiv.org/abs/2505.03818)|null|
 |**2025-05-05**|**LAMeD: LLM-generated Annotations for Memory Leak Detection**|Ekaterina Shemetova et.al.|[2505.02376](http://arxiv.org/abs/2505.02376)|null|
@@ -217,6 +220,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-04**|**Phase Transitions and Black Hole Stability in Gauged N = 8 Supergravity**|Andres Anabalon et.al.|[2512.05088](http://arxiv.org/abs/2512.05088)|null|
+|**2025-12-04**|**Mean curvature flow near a peanut solution**|Sigurd Angenent et.al.|[2512.05077](http://arxiv.org/abs/2512.05077)|null|
+|**2025-12-04**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|null|
+|**2025-12-04**|**Axionic tunneling from a topological Kondo insulator**|Saikat Banerjee et.al.|[2512.05057](http://arxiv.org/abs/2512.05057)|null|
+|**2025-12-04**|**Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows**|Rajneil Baruah et.al.|[2512.04954](http://arxiv.org/abs/2512.04954)|null|
+|**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
+|**2025-12-04**|**The Stagnant Persistence Paradox: Survival Analysis and Temporal Efficiency in Exact Sciences and Engineering Education**|H. R. Paz et.al.|[2512.04828](http://arxiv.org/abs/2512.04828)|null|
+|**2025-12-04**|**LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation**|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|
+|**2025-12-04**|**ASTRIDE: A Security Threat Modeling Platform for Agentic-AI Applications**|Eranga Bandara et.al.|[2512.04785](http://arxiv.org/abs/2512.04785)|null|
+|**2025-12-04**|**Towards an AI Fluid Scientist: LLM-Powered Scientific Discovery in Experimental Fluid Mechanics**|Haodong Feng et.al.|[2512.04716](http://arxiv.org/abs/2512.04716)|null|
+|**2025-12-04**|**The dynamical memory of tidal stellar streams: Joint inference of the Galactic potential and the progenitor of GD-1 with flow matching**|Giuseppe Viterbo et.al.|[2512.04600](http://arxiv.org/abs/2512.04600)|null|
+|**2025-12-04**|**Completion by Comprehension: Guiding Code Generation with Multi-Granularity Understanding**|Xinkui Zhao et.al.|[2512.04538](http://arxiv.org/abs/2512.04538)|null|
+|**2025-12-04**|**ReFuzz: Reusing Tests for Processor Fuzzing with Contextual Bandits**|Chen Chen et.al.|[2512.04436](http://arxiv.org/abs/2512.04436)|null|
+|**2025-12-04**|**Diffusive limit of the Boltzmann equation around Rayleigh profile in the half space**|Hongxu Chen et.al.|[2512.04403](http://arxiv.org/abs/2512.04403)|null|
+|**2025-12-04**|**pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase**|Marjan Hosseini et.al.|[2512.04393](http://arxiv.org/abs/2512.04393)|null|
+|**2025-12-04**|**AutoGuard: A Self-Healing Proactive Security Layer for DevSecOps Pipelines Using Reinforcement Learning**|Praveen Anugula et.al.|[2512.04368](http://arxiv.org/abs/2512.04368)|null|
+|**2025-12-04**|**Asymptotic constraints for 1D planar grey photon diffusion from linear transport with special-relativistic effects**|Ryan T. Wollaeger et.al.|[2512.04342](http://arxiv.org/abs/2512.04342)|null|
+|**2025-12-03**|**A customizable inexact subgraph matching algorithm for attributed graphs**|Tatyana Benko et.al.|[2512.04280](http://arxiv.org/abs/2512.04280)|null|
+|**2025-12-03**|**Constructing Low-Redundancy Codes via Distributed Graph Coloring**|Yuting Li et.al.|[2512.04197](http://arxiv.org/abs/2512.04197)|null|
+|**2025-12-03**|**Beyond Flicker: Detecting Kinematic Inconsistencies for Generalizable Deepfake Video Detection**|Alejandro Cobo et.al.|[2512.04175](http://arxiv.org/abs/2512.04175)|null|
+|**2025-12-03**|**Deformed LDPC codes with spontaneously broken non-invertible duality symmetries**|Pranay Gorantla et.al.|[2512.04174](http://arxiv.org/abs/2512.04174)|null|
+|**2025-12-03**|**Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits**|Erik Weilandt et.al.|[2512.04170](http://arxiv.org/abs/2512.04170)|null|
+|**2025-12-03**|**JWST Confirmation of a Runaway Supermassive Black Hole via its Supersonic Bow Shock**|Pieter van Dokkum et.al.|[2512.04166](http://arxiv.org/abs/2512.04166)|null|
 |**2025-12-03**|**OOPredictor: Predicting Object-Oriented Accesses using Static Analysis**|Hassan Arafat et.al.|[2512.03972](http://arxiv.org/abs/2512.03972)|null|
 |**2025-12-03**|**"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**|Biwei Yan et.al.|[2512.03775](http://arxiv.org/abs/2512.03775)|null|
 |**2025-12-03**|**Out-of-the-box: Black-box Causal Attacks on Object Detectors**|Melane Navaratnarajah et.al.|[2512.03730](http://arxiv.org/abs/2512.03730)|null|
@@ -227,7 +253,7 @@ layout: default
 |**2025-12-03**|**Multi-probe analysis of strong-field effects in $f(Q)$ gravity**|Mohsen Khodadi et.al.|[2512.03529](http://arxiv.org/abs/2512.03529)|null|
 |**2025-12-03**|**In-Situ Encryption of Single-Transistor Nonvolatile Memories without Density Loss**|Sanwar Ahmed Ovy et.al.|[2512.03461](http://arxiv.org/abs/2512.03461)|null|
 |**2025-12-03**|**A novel multiscale modelling for the hemodynamics in retinal microcirculation with an analytic solution for the capillary-tissue coupled system**|Chang Lin et.al.|[2512.03446](http://arxiv.org/abs/2512.03446)|null|
-|**2025-12-03**|**Nexus: Higher-Order Attention Mechanisms in Transformers**|Hanting Chen et.al.|[2512.03377](http://arxiv.org/abs/2512.03377)|null|
+|**2025-12-04**|**Nexus: Higher-Order Attention Mechanisms in Transformers**|Hanting Chen et.al.|[2512.03377](http://arxiv.org/abs/2512.03377)|null|
 |**2025-12-03**|**Rethinking Security in Semantic Communication: Latent Manipulation as a New Threat**|Zhiyuan Xi et.al.|[2512.03361](http://arxiv.org/abs/2512.03361)|null|
 |**2025-12-03**|**Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models**|Jun Leng et.al.|[2512.03356](http://arxiv.org/abs/2512.03356)|null|
 |**2025-12-02**|**Isolating Balanced Ocean Dynamics in SWOT Data**|Jack William Skinner et.al.|[2512.03258](http://arxiv.org/abs/2512.03258)|null|
