@@ -1,4 +1,4 @@
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,15 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**Layer dipole magnetoelectric polarizability of antiferromagnetic bilayers**|H. Radhakrishnan et.al.|[2512.05875](http://arxiv.org/abs/2512.05875)|null|
+|**2025-12-05**|**Topological spin multipolization and linear magnetoelectric coupling in two-dimensional antiferromagnets**|Jörn W. F. Venderbos et.al.|[2512.05862](http://arxiv.org/abs/2512.05862)|null|
+|**2025-12-05**|**BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol**|Chenlu Zhang et.al.|[2512.05358](http://arxiv.org/abs/2512.05358)|null|
 |**2025-12-04**|**Phase Transitions and Black Hole Stability in Gauged N = 8 Supergravity**|Andres Anabalon et.al.|[2512.05088](http://arxiv.org/abs/2512.05088)|null|
 |**2025-12-04**|**Mean curvature flow near a peanut solution**|Sigurd Angenent et.al.|[2512.05077](http://arxiv.org/abs/2512.05077)|null|
 |**2025-12-04**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|null|
@@ -253,6 +256,7 @@
 |**2025-12-03**|**Deformed LDPC codes with spontaneously broken non-invertible duality symmetries**|Pranay Gorantla et.al.|[2512.04174](http://arxiv.org/abs/2512.04174)|null|
 |**2025-12-03**|**Minimizing the Number of Code Switching Operations in Fault-Tolerant Quantum Circuits**|Erik Weilandt et.al.|[2512.04170](http://arxiv.org/abs/2512.04170)|null|
 |**2025-12-03**|**JWST Confirmation of a Runaway Supermassive Black Hole via its Supersonic Bow Shock**|Pieter van Dokkum et.al.|[2512.04166](http://arxiv.org/abs/2512.04166)|null|
+|**2025-11-28**|**Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection**|Fouad Trad et.al.|[2512.04106](http://arxiv.org/abs/2512.04106)|null|
 |**2025-12-03**|**OOPredictor: Predicting Object-Oriented Accesses using Static Analysis**|Hassan Arafat et.al.|[2512.03972](http://arxiv.org/abs/2512.03972)|null|
 |**2025-12-03**|**"MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale**|Biwei Yan et.al.|[2512.03775](http://arxiv.org/abs/2512.03775)|null|
 |**2025-12-03**|**Out-of-the-box: Black-box Causal Attacks on Object Detectors**|Melane Navaratnarajah et.al.|[2512.03730](http://arxiv.org/abs/2512.03730)|null|
@@ -288,7 +292,8 @@
 |**2025-12-01**|**Bin2Vec: Interpretable and Auditable Multi-View Binary Analysis for Code Plagiarism Detection**|Moussa Moussaoui et.al.|[2512.02197](http://arxiv.org/abs/2512.02197)|null|
 |**2025-12-01**|**Factor(T,U): Factored Cognition Strengthens Monitoring of Untrusted AI**|Aaron Sandoval et.al.|[2512.02157](http://arxiv.org/abs/2512.02157)|null|
 |**2025-12-01**|**A survey about Hidden Subgroup Problem from a mathematical and cryptographic perspective**|Simone Dutto et.al.|[2512.02087](http://arxiv.org/abs/2512.02087)|null|
-|**2025-12-01**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[2512.01973](http://arxiv.org/abs/2512.01973)|null|
+|**2025-11-29**|**Large Language Model based Smart Contract Auditing with LLMBugScanner**|Yining Yuan et.al.|[2512.02069](http://arxiv.org/abs/2512.02069)|null|
+|**2025-12-04**|**Bounded treewidth, multiple context-free grammars, and downward closures**|C. Aiswarya et.al.|[2512.01973](http://arxiv.org/abs/2512.01973)|null|
 |**2025-12-01**|**CauSight: Learning to Supersense for Visual Causal Discovery**|Yize Zhang et.al.|[2512.01827](http://arxiv.org/abs/2512.01827)|null|
 |**2025-12-01**|**Gravitational lensing inside and outside of a marginally unstable photon sphere in a general, static, spherically symmetric, and asymptotically-flat spacetime in strong deflection limits**|Naoki Tsukamoto et.al.|[2512.01688](http://arxiv.org/abs/2512.01688)|null|
 |**2025-12-02**|**Morphling: Fast, Fused, and Flexible GNN Training at Scale**|Anubhab et.al.|[2512.01678](http://arxiv.org/abs/2512.01678)|null|
@@ -338,6 +343,8 @@
 |**2025-11-28**|**SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows**|Niklas Houba et.al.|[2511.23228](http://arxiv.org/abs/2511.23228)|null|
 |**2025-11-28**|**GAPS: Guiding Dynamic Android Analysis with Static Path Synthesis**|Samuele Doria et.al.|[2511.23213](http://arxiv.org/abs/2511.23213)|null|
 |**2025-11-28**|**Quantifying the Privacy-Utility Trade-off in GPS-based Daily Stress Recognition using Semantic Features**|Hoang Khang Phan et.al.|[2511.23200](http://arxiv.org/abs/2511.23200)|null|
+|**2025-11-28**|**High-Resolution Probabilistic Data-Driven Weather Modeling with a Stretched-Grid**|Even Marius Nordhagen et.al.|[2511.23043](http://arxiv.org/abs/2511.23043)|null|
+|**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
 |**2025-11-26**|**TAGFN: A Text-Attributed Graph Dataset for Fake News Detection in the Age of LLMs**|Kay Liu et.al.|[2511.21624](http://arxiv.org/abs/2511.21624)|null|
 |**2025-11-26**|**An AI-Enabled Hybrid Cyber-Physical Framework for Adaptive Control in Smart Grids**|Muhammad Siddique et.al.|[2511.21590](http://arxiv.org/abs/2511.21590)|null|
 |**2025-11-26**|**SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning**|Futian Wang et.al.|[2511.21420](http://arxiv.org/abs/2511.21420)|null|
@@ -403,6 +410,9 @@
 |**2025-11-22**|**A Novel and Practical Universal Adversarial Perturbations against Deep Reinforcement Learning based Intrusion Detection Systems**|H. Zhang et.al.|[2511.18223](http://arxiv.org/abs/2511.18223)|null|
 |**2025-11-22**|**Using MLIR Transform to Design Sliced Convolution Algorithm**|Victor Ferrari et.al.|[2511.18222](http://arxiv.org/abs/2511.18222)|null|
 |**2025-11-22**|**AVERY: Adaptive VLM Split Computing through Embodied Self-Awareness for Efficient Disaster Response Systems**|Rajat Bhattacharjya et.al.|[2511.18151](http://arxiv.org/abs/2511.18151)|null|
+|**2025-11-22**|**A Targeted Quadrature Framework for Simulating Large-Scale 3D Anisotropic Electromagnetic Measurements**|Jörn Zimmerling et.al.|[2511.17999](http://arxiv.org/abs/2511.17999)|null|
+|**2025-11-22**|**Proposal of an Automatic Verification Method for Network Configuration Model by Static Analysis**|Tomoya Fujita et.al.|[2511.17950](http://arxiv.org/abs/2511.17950)|null|
+|**2025-11-21**|**Validating API Design Requirements for Interoperability: A Static Analysis Approach Using OpenAPI**|Edwin Sundberg et.al.|[2511.17836](http://arxiv.org/abs/2511.17836)|null|
 |**2025-11-21**|**PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM**|Siqi Liang et.al.|[2511.17467](http://arxiv.org/abs/2511.17467)|null|
 |**2025-11-21**|**A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents**|Sizhe Zhou et.al.|[2511.17208](http://arxiv.org/abs/2511.17208)|null|
 |**2025-11-21**|**Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition**|Aditya Mishra et.al.|[2511.17183](http://arxiv.org/abs/2511.17183)|null|
@@ -484,7 +494,7 @@
 |**2025-11-17**|**Hybrid-Domain Adaptative Representation Learning for Gaze Estimation**|Qida Tan et.al.|[2511.13222](http://arxiv.org/abs/2511.13222)|null|
 |**2025-11-17**|**CapeNext: Rethinking and refining dynamic support information for category-agnostic pose estimation**|Yu Zhu et.al.|[2511.13102](http://arxiv.org/abs/2511.13102)|null|
 |**2025-11-17**|**The Final-Stage Bottleneck: A Systematic Dissection of the R-Learner for Network Causal Inference**|Sairam S et.al.|[2511.13018](http://arxiv.org/abs/2511.13018)|null|
-|**2025-11-17**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
+|**2025-11-24**|**SmartPoC: Generating Executable and Validated PoCs for Smart Contract Bug Reports**|Longfei Chen et.al.|[2511.12993](http://arxiv.org/abs/2511.12993)|null|
 |**2025-11-17**|**Esim: EVM Bytecode Similarity Detection Based on Stable-Semantic Graph**|Zhuo Chen et.al.|[2511.12971](http://arxiv.org/abs/2511.12971)|null|
 |**2025-11-17**|**T2I-Based Physical-World Appearance Attack against Traffic Sign Recognition Systems in Autonomous Driving**|Chen Ma et.al.|[2511.12956](http://arxiv.org/abs/2511.12956)|null|
 |**2025-11-17**|**Wide-Area Feedback Control for Renewables-Heavy Power Systems: A Comparative Study of Reinforcement Learning and Lyapunov-Based Design**|Muhammad Nadeem et.al.|[2511.12911](http://arxiv.org/abs/2511.12911)|null|
@@ -515,10 +525,14 @@
 |**2025-11-15**|**Graphical Model-based Inference on Persistent Homology**|Zitian Wu et.al.|[2511.11996](http://arxiv.org/abs/2511.11996)|null|
 |**2025-11-15**|**Extremum-Seeking Boundary Control for Schrödinger-Type PDEs**|Paulo Henrique Foganholo Biazetto et.al.|[2511.11994](http://arxiv.org/abs/2511.11994)|null|
 |**2025-11-14**|**SurvBench: A Standardised Preprocessing Pipeline for Multi-Modal Electronic Health Record Survival Analysis**|Munib Mesinovic et.al.|[2511.11935](http://arxiv.org/abs/2511.11935)|null|
-|**2025-11-14**|**VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization**|Youpeng Li et.al.|[2511.11896](http://arxiv.org/abs/2511.11896)|null|
+|**2025-11-18**|**VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization**|Youpeng Li et.al.|[2511.11896](http://arxiv.org/abs/2511.11896)|null|
 |**2025-11-14**|**Evolution of A4L: A Data Architecture for AI-Augmented Learning**|Ploy Thajchayapong et.al.|[2511.11877](http://arxiv.org/abs/2511.11877)|null|
 |**2025-11-14**|**Modeling X-ray photon pile-up with a normalizing flow**|Ole König et.al.|[2511.11863](http://arxiv.org/abs/2511.11863)|null|
-|**2025-11-14**|**Topological flowscape reveals state transitions in nonreciprocal living matter**|Hyunseok Lee et.al.|[2511.11815](http://arxiv.org/abs/2511.11815)|null|
+|**2025-11-19**|**Topological flowscape reveals state transitions in nonreciprocal living matter**|Hyunseok Lee et.al.|[2511.11815](http://arxiv.org/abs/2511.11815)|null|
+|**2025-11-14**|**SCRUTINEER: Detecting Logic-Level Usage Violations of Reusable Components in Smart Contracts**|Xingshuang Lin et.al.|[2511.11411](http://arxiv.org/abs/2511.11411)|null|
+|**2025-11-14**|**SQuaD: The Software Quality Dataset**|Mikel Robredo et.al.|[2511.11265](http://arxiv.org/abs/2511.11265)|null|
+|**2025-11-14**|**Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts**|Biagio Boi et.al.|[2511.11250](http://arxiv.org/abs/2511.11250)|null|
+|**2025-11-25**|**Data Race Detection by Digest-Driven Abstract Interpretation (Extended Version)**|Michael Schwarz et.al.|[2511.11055](http://arxiv.org/abs/2511.11055)|null|
 |**2025-11-13**|**On the Detectability of Active Gradient Inversion Attacks in Federated Learning**|Vincenzo Carletti et.al.|[2511.10502](http://arxiv.org/abs/2511.10502)|null|
 |**2025-11-13**|**Odd-Ramsey numbers of Hamilton cycles**|Simona Boyadzhiyska et.al.|[2511.10497](http://arxiv.org/abs/2511.10497)|null|
 |**2025-11-13**|**Unlocking Dynamic Inter-Client Spatial Dependencies: A Federated Spatio-Temporal Graph Learning Method for Traffic Flow Forecasting**|Feng Wang et.al.|[2511.10434](http://arxiv.org/abs/2511.10434)|null|
@@ -1043,7 +1057,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1091,7 +1105,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
