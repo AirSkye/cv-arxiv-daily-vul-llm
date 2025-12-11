@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,12 +220,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-09**|**Labeled Delegated PSI and its Applications in the Public Sector**|Kristof Verslype et.al.|[2512.08558](http://arxiv.org/abs/2512.08558)|null|
+|**2025-12-08**|**Bridging Code Graphs and Large Language Models for Better Code Understanding**|Zeqi Chen et.al.|[2512.07666](http://arxiv.org/abs/2512.07666)|null|
+|**2025-12-08**|**VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**|Yuzhou Nie et.al.|[2512.07533](http://arxiv.org/abs/2512.07533)|null|
+|**2025-12-06**|**Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers**|Xuanyu Peng et.al.|[2512.06442](http://arxiv.org/abs/2512.06442)|null|
+|**2025-12-06**|**UncertaintyZoo: A Unified Toolkit for Quantifying Predictive Uncertainty in Deep Learning Systems**|Xianzong Wu et.al.|[2512.06406](http://arxiv.org/abs/2512.06406)|null|
 |**2025-12-05**|**Layer dipole magnetoelectric polarizability of antiferromagnetic bilayers**|H. Radhakrishnan et.al.|[2512.05875](http://arxiv.org/abs/2512.05875)|null|
 |**2025-12-05**|**Topological spin multipolization and linear magnetoelectric coupling in two-dimensional antiferromagnets**|Jörn W. F. Venderbos et.al.|[2512.05862](http://arxiv.org/abs/2512.05862)|null|
 |**2025-12-05**|**BGPFuzz: Automated Configuration Fuzzing of the Border Gateway Protocol**|Chenlu Zhang et.al.|[2512.05358](http://arxiv.org/abs/2512.05358)|null|
 |**2025-12-04**|**Phase Transitions and Black Hole Stability in Gauged N = 8 Supergravity**|Andres Anabalon et.al.|[2512.05088](http://arxiv.org/abs/2512.05088)|null|
 |**2025-12-04**|**Mean curvature flow near a peanut solution**|Sigurd Angenent et.al.|[2512.05077](http://arxiv.org/abs/2512.05077)|null|
-|**2025-12-04**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|null|
+|**2025-12-07**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|null|
 |**2025-12-04**|**Axionic tunneling from a topological Kondo insulator**|Saikat Banerjee et.al.|[2512.05057](http://arxiv.org/abs/2512.05057)|null|
 |**2025-12-04**|**Amortized Inference of Multi-Modal Posteriors using Likelihood-Weighted Normalizing Flows**|Rajneil Baruah et.al.|[2512.04954](http://arxiv.org/abs/2512.04954)|null|
 |**2025-12-04**|**SoK: a Comprehensive Causality Analysis Framework for Large Language Model Security**|Wei Zhao et.al.|[2512.04841](http://arxiv.org/abs/2512.04841)|null|
@@ -287,7 +292,7 @@ layout: default
 |**2025-12-01**|**CauSight: Learning to Supersense for Visual Causal Discovery**|Yize Zhang et.al.|[2512.01827](http://arxiv.org/abs/2512.01827)|null|
 |**2025-12-01**|**Gravitational lensing inside and outside of a marginally unstable photon sphere in a general, static, spherically symmetric, and asymptotically-flat spacetime in strong deflection limits**|Naoki Tsukamoto et.al.|[2512.01688](http://arxiv.org/abs/2512.01688)|null|
 |**2025-12-02**|**Morphling: Fast, Fused, and Flexible GNN Training at Scale**|Anubhab et.al.|[2512.01678](http://arxiv.org/abs/2512.01678)|null|
-|**2025-12-01**|**StarDist: A Code Generator for Distributed Graph Algorithms**|Barenya Kumar Nandy et.al.|[2512.01646](http://arxiv.org/abs/2512.01646)|null|
+|**2025-12-09**|**StarDist: A Code Generator for Distributed Graph Algorithms**|Barenya Kumar Nandy et.al.|[2512.01646](http://arxiv.org/abs/2512.01646)|null|
 |**2025-12-01**|**Equivalence of Stability Criteria for Multi-Fluid Stars**|Tian-Shun Chen et.al.|[2512.01640](http://arxiv.org/abs/2512.01640)|null|
 |**2025-12-01**|**Heuristic algorithms for the stochastic critical node detection problem**|Tuguldur Bayarsaikhan et.al.|[2512.01497](http://arxiv.org/abs/2512.01497)|null|
 |**2025-12-02**|**The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search**|Rongzhe Wei et.al.|[2512.01353](http://arxiv.org/abs/2512.01353)|null|
