@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.11
+## Updated on 2025.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
+|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
+|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
+|**2025-12-10**|**CMS Results at the t $\bar{\text{t}}$ threshold**|Jörn Bach for the CMS Collaboration et.al.|[2512.09501](http://arxiv.org/abs/2512.09501)|null|
+|**2025-12-09**|**Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning**|Dyna Soumhane Ouchebara et.al.|[2512.09006](http://arxiv.org/abs/2512.09006)|null|
 |**2025-12-09**|**Labeled Delegated PSI and its Applications in the Public Sector**|Kristof Verslype et.al.|[2512.08558](http://arxiv.org/abs/2512.08558)|null|
 |**2025-12-08**|**Bridging Code Graphs and Large Language Models for Better Code Understanding**|Zeqi Chen et.al.|[2512.07666](http://arxiv.org/abs/2512.07666)|null|
 |**2025-12-08**|**VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection**|Yuzhou Nie et.al.|[2512.07533](http://arxiv.org/abs/2512.07533)|null|
