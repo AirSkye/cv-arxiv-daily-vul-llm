@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.15
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-14**|**Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development**|Manuel Bentele et.al.|[2512.12788](http://arxiv.org/abs/2512.12788)|null|
+|**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
+|**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
+|**2025-12-14**|**ATLAS: Automated Tree-based Language Analysis System for C and C++ source programs**|Jaid Monwar Chowdhury et.al.|[2512.12507](http://arxiv.org/abs/2512.12507)|null|
+|**2025-12-13**|**Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection**|Dang-Khoa Nguyen et.al.|[2512.12313](http://arxiv.org/abs/2512.12313)|null|
+|**2025-12-12**|**Mitigating Dynamic Tip-Over during Mobile Crane Slewing using Input Shaping**|Navneet Kaur et.al.|[2512.11228](http://arxiv.org/abs/2512.11228)|null|
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
