@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.17
+## Updated on 2025.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
+|**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
+|**2025-12-16**|**Teralizer: Semantics-Based Test Generalization from Conventional Unit Tests to Property-Based Tests**|Johann Glock et.al.|[2512.14475](http://arxiv.org/abs/2512.14475)|null|
+|**2025-12-16**|**HAL -- An Open-Source Framework for Gate-Level Netlist Analysis**|Julian Speith et.al.|[2512.14139](http://arxiv.org/abs/2512.14139)|null|
+|**2025-12-16**|**Any Light Particle Searches with ALPS II: first science results**|Daniel C. Brotherton et.al.|[2512.14110](http://arxiv.org/abs/2512.14110)|null|
+|**2025-12-16**|**From Obfuscated to Obvious: A Comprehensive JavaScript Deobfuscation Tool for Security Analysis**|Dongchao Zhou et.al.|[2512.14070](http://arxiv.org/abs/2512.14070)|null|
 |**2025-12-14**|**Temporal HAL-API Dependencies as a Gateway to Formal Embedded Software Development**|Manuel Bentele et.al.|[2512.12788](http://arxiv.org/abs/2512.12788)|null|
 |**2025-12-14**|**SHERLOCK: A Deep Learning Approach To Detect Software Vulnerabilities**|Saadh Jawwadh et.al.|[2512.12593](http://arxiv.org/abs/2512.12593)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536](http://arxiv.org/abs/2512.12536)|null|
