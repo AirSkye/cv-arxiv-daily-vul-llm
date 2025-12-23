@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Translating the Rashomon Effect to Sequential Decision-Making Tasks**|Dennis Gross et.al.|[2512.17470](http://arxiv.org/abs/2512.17470)|null|
+|**2025-12-19**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
 |**2025-12-18**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
@@ -236,7 +238,7 @@ layout: default
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
 |**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
-|**2025-12-10**|**CMS Results at the t $\bar{\text{t}}$ threshold**|Jörn Bach et.al.|[2512.09501](http://arxiv.org/abs/2512.09501)|null|
+|**2025-12-19**|**CMS Results at the $\text{t}\bar{\text{t}}$ threshold**|Jörn Bach et.al.|[2512.09501](http://arxiv.org/abs/2512.09501)|null|
 |**2025-12-09**|**Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning**|Dyna Soumhane Ouchebara et.al.|[2512.09006](http://arxiv.org/abs/2512.09006)|null|
 |**2025-12-09**|**Labeled Delegated PSI and its Applications in the Public Sector**|Kristof Verslype et.al.|[2512.08558](http://arxiv.org/abs/2512.08558)|null|
 |**2025-12-08**|**Bridging Code Graphs and Large Language Models for Better Code Understanding**|Zeqi Chen et.al.|[2512.07666](http://arxiv.org/abs/2512.07666)|null|
