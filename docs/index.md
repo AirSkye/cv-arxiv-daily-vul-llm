@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.23
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Symmaries: Automatic Inference of Formal Security Summaries for Java Programs**|Narges Khakpour et.al.|[2512.20396](http://arxiv.org/abs/2512.20396)|null|
+|**2025-12-23**|**Energy-Efficient Multi-LLM Reasoning for Binary-Free Zero-Day Detection in IoT Firmware**|Saeid Jamshidi et.al.|[2512.19945](http://arxiv.org/abs/2512.19945)|null|
+|**2025-12-22**|**Berry phase polarization and orbital magnetization responses of insulators: Formulas for generalized polarizabilities and their application**|J. W. F. Venderbos et.al.|[2512.19380](http://arxiv.org/abs/2512.19380)|null|
+|**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
+|**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
+|**2025-12-19**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
 |**2025-12-19**|**Translating the Rashomon Effect to Sequential Decision-Making Tasks**|Dennis Gross et.al.|[2512.17470](http://arxiv.org/abs/2512.17470)|null|
 |**2025-12-19**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
