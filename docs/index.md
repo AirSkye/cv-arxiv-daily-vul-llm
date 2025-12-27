@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.25
+## Updated on 2025.12.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
+|**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
 |**2025-12-23**|**Symmaries: Automatic Inference of Formal Security Summaries for Java Programs**|Narges Khakpour et.al.|[2512.20396](http://arxiv.org/abs/2512.20396)|null|
 |**2025-12-23**|**Energy-Efficient Multi-LLM Reasoning for Binary-Free Zero-Day Detection in IoT Firmware**|Saeid Jamshidi et.al.|[2512.19945](http://arxiv.org/abs/2512.19945)|null|
 |**2025-12-22**|**Berry phase polarization and orbital magnetization responses of insulators: Formulas for generalized polarizabilities and their application**|J. W. F. Venderbos et.al.|[2512.19380](http://arxiv.org/abs/2512.19380)|null|
