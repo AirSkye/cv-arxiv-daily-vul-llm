@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
+|**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
+|**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
+|**2025-12-26**|**HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules**|Zhangbo Long et.al.|[2512.22043](http://arxiv.org/abs/2512.22043)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
 |**2025-12-23**|**Symmaries: Automatic Inference of Formal Security Summaries for Java Programs**|Narges Khakpour et.al.|[2512.20396](http://arxiv.org/abs/2512.20396)|null|
@@ -227,11 +231,11 @@ layout: default
 |**2025-12-22**|**Berry phase polarization and orbital magnetization responses of insulators: Formulas for generalized polarizabilities and their application**|J. W. F. Venderbos et.al.|[2512.19380](http://arxiv.org/abs/2512.19380)|null|
 |**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
 |**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
-|**2025-12-19**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
+|**2025-12-26**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
 |**2025-12-19**|**Translating the Rashomon Effect to Sequential Decision-Making Tasks**|Dennis Gross et.al.|[2512.17470](http://arxiv.org/abs/2512.17470)|null|
 |**2025-12-19**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
-|**2025-12-18**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
+|**2025-12-26**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-16**|**Teralizer: Semantics-Based Test Generalization from Conventional Unit Tests to Property-Based Tests**|Johann Glock et.al.|[2512.14475](http://arxiv.org/abs/2512.14475)|null|
 |**2025-12-16**|**HAL -- An Open-Source Framework for Gate-Level Netlist Analysis**|Julian Speith et.al.|[2512.14139](http://arxiv.org/abs/2512.14139)|null|

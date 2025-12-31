@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,16 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
+|**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
+|**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
+|**2025-12-26**|**HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules**|Zhangbo Long et.al.|[2512.22043](http://arxiv.org/abs/2512.22043)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
 |**2025-12-21**|**Automated Red-Teaming Framework for Large Language Model Security Assessment: A Comprehensive Attack Generation and Detection System**|Zhang Wei et.al.|[2512.20677](http://arxiv.org/abs/2512.20677)|null|
 |**2025-12-23**|**Symmaries: Automatic Inference of Formal Security Summaries for Java Programs**|Narges Khakpour et.al.|[2512.20396](http://arxiv.org/abs/2512.20396)|null|
@@ -237,11 +241,11 @@
 |**2025-12-22**|**Berry phase polarization and orbital magnetization responses of insulators: Formulas for generalized polarizabilities and their application**|J. W. F. Venderbos et.al.|[2512.19380](http://arxiv.org/abs/2512.19380)|null|
 |**2025-12-20**|**SoK: Understanding (New) Security Issues Across AI4Code Use Cases**|Qilong Wu et.al.|[2512.18456](http://arxiv.org/abs/2512.18456)|null|
 |**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
-|**2025-12-19**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
+|**2025-12-26**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
 |**2025-12-19**|**Translating the Rashomon Effect to Sequential Decision-Making Tasks**|Dennis Gross et.al.|[2512.17470](http://arxiv.org/abs/2512.17470)|null|
 |**2025-12-19**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
-|**2025-12-18**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
+|**2025-12-26**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-16**|**Teralizer: Semantics-Based Test Generalization from Conventional Unit Tests to Property-Based Tests**|Johann Glock et.al.|[2512.14475](http://arxiv.org/abs/2512.14475)|null|
 |**2025-12-16**|**HAL -- An Open-Source Framework for Gate-Level Netlist Analysis**|Julian Speith et.al.|[2512.14139](http://arxiv.org/abs/2512.14139)|null|
@@ -1090,7 +1094,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1138,7 +1142,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
