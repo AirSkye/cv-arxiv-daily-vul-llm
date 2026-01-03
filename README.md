@@ -1,4 +1,4 @@
-## Updated on 2026.01.01
+## Updated on 2026.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,14 +224,17 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Characterizing Bugs and Quality Attributes in Quantum Software: A Large-Scale Empirical Study**|Mir Mohammad Yousuf et.al.|[2512.24656](http://arxiv.org/abs/2512.24656)|null|
+|**2025-12-31**|**DynaFix: Iterative Automated Program Repair Driven by Execution-Level Dynamic Information**|Zhili Huang et.al.|[2512.24635](http://arxiv.org/abs/2512.24635)|null|
+|**2025-12-31**|**A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs**|Zhongyi Wang et.al.|[2512.24594](http://arxiv.org/abs/2512.24594)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
-|**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
+|**2025-12-30**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
 |**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
 |**2025-12-26**|**HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules**|Zhangbo Long et.al.|[2512.22043](http://arxiv.org/abs/2512.22043)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
@@ -1094,7 +1097,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1142,7 +1145,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

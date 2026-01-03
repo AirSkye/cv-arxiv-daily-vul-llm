@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.01
+## Updated on 2026.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,8 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Characterizing Bugs and Quality Attributes in Quantum Software: A Large-Scale Empirical Study**|Mir Mohammad Yousuf et.al.|[2512.24656](http://arxiv.org/abs/2512.24656)|null|
+|**2025-12-31**|**DynaFix: Iterative Automated Program Repair Driven by Execution-Level Dynamic Information**|Zhili Huang et.al.|[2512.24635](http://arxiv.org/abs/2512.24635)|null|
+|**2025-12-31**|**A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs**|Zhongyi Wang et.al.|[2512.24594](http://arxiv.org/abs/2512.24594)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
-|**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
+|**2025-12-30**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
 |**2025-12-26**|**Beyond Single Bugs: Benchmarking Large Language Models for Multi-Vulnerability Detection**|Chinmay Pushkar et.al.|[2512.22306](http://arxiv.org/abs/2512.22306)|null|
 |**2025-12-26**|**HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules**|Zhangbo Long et.al.|[2512.22043](http://arxiv.org/abs/2512.22043)|null|
 |**2025-12-24**|**CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents**|Haoyang Li et.al.|[2512.21250](http://arxiv.org/abs/2512.21250)|null|
