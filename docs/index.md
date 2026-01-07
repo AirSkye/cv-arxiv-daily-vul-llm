@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.05
+## Updated on 2026.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,7 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-31**|**Characterizing Bugs and Quality Attributes in Quantum Software: A Large-Scale Empirical Study**|Mir Mohammad Yousuf et.al.|[2512.24656](http://arxiv.org/abs/2512.24656)|null|
+|**2026-01-05**|**Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming**|Nguyet-Anh H. Lang et.al.|[2601.02060](http://arxiv.org/abs/2601.02060)|null|
+|**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
+|**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
+|**2026-01-03**|**SecureCodeRL: Security-Aware Reinforcement Learning for Code Generation with Partial-Credit Rewards**|Suryansh Singh Sijwali et.al.|[2601.01184](http://arxiv.org/abs/2601.01184)|null|
+|**2026-01-02**|**Cracking IoT Security: Can LLMs Outsmart Static Analysis Tools?**|Jason Quantrill et.al.|[2601.00559](http://arxiv.org/abs/2601.00559)|null|
+|**2026-01-01**|**Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback**|Vidyut Sriram et.al.|[2601.00509](http://arxiv.org/abs/2601.00509)|null|
+|**2026-01-01**|**An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems**|Md Hasan Saju et.al.|[2601.00254](http://arxiv.org/abs/2601.00254)|null|
+|**2026-01-02**|**Characterizing Bugs and Quality Attributes in Quantum Software: A Large-Scale Empirical Study**|Mir Mohammad Yousuf et.al.|[2512.24656](http://arxiv.org/abs/2512.24656)|null|
 |**2025-12-31**|**DynaFix: Iterative Automated Program Repair Driven by Execution-Level Dynamic Information**|Zhili Huang et.al.|[2512.24635](http://arxiv.org/abs/2512.24635)|null|
 |**2025-12-31**|**A Tale of 1001 LoC: Potential Runtime Error-Guided Specification Synthesis for Verifying Large-Scale Programs**|Zhongyi Wang et.al.|[2512.24594](http://arxiv.org/abs/2512.24594)|null|
 |**2025-12-29**|**Fuzzilicon: A Post-Silicon Microcode-Guided x86 CPU Fuzzer**|Johannes Lenzen et.al.|[2512.23438](http://arxiv.org/abs/2512.23438)|null|
@@ -236,7 +243,7 @@ layout: default
 |**2025-12-23**|**Software Vulnerability Management in the Era of Artificial Intelligence: An Industry Perspective**|M. Mehdi Kholoosi et.al.|[2512.18261](http://arxiv.org/abs/2512.18261)|null|
 |**2025-12-26**|**Detecting Flaky Tests in Quantum Software: A Dynamic Approach**|Dongchan Kim et.al.|[2512.18088](http://arxiv.org/abs/2512.18088)|null|
 |**2025-12-19**|**Translating the Rashomon Effect to Sequential Decision-Making Tasks**|Dennis Gross et.al.|[2512.17470](http://arxiv.org/abs/2512.17470)|null|
-|**2025-12-19**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
+|**2026-01-03**|**What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice**|Yuqing Niu et.al.|[2512.17363](http://arxiv.org/abs/2512.17363)|null|
 |**2025-12-18**|**A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection**|Xiao Li et.al.|[2512.16538](http://arxiv.org/abs/2512.16538)|null|
 |**2025-12-26**|**MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent**|Mengying Wu et.al.|[2512.15144](http://arxiv.org/abs/2512.15144)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
@@ -252,7 +259,7 @@ layout: default
 |**2025-12-12**|**Mitigating Dynamic Tip-Over during Mobile Crane Slewing using Input Shaping**|Navneet Kaur et.al.|[2512.11228](http://arxiv.org/abs/2512.11228)|null|
 |**2025-12-11**|**Zorya: Automated Concolic Execution of Single-Threaded Go Binaries**|Karolina Gorna et.al.|[2512.10799](http://arxiv.org/abs/2512.10799)|null|
 |**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
-|**2025-12-11**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
+|**2026-01-05**|**Cross-modal Retrieval Models for Stripped Binary Analysis**|Guoqiang Chen et.al.|[2512.10393](http://arxiv.org/abs/2512.10393)|null|
 |**2025-12-19**|**CMS Results at the $\text{t}\bar{\text{t}}$ threshold**|Jörn Bach et.al.|[2512.09501](http://arxiv.org/abs/2512.09501)|null|
 |**2025-12-09**|**Llama-based source code vulnerability detection: Prompt engineering vs Fine tuning**|Dyna Soumhane Ouchebara et.al.|[2512.09006](http://arxiv.org/abs/2512.09006)|null|
 |**2025-12-09**|**Labeled Delegated PSI and its Applications in the Public Sector**|Kristof Verslype et.al.|[2512.08558](http://arxiv.org/abs/2512.08558)|null|
