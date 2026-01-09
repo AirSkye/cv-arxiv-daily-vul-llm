@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.07
+## Updated on 2026.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-04**|**Differentiation Between Faults and Cyberattacks through Combined Analysis of Cyberspace Logs and Physical Measurements**|Mohammad Shamim Ahsan et.al.|[2601.03289](http://arxiv.org/abs/2601.03289)|null|
+|**2026-01-06**|**Backwards Data-Flow Analysis using Prophecy Variable in the BuildIt System**|Ajay Brahmakshatriya et.al.|[2601.02653](http://arxiv.org/abs/2601.02653)|null|
+|**2026-01-06**|**LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification**|Md Ajoad Hasan et.al.|[2601.02624](http://arxiv.org/abs/2601.02624)|null|
+|**2026-01-05**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](http://arxiv.org/abs/2601.02438)|null|
 |**2026-01-05**|**Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming**|Nguyet-Anh H. Lang et.al.|[2601.02060](http://arxiv.org/abs/2601.02060)|null|
 |**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
