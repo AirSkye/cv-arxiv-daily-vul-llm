@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al.|[2601.05827](http://arxiv.org/abs/2601.05827)|null|
+|**2026-01-09**|**HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors**|Jingxiao Yang et.al.|[2601.05587](http://arxiv.org/abs/2601.05587)|null|
 |**2026-01-04**|**Differentiation Between Faults and Cyberattacks through Combined Analysis of Cyberspace Logs and Physical Measurements**|Mohammad Shamim Ahsan et.al.|[2601.03289](http://arxiv.org/abs/2601.03289)|null|
 |**2026-01-06**|**Backwards Data-Flow Analysis using Prophecy Variable in the BuildIt System**|Ajay Brahmakshatriya et.al.|[2601.02653](http://arxiv.org/abs/2601.02653)|null|
 |**2026-01-06**|**LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification**|Md Ajoad Hasan et.al.|[2601.02624](http://arxiv.org/abs/2601.02624)|null|
