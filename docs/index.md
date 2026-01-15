@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.13
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Design and construction of a cryogenic subcooler-box for supplying single phase supercritical helium to dark matter and gravitational wave experiments**|Udai Raj Singh et.al.|[2601.08496](http://arxiv.org/abs/2601.08496)|null|
+|**2026-01-12**|**Agentic Diagnostic Reasoning over Telecom and Datacenter Infrastructure**|Nicolas Tacheny et.al.|[2601.07342](http://arxiv.org/abs/2601.07342)|null|
+|**2026-01-12**|**Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan**|Emre Balci et.al.|[2601.07334](http://arxiv.org/abs/2601.07334)|null|
+|**2026-01-11**|**Zer0n: An AI-Assisted Vulnerability Discovery and Blockchain-Backed Integrity Framework**|Harshil Parmar et.al.|[2601.07019](http://arxiv.org/abs/2601.07019)|null|
+|**2026-01-11**|**Towards Compositional Generalization in LLMs for Smart Contract Security: A Case Study on Reentrancy Vulnerabilities**|Ying Zhou et.al.|[2601.06914](http://arxiv.org/abs/2601.06914)|null|
+|**2026-01-10**|**Model Reconciliation through Explainability and Collaborative Recovery in Assistive Robotics**|Britt Besch et.al.|[2601.06552](http://arxiv.org/abs/2601.06552)|null|
+|**2026-01-10**|**Lightweight Yet Secure: Secure Scripting Language Generation via Lightweight LLMs**|Keyang Zhang et.al.|[2601.06419](http://arxiv.org/abs/2601.06419)|null|
+|**2026-01-09**|**Automated Generation of Accurate Privacy Captions From Android Source Code Using Large Language Models**|Vijayanta Jain et.al.|[2601.06276](http://arxiv.org/abs/2601.06276)|null|
+|**2026-01-07**|**AutoVulnPHP: LLM-Powered Two-Stage PHP Vulnerability Detection and Automated Localization**|Zhiqiang Wang et.al.|[2601.06177](http://arxiv.org/abs/2601.06177)|null|
 |**2026-01-09**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al.|[2601.05827](http://arxiv.org/abs/2601.05827)|null|
 |**2026-01-09**|**HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors**|Jingxiao Yang et.al.|[2601.05587](http://arxiv.org/abs/2601.05587)|null|
 |**2026-01-04**|**Differentiation Between Faults and Cyberattacks through Combined Analysis of Cyberspace Logs and Physical Measurements**|Mohammad Shamim Ahsan et.al.|[2601.03289](http://arxiv.org/abs/2601.03289)|null|
