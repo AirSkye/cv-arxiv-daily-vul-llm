@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.15
+## Updated on 2026.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Improving Database Performance by Application-side Transaction Merging**|Xueyuan Ren et.al.|[2601.10596](http://arxiv.org/abs/2601.10596)|null|
+|**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|null|
+|**2026-01-15**|**Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale**|Yi Liu et.al.|[2601.10338](http://arxiv.org/abs/2601.10338)|null|
+|**2026-01-14**|**Beyond Strict Rules: Assessing the Effectiveness of Large Language Models for Code Smell Detection**|Saymon Souza et.al.|[2601.09873](http://arxiv.org/abs/2601.09873)|null|
+|**2026-01-14**|**Adoption and Evolution of Code Style and Best Programming Practices in Open-Source Projects**|Alvari Kupari et.al.|[2601.09832](http://arxiv.org/abs/2601.09832)|null|
+|**2026-01-14**|**Analysis of the Maximum Prediction Gain of Short-Term Prediction on Sustained Speech**|Reemt Hinrichs et.al.|[2601.09461](http://arxiv.org/abs/2601.09461)|null|
+|**2026-01-14**|**DepRadar: Agentic Coordination for Context Aware Defect Impact Analysis in Deep Learning Libraries**|Yi Gao et.al.|[2601.09440](http://arxiv.org/abs/2601.09440)|null|
+|**2026-01-14**|**Deep Learning-based Binary Analysis for Vulnerability Detection in x86-64 Machine Code**|Mitchell Petingola et.al.|[2601.09157](http://arxiv.org/abs/2601.09157)|null|
 |**2026-01-13**|**Design and construction of a cryogenic subcooler-box for supplying single phase supercritical helium to dark matter and gravitational wave experiments**|Udai Raj Singh et.al.|[2601.08496](http://arxiv.org/abs/2601.08496)|null|
 |**2026-01-12**|**Agentic Diagnostic Reasoning over Telecom and Datacenter Infrastructure**|Nicolas Tacheny et.al.|[2601.07342](http://arxiv.org/abs/2601.07342)|null|
 |**2026-01-12**|**Examining the Effectiveness of Transformer-Based Smart Contract Vulnerability Scan**|Emre Balci et.al.|[2601.07334](http://arxiv.org/abs/2601.07334)|null|
