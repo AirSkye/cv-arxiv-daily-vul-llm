@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.19
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
+|**2026-01-16**|**Qihe: A General-Purpose Static Analysis Framework for Verilog**|Qinlin Chen et.al.|[2601.11408](http://arxiv.org/abs/2601.11408)|null|
+|**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
+|**2026-01-15**|**LogicLens: Leveraging Semantic Code Graph to explore Multi Repository large systems**|Niko Usai et.al.|[2601.10773](http://arxiv.org/abs/2601.10773)|null|
 |**2026-01-15**|**Improving Database Performance by Application-side Transaction Merging**|Xueyuan Ren et.al.|[2601.10596](http://arxiv.org/abs/2601.10596)|null|
 |**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|null|
 |**2026-01-15**|**Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale**|Yi Liu et.al.|[2601.10338](http://arxiv.org/abs/2601.10338)|null|
