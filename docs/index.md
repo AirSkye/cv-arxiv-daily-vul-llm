@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.21
+## Updated on 2026.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-20**|**An Empirical Study on Remote Code Execution in Machine Learning Model Hosting Ecosystems**|Mohammed Latif Siddiq et.al.|[2601.14163](http://arxiv.org/abs/2601.14163)|null|
+|**2026-01-20**|**AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development**|Shyam Agarwal et.al.|[2601.13597](http://arxiv.org/abs/2601.13597)|null|
+|**2026-01-19**|**FlipFlop: A Static Analysis-based Energy Optimization Framework for GPU Kernels**|Saurabhsingh Rajput et.al.|[2601.13345](http://arxiv.org/abs/2601.13345)|null|
+|**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
+|**2026-01-19**|**ArchAgent: Scalable Legacy Software Architecture Recovery with LLMs**|Rusheng Pan et.al.|[2601.13007](http://arxiv.org/abs/2601.13007)|null|
+|**2026-01-19**|**Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass**|Sangjun An et.al.|[2601.12916](http://arxiv.org/abs/2601.12916)|null|
+|**2026-01-19**|**Efficient Code Analysis via Graph-Guided Large Language Models**|Hang Gao et.al.|[2601.12890](http://arxiv.org/abs/2601.12890)|null|
+|**2026-01-19**|**OpenAI for OpenAPI: Automated generation of REST API specification via LLMs**|Hao Chen et.al.|[2601.12735](http://arxiv.org/abs/2601.12735)|null|
+|**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
 |**2026-01-16**|**Qihe: A General-Purpose Static Analysis Framework for Verilog**|Qinlin Chen et.al.|[2601.11408](http://arxiv.org/abs/2601.11408)|null|
 |**2026-01-15**|**Multi-Agent Taint Specification Extraction for Vulnerability Detection**|Jonah Ghebremichael et.al.|[2601.10865](http://arxiv.org/abs/2601.10865)|null|
@@ -244,9 +253,9 @@ layout: default
 |**2026-01-09**|**SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking**|Zewei Lin et.al.|[2601.05827](http://arxiv.org/abs/2601.05827)|null|
 |**2026-01-09**|**HogVul: Black-box Adversarial Code Generation Framework Against LM-based Vulnerability Detectors**|Jingxiao Yang et.al.|[2601.05587](http://arxiv.org/abs/2601.05587)|null|
 |**2026-01-04**|**Differentiation Between Faults and Cyberattacks through Combined Analysis of Cyberspace Logs and Physical Measurements**|Mohammad Shamim Ahsan et.al.|[2601.03289](http://arxiv.org/abs/2601.03289)|null|
-|**2026-01-06**|**Backwards Data-Flow Analysis using Prophecy Variable in the BuildIt System**|Ajay Brahmakshatriya et.al.|[2601.02653](http://arxiv.org/abs/2601.02653)|null|
+|**2026-01-19**|**Backwards Data-Flow Analysis using Prophecy Variables in the BuildIt System**|Ajay Brahmakshatriya et.al.|[2601.02653](http://arxiv.org/abs/2601.02653)|null|
 |**2026-01-06**|**LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification**|Md Ajoad Hasan et.al.|[2601.02624](http://arxiv.org/abs/2601.02624)|null|
-|**2026-01-05**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](http://arxiv.org/abs/2601.02438)|null|
+|**2026-01-20**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](http://arxiv.org/abs/2601.02438)|null|
 |**2026-01-05**|**Perish or Flourish? A Holistic Evaluation of Large Language Models for Code Generation in Functional Programming**|Nguyet-Anh H. Lang et.al.|[2601.02060](http://arxiv.org/abs/2601.02060)|null|
 |**2026-01-04**|**Exposing Hidden Interfaces: LLM-Guided Type Inference for Reverse Engineering macOS Private Frameworks**|Arina Kharlamova et.al.|[2601.01673](http://arxiv.org/abs/2601.01673)|null|
 |**2026-01-04**|**Adaptive Hierarchical Evaluation of LLMs and SAST tools for CWE Prediction in Python**|Muntasir Adnan et.al.|[2601.01320](http://arxiv.org/abs/2601.01320)|null|
