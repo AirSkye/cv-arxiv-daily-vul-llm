@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.23
+## Updated on 2026.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,13 +220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-22**|**Gain-Layer Project**|Niels G. Sorgenfrei et.al.|[2601.16049](http://arxiv.org/abs/2601.16049)|null|
+|**2026-01-21**|**Remarks on Algebraic Reconstruction of Types and Effects**|Patrycja Balik et.al.|[2601.15455](http://arxiv.org/abs/2601.15455)|null|
+|**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
 |**2026-01-20**|**An Empirical Study on Remote Code Execution in Machine Learning Model Hosting Ecosystems**|Mohammed Latif Siddiq et.al.|[2601.14163](http://arxiv.org/abs/2601.14163)|null|
 |**2026-01-20**|**AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development**|Shyam Agarwal et.al.|[2601.13597](http://arxiv.org/abs/2601.13597)|null|
 |**2026-01-19**|**FlipFlop: A Static Analysis-based Energy Optimization Framework for GPU Kernels**|Saurabhsingh Rajput et.al.|[2601.13345](http://arxiv.org/abs/2601.13345)|null|
 |**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
 |**2026-01-19**|**ArchAgent: Scalable Legacy Software Architecture Recovery with LLMs**|Rusheng Pan et.al.|[2601.13007](http://arxiv.org/abs/2601.13007)|null|
 |**2026-01-19**|**Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass**|Sangjun An et.al.|[2601.12916](http://arxiv.org/abs/2601.12916)|null|
-|**2026-01-19**|**Efficient Code Analysis via Graph-Guided Large Language Models**|Hang Gao et.al.|[2601.12890](http://arxiv.org/abs/2601.12890)|null|
+|**2026-01-22**|**Efficient Code Analysis via Graph-Guided Large Language Models**|Hang Gao et.al.|[2601.12890](http://arxiv.org/abs/2601.12890)|null|
 |**2026-01-19**|**OpenAI for OpenAPI: Automated generation of REST API specification via LLMs**|Hao Chen et.al.|[2601.12735](http://arxiv.org/abs/2601.12735)|null|
 |**2026-01-17**|**Enhancing Fuzz Testing Efficiency through Automated Fuzz Target Generation**|Chi Thien Tran et.al.|[2601.11972](http://arxiv.org/abs/2601.11972)|null|
 |**2026-01-16**|**Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)**|Letitia W. Li et.al.|[2601.11510](http://arxiv.org/abs/2601.11510)|null|
