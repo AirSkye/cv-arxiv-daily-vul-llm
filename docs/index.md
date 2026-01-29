@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.27
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,12 +220,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**LLM-based Vulnerability Detection at Project Scale: An Empirical Study**|Fengjie Li et.al.|[2601.19239](http://arxiv.org/abs/2601.19239)|null|
+|**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
+|**2026-01-27**|**Detecting and Correcting Hallucinations in LLM-Generated Code via Deterministic AST Analysis**|Dipin Khati et.al.|[2601.19106](http://arxiv.org/abs/2601.19106)|null|
+|**2026-01-26**|**MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution**|Zihan Wu et.al.|[2601.18847](http://arxiv.org/abs/2601.18847)|null|
+|**2026-01-26**|**Reducing False Positives in Static Bug Detection with LLMs: An Empirical Study in Industry**|Xueying Du et.al.|[2601.18844](http://arxiv.org/abs/2601.18844)|null|
+|**2026-01-26**|**AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito**|Yinghan Hou et.al.|[2601.18381](http://arxiv.org/abs/2601.18381)|null|
+|**2026-01-26**|**A Dataset for Automatic Vocal Mode Classification**|Reemt Hinrichs et.al.|[2601.18339](http://arxiv.org/abs/2601.18339)|null|
+|**2026-01-25**|**iResolveX: Multi-Layered Indirect Call Resolution via Static Reasoning and Learning-Augmented Refinement**|Monika Santra et.al.|[2601.17888](http://arxiv.org/abs/2601.17888)|null|
+|**2026-01-25**|**An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing**|Xiaohui Hu et.al.|[2601.17833](http://arxiv.org/abs/2601.17833)|null|
+|**2026-01-25**|**Multi-Agent End-to-End Vulnerability Management for Mitigating Recurring Vulnerabilities**|Zelong Zheng et.al.|[2601.17762](http://arxiv.org/abs/2601.17762)|null|
+|**2026-01-24**|**YASA: Scalable Multi-Language Taint Analysis on the Unified AST at Ant Group**|Yayi Wang et.al.|[2601.17390](http://arxiv.org/abs/2601.17390)|null|
 |**2026-01-22**|**Analyzing Neural Network Information Flow Using Differential Geometry**|Shuhang Tan et.al.|[2601.16366](http://arxiv.org/abs/2601.16366)|null|
 |**2026-01-22**|**Gain-Layer Project**|Niels G. Sorgenfrei et.al.|[2601.16049](http://arxiv.org/abs/2601.16049)|null|
 |**2026-01-21**|**Remarks on Algebraic Reconstruction of Types and Effects**|Patrycja Balik et.al.|[2601.15455](http://arxiv.org/abs/2601.15455)|null|
 |**2026-01-21**|**A Prompt-Based Framework for Loop Vulnerability Detection Using Local LLMs**|Adeyemi Adeseye et.al.|[2601.15352](http://arxiv.org/abs/2601.15352)|null|
 |**2026-01-20**|**An Empirical Study on Remote Code Execution in Machine Learning Model Hosting Ecosystems**|Mohammed Latif Siddiq et.al.|[2601.14163](http://arxiv.org/abs/2601.14163)|null|
-|**2026-01-20**|**AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development**|Shyam Agarwal et.al.|[2601.13597](http://arxiv.org/abs/2601.13597)|null|
+|**2026-01-27**|**AI IDEs or Autonomous Agents? Measuring the Impact of Coding Agents on Software Development**|Shyam Agarwal et.al.|[2601.13597](http://arxiv.org/abs/2601.13597)|null|
 |**2026-01-19**|**FlipFlop: A Static Analysis-based Energy Optimization Framework for GPU Kernels**|Saurabhsingh Rajput et.al.|[2601.13345](http://arxiv.org/abs/2601.13345)|null|
 |**2026-01-19**|**Analysis of Long Range Dependency Understanding in State Space Models**|Srividya Ravikumar et.al.|[2601.13048](http://arxiv.org/abs/2601.13048)|null|
 |**2026-01-19**|**ArchAgent: Scalable Legacy Software Architecture Recovery with LLMs**|Rusheng Pan et.al.|[2601.13007](http://arxiv.org/abs/2601.13007)|null|
