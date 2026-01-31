@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Multi-Modular MANTA-RAY: A Modular Soft Surface Platform for Distributed Multi-Object Manipulation**|Pratik Ingle et.al.|[2601.21884](http://arxiv.org/abs/2601.21884)|null|
+|**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
+|**2026-01-28**|**Quantitative synthetic aperture radar inversion**|Liliana Borcea et.al.|[2601.20583](http://arxiv.org/abs/2601.20583)|null|
+|**2026-01-28**|**Multimodal Multi-Agent Ransomware Analysis Using AutoGen**|Asifullah Khan et.al.|[2601.20346](http://arxiv.org/abs/2601.20346)|null|
 |**2026-01-27**|**LLM-based Vulnerability Detection at Project Scale: An Empirical Study**|Fengjie Li et.al.|[2601.19239](http://arxiv.org/abs/2601.19239)|null|
 |**2026-01-27**|**AgenticSCR: An Autonomous Agentic Secure Code Review for Immature Vulnerabilities Detection**|Wachiraphan Charoenwet et.al.|[2601.19138](http://arxiv.org/abs/2601.19138)|null|
 |**2026-01-27**|**Detecting and Correcting Hallucinations in LLM-Generated Code via Deterministic AST Analysis**|Dipin Khati et.al.|[2601.19106](http://arxiv.org/abs/2601.19106)|null|
