@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**|Yunpeng Xiong et.al.|[2601.22952](http://arxiv.org/abs/2601.22952)|null|
+|**2026-01-30**|**CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning**|Ji Shi et.al.|[2601.22803](http://arxiv.org/abs/2601.22803)|null|
+|**2026-01-30**|**Rust and Go directed fuzzing with LibAFL-DiFuzz**|Timofey Mezhuev et.al.|[2601.22772](http://arxiv.org/abs/2601.22772)|null|
+|**2026-01-30**|**RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories**|Yanlin Wang et.al.|[2601.22706](http://arxiv.org/abs/2601.22706)|null|
+|**2026-01-30**|**The Semantic Trap: Do Fine-tuned LLMs Learn Vulnerability Root Cause or Just Functional Pattern?**|Feiyang Huang et.al.|[2601.22655](http://arxiv.org/abs/2601.22655)|null|
 |**2026-01-29**|**Multi-Modular MANTA-RAY: A Modular Soft Surface Platform for Distributed Multi-Object Manipulation**|Pratik Ingle et.al.|[2601.21884](http://arxiv.org/abs/2601.21884)|null|
 |**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
 |**2026-01-28**|**Quantitative synthetic aperture radar inversion**|Liliana Borcea et.al.|[2601.20583](http://arxiv.org/abs/2601.20583)|null|
