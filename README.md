@@ -1,4 +1,4 @@
-## Updated on 2026.02.03
+## Updated on 2026.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,17 +224,27 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-03**|**From Separate Compilation to Sound Language Composition**|Federico Bruzzone et.al.|[2602.03777](http://arxiv.org/abs/2602.03777)|null|
+|**2026-02-03**|**Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions**|Zhihao Li et.al.|[2602.03580](http://arxiv.org/abs/2602.03580)|null|
+|**2026-02-03**|**Can Large Language Models Generalize Procedures Across Representations?**|Fangru Lin et.al.|[2602.03542](http://arxiv.org/abs/2602.03542)|null|
+|**2026-02-03**|**Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis**|Nicolás E. Díaz Ferreyra et.al.|[2602.03470](http://arxiv.org/abs/2602.03470)|null|
+|**2026-02-03**|**LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts**|Jiaqi Gao et.al.|[2602.03271](http://arxiv.org/abs/2602.03271)|null|
+|**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
+|**2026-02-02**|**Phoenix: A Modular and Versatile Framework for C/C++ Pointer Analysis**|Peisen Yao et.al.|[2602.01720](http://arxiv.org/abs/2602.01720)|null|
+|**2026-01-31**|**Code Quality Analysis of Translations from C to Rust**|Biruk Tadesse et.al.|[2602.00840](http://arxiv.org/abs/2602.00840)|null|
+|**2026-01-31**|**Context-Sensitive Pointer Analysis for ArkTS**|Yizhuo Yang et.al.|[2602.00457](http://arxiv.org/abs/2602.00457)|null|
+|**2026-01-30**|**Towards Analyzing N-language Polyglot Programs**|Jyoti Prakash et.al.|[2602.00303](http://arxiv.org/abs/2602.00303)|null|
 |**2026-01-30**|**Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**|Yunpeng Xiong et.al.|[2601.22952](http://arxiv.org/abs/2601.22952)|null|
 |**2026-01-30**|**CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning**|Ji Shi et.al.|[2601.22803](http://arxiv.org/abs/2601.22803)|null|
 |**2026-01-30**|**Rust and Go directed fuzzing with LibAFL-DiFuzz**|Timofey Mezhuev et.al.|[2601.22772](http://arxiv.org/abs/2601.22772)|null|
 |**2026-01-30**|**RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories**|Yanlin Wang et.al.|[2601.22706](http://arxiv.org/abs/2601.22706)|null|
-|**2026-01-30**|**The Semantic Trap: Do Fine-tuned LLMs Learn Vulnerability Root Cause or Just Functional Pattern?**|Feiyang Huang et.al.|[2601.22655](http://arxiv.org/abs/2601.22655)|null|
+|**2026-02-02**|**The Semantic Trap: Do Fine-tuned LLMs Learn Vulnerability Root Cause or Just Functional Pattern?**|Feiyang Huang et.al.|[2601.22655](http://arxiv.org/abs/2601.22655)|null|
 |**2026-01-29**|**Multi-Modular MANTA-RAY: A Modular Soft Surface Platform for Distributed Multi-Object Manipulation**|Pratik Ingle et.al.|[2601.21884](http://arxiv.org/abs/2601.21884)|null|
 |**2026-01-29**|**Multi-objective Integer Linear Programming approach for Automatic Software Cognitive Complexity Reduction**|Adriana Novoa-Hurtado et.al.|[2601.21565](http://arxiv.org/abs/2601.21565)|null|
 |**2026-01-28**|**Quantitative synthetic aperture radar inversion**|Liliana Borcea et.al.|[2601.20583](http://arxiv.org/abs/2601.20583)|null|
@@ -1164,7 +1174,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1212,7 +1222,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
