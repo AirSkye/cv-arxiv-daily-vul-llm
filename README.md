@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,18 +224,30 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-08**|**Distributed Architecture Reconstruction of Polyglot and Multi-Repository Microservice Projects**|Oscar Manglaras et.al.|[2602.08166](http://arxiv.org/abs/2602.08166)|null|
+|**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
+|**2026-02-07**|**Static Analysis Under Non-Deterministic Program Assumptions**|Abdullah H. Rasheed et.al.|[2602.07324](http://arxiv.org/abs/2602.07324)|null|
+|**2026-02-05**|**Artificial Intelligence in Open Source Software Engineering: A Foundation for Sustainability**|S M Rakib UI Karim et.al.|[2602.07071](http://arxiv.org/abs/2602.07071)|null|
+|**2026-02-06**|**Statistical-Based Metric Threshold Setting Method for Software Fault Prediction in Firmware Projects: An Industrial Experience**|Marco De Luca et.al.|[2602.06831](http://arxiv.org/abs/2602.06831)|null|
+|**2026-02-06**|**Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection**|Yikun Li et.al.|[2602.06751](http://arxiv.org/abs/2602.06751)|null|
+|**2026-02-06**|**Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models**|Li Lu et.al.|[2602.06687](http://arxiv.org/abs/2602.06687)|null|
+|**2026-02-06**|**Same Engine, Multiple Gears: Parallelizing Fixpoint Iteration at Different Granularities (Extended Version)**|Ali Rasim Kocal et.al.|[2602.06680](http://arxiv.org/abs/2602.06680)|null|
+|**2026-02-05**|**Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection**|Ehsan Firouzi et.al.|[2602.05868](http://arxiv.org/abs/2602.05868)|null|
+|**2026-02-05**|**Toward Quantum-Safe Software Engineering: A Vision for Post-Quantum Cryptography Migration**|Lei Zhang et.al.|[2602.05759](http://arxiv.org/abs/2602.05759)|null|
+|**2026-02-04**|**On the use of LLMs to generate a dataset of Neural Networks**|Nadia Daoudi et.al.|[2602.04388](http://arxiv.org/abs/2602.04388)|null|
+|**2026-02-04**|**I Can't Believe It's Not a Valid Exploit**|Derin Gezgin et.al.|[2602.04165](http://arxiv.org/abs/2602.04165)|null|
 |**2026-02-03**|**From Separate Compilation to Sound Language Composition**|Federico Bruzzone et.al.|[2602.03777](http://arxiv.org/abs/2602.03777)|null|
 |**2026-02-03**|**Don't believe everything you read: Understanding and Measuring MCP Behavior under Misleading Tool Descriptions**|Zhihao Li et.al.|[2602.03580](http://arxiv.org/abs/2602.03580)|null|
 |**2026-02-03**|**Can Large Language Models Generalize Procedures Across Representations?**|Fangru Lin et.al.|[2602.03542](http://arxiv.org/abs/2602.03542)|null|
 |**2026-02-03**|**Reading Between the Code Lines: On the Use of Self-Admitted Technical Debt for Security Analysis**|Nicolás E. Díaz Ferreyra et.al.|[2602.03470](http://arxiv.org/abs/2602.03470)|null|
 |**2026-02-03**|**LogicScan: An LLM-driven Framework for Detecting Business Logic Vulnerabilities in Smart Contracts**|Jiaqi Gao et.al.|[2602.03271](http://arxiv.org/abs/2602.03271)|null|
-|**2026-02-02**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
+|**2026-02-03**|**Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents**|Pengfei He et.al.|[2602.02164](http://arxiv.org/abs/2602.02164)|null|
 |**2026-02-02**|**Phoenix: A Modular and Versatile Framework for C/C++ Pointer Analysis**|Peisen Yao et.al.|[2602.01720](http://arxiv.org/abs/2602.01720)|null|
 |**2026-01-31**|**Code Quality Analysis of Translations from C to Rust**|Biruk Tadesse et.al.|[2602.00840](http://arxiv.org/abs/2602.00840)|null|
 |**2026-01-31**|**Context-Sensitive Pointer Analysis for ArkTS**|Yizhuo Yang et.al.|[2602.00457](http://arxiv.org/abs/2602.00457)|null|
@@ -1174,7 +1186,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1222,7 +1234,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
