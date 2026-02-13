@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Beyond Permissions: An Empirical Static Analysis of Privacy and Security Risks in Children-Oriented and General-Audience Mobile Apps for Gaming**|Bakheet Aljedaani et.al.|[2602.10877](http://arxiv.org/abs/2602.10877)|null|
+|**2026-02-11**|**VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection**|Samal Mukhtar et.al.|[2602.10787](http://arxiv.org/abs/2602.10787)|null|
+|**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
+|**2026-02-10**|**Canonical strong coupling spin wave expansion of Kondo lattice magnets. II. Itinerant ferromagnets and topological magnon bands**|M. Frakulla et.al.|[2602.10086](http://arxiv.org/abs/2602.10086)|null|
+|**2026-02-10**|**Orbital piezomagnetic polarizability of pure insulating altermagnets in two dimensions**|Beryl Bell et.al.|[2602.10076](http://arxiv.org/abs/2602.10076)|null|
+|**2026-02-10**|**Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents**|Xiang Li et.al.|[2602.09944](http://arxiv.org/abs/2602.09944)|null|
+|**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
+|**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
 |**2026-02-08**|**Distributed Architecture Reconstruction of Polyglot and Multi-Repository Microservice Projects**|Oscar Manglaras et.al.|[2602.08166](http://arxiv.org/abs/2602.08166)|null|
 |**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
 |**2026-02-07**|**Static Analysis Under Non-Deterministic Program Assumptions**|Abdullah H. Rasheed et.al.|[2602.07324](http://arxiv.org/abs/2602.07324)|null|
