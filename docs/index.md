@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
+|**2026-02-11**|**Adapting the Lanczos algorithm to matrices with almost continuous spectra**|Jörn Zimmerling et.al.|[2602.11449](http://arxiv.org/abs/2602.11449)|null|
+|**2026-02-03**|**DDL2PropBank Agent: Benchmarking Multi-Agent Frameworks' Developer Experience Through a Novel Relational Schema Mapping Task**|Shafiuddin Rehan Ahmed et.al.|[2602.11198](http://arxiv.org/abs/2602.11198)|null|
 |**2026-02-11**|**Beyond Permissions: An Empirical Static Analysis of Privacy and Security Risks in Children-Oriented and General-Audience Mobile Apps for Gaming**|Bakheet Aljedaani et.al.|[2602.10877](http://arxiv.org/abs/2602.10877)|null|
 |**2026-02-11**|**VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection**|Samal Mukhtar et.al.|[2602.10787](http://arxiv.org/abs/2602.10787)|null|
 |**2026-02-11**|**SecCodePRM: A Process Reward Model for Code Security**|Weichen Yu et.al.|[2602.10418](http://arxiv.org/abs/2602.10418)|null|
