@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
+|**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
 |**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
 |**2026-02-11**|**Adapting the Lanczos algorithm to matrices with almost continuous spectra**|Jörn Zimmerling et.al.|[2602.11449](http://arxiv.org/abs/2602.11449)|null|
 |**2026-02-03**|**DDL2PropBank Agent: Benchmarking Multi-Agent Frameworks' Developer Experience Through a Novel Relational Schema Mapping Task**|Shafiuddin Rehan Ahmed et.al.|[2602.11198](http://arxiv.org/abs/2602.11198)|null|
@@ -255,7 +257,7 @@ layout: default
 |**2026-01-30**|**Towards Analyzing N-language Polyglot Programs**|Jyoti Prakash et.al.|[2602.00303](http://arxiv.org/abs/2602.00303)|null|
 |**2026-01-30**|**Sifting the Noise: A Comparative Study of LLM Agents in Vulnerability False Positive Filtering**|Yunpeng Xiong et.al.|[2601.22952](http://arxiv.org/abs/2601.22952)|null|
 |**2026-01-30**|**CVeDRL: An Efficient Code Verifier via Difficulty-aware Reinforcement Learning**|Ji Shi et.al.|[2601.22803](http://arxiv.org/abs/2601.22803)|null|
-|**2026-01-30**|**Rust and Go directed fuzzing with LibAFL-DiFuzz**|Timofey Mezhuev et.al.|[2601.22772](http://arxiv.org/abs/2601.22772)|null|
+|**2026-02-17**|**Rust and Go directed fuzzing with LibAFL-DiFuzz**|Timofey Mezhuev et.al.|[2601.22772](http://arxiv.org/abs/2601.22772)|null|
 |**2026-01-30**|**RealSec-bench: A Benchmark for Evaluating Secure Code Generation in Real-World Repositories**|Yanlin Wang et.al.|[2601.22706](http://arxiv.org/abs/2601.22706)|null|
 |**2026-02-02**|**The Semantic Trap: Do Fine-tuned LLMs Learn Vulnerability Root Cause or Just Functional Pattern?**|Feiyang Huang et.al.|[2601.22655](http://arxiv.org/abs/2601.22655)|null|
 |**2026-01-29**|**Multi-Modular MANTA-RAY: A Modular Soft Surface Platform for Distributed Multi-Object Manipulation**|Pratik Ingle et.al.|[2601.21884](http://arxiv.org/abs/2601.21884)|null|
