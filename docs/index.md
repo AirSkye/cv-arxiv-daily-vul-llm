@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Momentum Measurement of Charged Particles in FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2602.17575](http://arxiv.org/abs/2602.17575)|null|
+|**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
 |**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
 |**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012](http://arxiv.org/abs/2602.14012)|null|
 |**2026-02-12**|**An Empirical Study of the Imbalance Issue in Software Vulnerability Detection**|Yuejun Guo et.al.|[2602.12038](http://arxiv.org/abs/2602.12038)|null|
