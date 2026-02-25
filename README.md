@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,19 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-23**|**Scalable Low-Density Distributed Manipulation Using an Interconnected Actuator Array**|Bailey Dacre et.al.|[2602.19653](http://arxiv.org/abs/2602.19653)|null|
+|**2026-02-23**|**Workflow-Level Design Principles for Trustworthy GenAI in Automotive System Engineering**|Chih-Hong Cheng et.al.|[2602.19614](http://arxiv.org/abs/2602.19614)|null|
+|**2026-02-23**|**Multi-CoLoR: Context-Aware Localization and Reasoning across Multi-Language Codebases**|Indira Vats et.al.|[2602.19407](http://arxiv.org/abs/2602.19407)|null|
+|**2026-02-20**|**Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities**|Spandan Garg et.al.|[2602.18571](http://arxiv.org/abs/2602.18571)|null|
+|**2026-02-20**|**AndroWasm: an Empirical Study on Android Malware Obfuscation through WebAssembly**|Diego Soi et.al.|[2602.18082](http://arxiv.org/abs/2602.18082)|null|
+|**2026-02-19**|**Automated LLM-Based Accessibility Remediation: From Conventional Websites to Angular Single-Page Applications**|Carla Fernández-Navarro et.al.|[2602.17887](http://arxiv.org/abs/2602.17887)|null|
+|**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875](http://arxiv.org/abs/2602.17875)|null|
 |**2026-02-19**|**Momentum Measurement of Charged Particles in FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2602.17575](http://arxiv.org/abs/2602.17575)|null|
 |**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
 |**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
@@ -244,7 +251,7 @@
 |**2026-02-10**|**Orbital piezomagnetic polarizability of pure insulating altermagnets in two dimensions**|Beryl Bell et.al.|[2602.10076](http://arxiv.org/abs/2602.10076)|null|
 |**2026-02-10**|**Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents**|Xiang Li et.al.|[2602.09944](http://arxiv.org/abs/2602.09944)|null|
 |**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
-|**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
+|**2026-02-23**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
 |**2026-02-08**|**Distributed Architecture Reconstruction of Polyglot and Multi-Repository Microservice Projects**|Oscar Manglaras et.al.|[2602.08166](http://arxiv.org/abs/2602.08166)|null|
 |**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
 |**2026-02-07**|**Static Analysis Under Non-Deterministic Program Assumptions**|Abdullah H. Rasheed et.al.|[2602.07324](http://arxiv.org/abs/2602.07324)|null|
@@ -1201,7 +1208,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1249,7 +1256,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260225>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

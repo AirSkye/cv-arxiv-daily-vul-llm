@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Scalable Low-Density Distributed Manipulation Using an Interconnected Actuator Array**|Bailey Dacre et.al.|[2602.19653](http://arxiv.org/abs/2602.19653)|null|
+|**2026-02-23**|**Workflow-Level Design Principles for Trustworthy GenAI in Automotive System Engineering**|Chih-Hong Cheng et.al.|[2602.19614](http://arxiv.org/abs/2602.19614)|null|
+|**2026-02-23**|**Multi-CoLoR: Context-Aware Localization and Reasoning across Multi-Language Codebases**|Indira Vats et.al.|[2602.19407](http://arxiv.org/abs/2602.19407)|null|
+|**2026-02-20**|**Debug2Fix: Supercharging Coding Agents with Interactive Debugging Capabilities**|Spandan Garg et.al.|[2602.18571](http://arxiv.org/abs/2602.18571)|null|
+|**2026-02-20**|**AndroWasm: an Empirical Study on Android Malware Obfuscation through WebAssembly**|Diego Soi et.al.|[2602.18082](http://arxiv.org/abs/2602.18082)|null|
+|**2026-02-19**|**Automated LLM-Based Accessibility Remediation: From Conventional Websites to Angular Single-Page Applications**|Carla Fernández-Navarro et.al.|[2602.17887](http://arxiv.org/abs/2602.17887)|null|
+|**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875](http://arxiv.org/abs/2602.17875)|null|
 |**2026-02-19**|**Momentum Measurement of Charged Particles in FASER's Emulsion Detector at the LHC**|FASER Collaboration et.al.|[2602.17575](http://arxiv.org/abs/2602.17575)|null|
 |**2026-02-18**|**Can Adversarial Code Comments Fool AI Security Reviewers -- Large-Scale Empirical Study of Comment-Based Attacks and Defenses Against LLM Code Analysis**|Scott Thornton et.al.|[2602.16741](http://arxiv.org/abs/2602.16741)|null|
 |**2026-02-15**|**AXE: An Agentic eXploit Engine for Confirming Zero-Day Vulnerability Reports**|Amirali Sajadi et.al.|[2602.14345](http://arxiv.org/abs/2602.14345)|null|
@@ -234,7 +241,7 @@ layout: default
 |**2026-02-10**|**Orbital piezomagnetic polarizability of pure insulating altermagnets in two dimensions**|Beryl Bell et.al.|[2602.10076](http://arxiv.org/abs/2602.10076)|null|
 |**2026-02-10**|**Environment-in-the-Loop: Rethinking Code Migration with LLM-based Agents**|Xiang Li et.al.|[2602.09944](http://arxiv.org/abs/2602.09944)|null|
 |**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
-|**2026-02-10**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
+|**2026-02-23**|**ReSIM: Re-ranking Binary Similarity Embeddings to Improve Function Search Performance**|Gianluca Capozzi et.al.|[2602.09548](http://arxiv.org/abs/2602.09548)|null|
 |**2026-02-08**|**Distributed Architecture Reconstruction of Polyglot and Multi-Repository Microservice Projects**|Oscar Manglaras et.al.|[2602.08166](http://arxiv.org/abs/2602.08166)|null|
 |**2026-02-07**|**Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model**|Tianyi Wu et.al.|[2602.07422](http://arxiv.org/abs/2602.07422)|null|
 |**2026-02-07**|**Static Analysis Under Non-Deterministic Program Assumptions**|Abdullah H. Rasheed et.al.|[2602.07324](http://arxiv.org/abs/2602.07324)|null|
