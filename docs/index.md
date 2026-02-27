@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.25
+## Updated on 2026.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[2602.21997](http://arxiv.org/abs/2602.21997)|null|
+|**2026-02-24**|**On Optimizing Image Codecs for VMAF NEG: Analysis, Issues, and a Robust Loss Proposal**|Florian Fingscheidt et.al.|[2602.21336](http://arxiv.org/abs/2602.21336)|null|
+|**2026-02-24**|**Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs**|Guangsheng Ou et.al.|[2602.20799](http://arxiv.org/abs/2602.20799)|null|
 |**2026-02-23**|**Scalable Low-Density Distributed Manipulation Using an Interconnected Actuator Array**|Bailey Dacre et.al.|[2602.19653](http://arxiv.org/abs/2602.19653)|null|
 |**2026-02-23**|**Workflow-Level Design Principles for Trustworthy GenAI in Automotive System Engineering**|Chih-Hong Cheng et.al.|[2602.19614](http://arxiv.org/abs/2602.19614)|null|
 |**2026-02-23**|**Multi-CoLoR: Context-Aware Localization and Reasoning across Multi-Language Codebases**|Indira Vats et.al.|[2602.19407](http://arxiv.org/abs/2602.19407)|null|
