@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.27
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Excited-state quantum phase transitions and chaos in a three-level Lipkin model**|Alberto Mayorgas et.al.|[2602.23176](http://arxiv.org/abs/2602.23176)|null|
+|**2026-02-26**|**Automated Vulnerability Detection in Source Code Using Deep Representation Learning**|C. Seas et.al.|[2602.23121](http://arxiv.org/abs/2602.23121)|null|
+|**2026-02-24**|**Accelerating Incident Response: A Hybrid Approach for Data Breach Reporting**|Aurora Arrus et.al.|[2602.22244](http://arxiv.org/abs/2602.22244)|null|
 |**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[2602.21997](http://arxiv.org/abs/2602.21997)|null|
 |**2026-02-24**|**On Optimizing Image Codecs for VMAF NEG: Analysis, Issues, and a Robust Loss Proposal**|Florian Fingscheidt et.al.|[2602.21336](http://arxiv.org/abs/2602.21336)|null|
 |**2026-02-24**|**Unseen-Codebases-Domain Data Synthesis and Training Based on Code Graphs**|Guangsheng Ou et.al.|[2602.20799](http://arxiv.org/abs/2602.20799)|null|
