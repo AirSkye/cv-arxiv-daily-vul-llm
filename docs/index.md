@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning**|Xuhui Dou et.al.|[2602.23834](http://arxiv.org/abs/2602.23834)|null|
 |**2026-02-26**|**Excited-state quantum phase transitions and chaos in a three-level Lipkin model**|Alberto Mayorgas et.al.|[2602.23176](http://arxiv.org/abs/2602.23176)|null|
 |**2026-02-26**|**Automated Vulnerability Detection in Source Code Using Deep Representation Learning**|C. Seas et.al.|[2602.23121](http://arxiv.org/abs/2602.23121)|null|
 |**2026-02-24**|**Accelerating Incident Response: A Hybrid Approach for Data Breach Reporting**|Aurora Arrus et.al.|[2602.22244](http://arxiv.org/abs/2602.22244)|null|
