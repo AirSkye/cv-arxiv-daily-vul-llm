@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**The COSMIC WISPers White Paper: The physics case for Weakly Interacting Slim Particles**|Ariel Arza et.al.|[2603.03433](http://arxiv.org/abs/2603.03433)|null|
 |**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 |**2026-03-03**|**Dynamic Contract Analysis for Parallel Programming Models**|Yussur Mustafa Oraji et.al.|[2603.03023](http://arxiv.org/abs/2603.03023)|null|
 |**2026-03-02**|**CuTe Layout Representation and Algebra**|Cris Cecka et.al.|[2603.02298](http://arxiv.org/abs/2603.02298)|null|
