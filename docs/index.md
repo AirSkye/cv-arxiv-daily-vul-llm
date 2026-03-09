@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.07
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-06**|**Predictive Coding Graphs are a Superset of Feedforward Neural Networks**|Björn van Zwol et.al.|[2603.06142](http://arxiv.org/abs/2603.06142)|null|
+|**2026-03-05**|**SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection**|Touseef Hasan et.al.|[2603.05689](http://arxiv.org/abs/2603.05689)|null|
 |**2026-03-03**|**The COSMIC WISPers White Paper: The physics case for Weakly Interacting Slim Particles**|Ariel Arza et.al.|[2603.03433](http://arxiv.org/abs/2603.03433)|null|
 |**2026-03-03**|**AI-for-Science Low-code Platform with Bayesian Adversarial Multi-Agent Framework**|Zihang Zeng et.al.|[2603.03233](http://arxiv.org/abs/2603.03233)|null|
 |**2026-03-03**|**Dynamic Contract Analysis for Parallel Programming Models**|Yussur Mustafa Oraji et.al.|[2603.03023](http://arxiv.org/abs/2603.03023)|null|
