@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.09
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**PrivPRISM: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies**|Bhanuka Silva et.al.|[2603.09214](http://arxiv.org/abs/2603.09214)|null|
+|**2026-03-09**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
+|**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
+|**2026-03-09**|**More to Extract: Discovering MEV by Token Contract Analysis**|Jiaqi Chen et.al.|[2603.07996](http://arxiv.org/abs/2603.07996)|null|
+|**2026-03-09**|**LeJOT-AutoML: LLM-Driven Feature Engineering for Job Execution Time Prediction in Databricks Cost Optimization**|Lizhi Ma et.al.|[2603.07897](http://arxiv.org/abs/2603.07897)|null|
+|**2026-03-07**|**Echo: Graph-Enhanced Retrieval and Execution Feedback for Issue Reproduction Test Generation**|Zhiwei Fei et.al.|[2603.07326](http://arxiv.org/abs/2603.07326)|null|
+|**2026-03-07**|**Detecting Cryptographically Relevant Software Packages with Collaborative LLMs**|Eduard Hirsch et.al.|[2603.07204](http://arxiv.org/abs/2603.07204)|null|
 |**2026-03-06**|**Predictive Coding Graphs are a Superset of Feedforward Neural Networks**|Björn van Zwol et.al.|[2603.06142](http://arxiv.org/abs/2603.06142)|null|
 |**2026-03-05**|**SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection**|Touseef Hasan et.al.|[2603.05689](http://arxiv.org/abs/2603.05689)|null|
 |**2026-03-03**|**The COSMIC WISPers White Paper: The physics case for Weakly Interacting Slim Particles**|Ariel Arza et.al.|[2603.03433](http://arxiv.org/abs/2603.03433)|null|
