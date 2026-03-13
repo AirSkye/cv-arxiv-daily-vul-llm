@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Resolving Java Code Repository Issues with iSWE Agent**|Jatin Ganhotra et.al.|[2603.11356](http://arxiv.org/abs/2603.11356)|null|
+|**2026-03-11**|**Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques**|David Williams et.al.|[2603.11262](http://arxiv.org/abs/2603.11262)|null|
+|**2026-03-11**|**FP-Predictor - False Positive Prediction for Static Analysis Reports**|Tom Ohlmer et.al.|[2603.10558](http://arxiv.org/abs/2603.10558)|null|
+|**2026-03-10**|**MCP-in-SoS: Risk assessment framework for open-source MCP servers**|Pratyay Kumar et.al.|[2603.10194](http://arxiv.org/abs/2603.10194)|null|
+|**2026-03-10**|**Compatibility at a Cost: Systematic Discovery and Exploitation of MCP Clause-Compliance Vulnerabilities**|Nanzi Yang et.al.|[2603.10163](http://arxiv.org/abs/2603.10163)|null|
 |**2026-03-10**|**PrivPRISM: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies**|Bhanuka Silva et.al.|[2603.09214](http://arxiv.org/abs/2603.09214)|null|
 |**2026-03-09**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
 |**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
