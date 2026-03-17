@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-14**|**Ransomware and Artificial Intelligence: A Comprehensive Systematic Review of Reviews**|Therdpong Daengsi et.al.|[2603.13734](http://arxiv.org/abs/2603.13734)|null|
+|**2026-03-11**|**VulnAgent-X: A Layered Agentic Framework for Repository-Level Vulnerability Detection**|Renwei Meng et.al.|[2603.13384](http://arxiv.org/abs/2603.13384)|null|
+|**2026-02-20**|**Automating the Analysis and Improvement of Dynamic Programming Algorithms with Applications to Natural Language Processing**|Tim Vieira et.al.|[2603.13242](http://arxiv.org/abs/2603.13242)|null|
+|**2026-02-17**|**Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts**|Eduardo Sardenberg et.al.|[2603.13239](http://arxiv.org/abs/2603.13239)|null|
+|**2026-03-13**|**MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models**|Md. Abdul Awal et.al.|[2603.13213](http://arxiv.org/abs/2603.13213)|null|
+|**2026-03-12**|**Hunting CUDA Bugs at Scale with cuFuzz**|Mohamed Tarek Ibn ziad et.al.|[2603.12485](http://arxiv.org/abs/2603.12485)|null|
 |**2026-03-11**|**Resolving Java Code Repository Issues with iSWE Agent**|Jatin Ganhotra et.al.|[2603.11356](http://arxiv.org/abs/2603.11356)|null|
 |**2026-03-11**|**Unveiling Practical Shortcomings of Patch Overfitting Detection Techniques**|David Williams et.al.|[2603.11262](http://arxiv.org/abs/2603.11262)|null|
 |**2026-03-11**|**FP-Predictor - False Positive Prediction for Static Analysis Reports**|Tom Ohlmer et.al.|[2603.10558](http://arxiv.org/abs/2603.10558)|null|
