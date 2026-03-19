@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.17
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Energy Flow Graph: Modeling Software Energy Consumption**|Saurabhsingh Rajput et.al.|[2603.17162](http://arxiv.org/abs/2603.17162)|null|
+|**2026-03-17**|**SseRex: Practical Symbolic Execution of Solana Smart Contracts**|Tobias Cloosters et.al.|[2603.16349](http://arxiv.org/abs/2603.16349)|null|
+|**2026-03-16**|**Self-Admitted Technical Debt in Scientific Software: Prioritization, Sentiment, and Propagation Across Artifacts**|Eric L. Melin et.al.|[2603.15883](http://arxiv.org/abs/2603.15883)|null|
+|**2026-03-16**|**PCodeTrans: Translate Decompiled Pseudocode to Compilable and Executable Equivalent**|Yuxin Cui et.al.|[2603.14855](http://arxiv.org/abs/2603.14855)|null|
+|**2026-03-15**|**Mining the YARA Ecosystem: From Ad-Hoc Sharing to Data-Driven Threat Intelligence**|Dectot--Le Monnier de Gouville Esteban et.al.|[2603.14191](http://arxiv.org/abs/2603.14191)|null|
 |**2026-03-14**|**Ransomware and Artificial Intelligence: A Comprehensive Systematic Review of Reviews**|Therdpong Daengsi et.al.|[2603.13734](http://arxiv.org/abs/2603.13734)|null|
 |**2026-03-11**|**VulnAgent-X: A Layered Agentic Framework for Repository-Level Vulnerability Detection**|Renwei Meng et.al.|[2603.13384](http://arxiv.org/abs/2603.13384)|null|
 |**2026-02-20**|**Automating the Analysis and Improvement of Dynamic Programming Algorithms with Applications to Natural Language Processing**|Tim Vieira et.al.|[2603.13242](http://arxiv.org/abs/2603.13242)|null|
