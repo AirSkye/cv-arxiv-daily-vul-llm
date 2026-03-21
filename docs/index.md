@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.19
+## Updated on 2026.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-19**|**SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits**|Edward Lin et.al.|[2603.19173](http://arxiv.org/abs/2603.19173)|null|
+|**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|
+|**2026-03-18**|**Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection**|Amine Lbath et.al.|[2603.17974](http://arxiv.org/abs/2603.17974)|null|
+|**2026-03-18**|**scicode-lint: Detecting Methodology Bugs in Scientific Python Code with LLM-Generated Patterns**|Sergey V. Samsonau et.al.|[2603.17893](http://arxiv.org/abs/2603.17893)|null|
+|**2026-03-18**|**CodeScout: An Effective Recipe for Reinforcement Learning of Code Search Agents**|Lintang Sutawika et.al.|[2603.17829](http://arxiv.org/abs/2603.17829)|null|
 |**2026-03-17**|**Energy Flow Graph: Modeling Software Energy Consumption**|Saurabhsingh Rajput et.al.|[2603.17162](http://arxiv.org/abs/2603.17162)|null|
 |**2026-03-17**|**SseRex: Practical Symbolic Execution of Solana Smart Contracts**|Tobias Cloosters et.al.|[2603.16349](http://arxiv.org/abs/2603.16349)|null|
 |**2026-03-16**|**Self-Admitted Technical Debt in Scientific Software: Prioritization, Sentiment, and Propagation Across Artifacts**|Eric L. Melin et.al.|[2603.15883](http://arxiv.org/abs/2603.15883)|null|
