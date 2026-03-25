@@ -1,4 +1,4 @@
-## Updated on 2026.03.23
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,13 +224,20 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-20**|**Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes**|Yulong Ye et.al.|[2603.19897](http://arxiv.org/abs/2603.19897)|null|
+|**2026-03-24**|**Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval**|Bushra Sabir et.al.|[2603.22717](http://arxiv.org/abs/2603.22717)|null|
+|**2026-03-24**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708](http://arxiv.org/abs/2603.22708)|null|
+|**2026-03-24**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
+|**2026-03-22**|**Which Alert Removals are Beneficial?**|Idan Amit et.al.|[2603.21322](http://arxiv.org/abs/2603.21322)|null|
+|**2026-03-22**|**Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training**|Minghao Hu et.al.|[2603.21058](http://arxiv.org/abs/2603.21058)|null|
+|**2026-03-21**|**AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing**|Sen Fang et.al.|[2603.20637](http://arxiv.org/abs/2603.20637)|null|
+|**2026-03-20**|**MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation**|Yizhe Zhao et.al.|[2603.20351](http://arxiv.org/abs/2603.20351)|null|
+|**2026-03-23**|**Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes**|Yulong Ye et.al.|[2603.19897](http://arxiv.org/abs/2603.19897)|null|
 |**2026-03-19**|**SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits**|Edward Lin et.al.|[2603.19173](http://arxiv.org/abs/2603.19173)|null|
 |**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|
 |**2026-03-18**|**Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection**|Amine Lbath et.al.|[2603.17974](http://arxiv.org/abs/2603.17974)|null|
@@ -1256,7 +1263,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1304,7 +1311,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

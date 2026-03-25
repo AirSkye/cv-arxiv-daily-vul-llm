@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,7 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-20**|**Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes**|Yulong Ye et.al.|[2603.19897](http://arxiv.org/abs/2603.19897)|null|
+|**2026-03-24**|**Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval**|Bushra Sabir et.al.|[2603.22717](http://arxiv.org/abs/2603.22717)|null|
+|**2026-03-24**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708](http://arxiv.org/abs/2603.22708)|null|
+|**2026-03-24**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
+|**2026-03-22**|**Which Alert Removals are Beneficial?**|Idan Amit et.al.|[2603.21322](http://arxiv.org/abs/2603.21322)|null|
+|**2026-03-22**|**Zero-Shot Vulnerability Detection in Low-Resource Smart Contracts Through Solidity-Only Training**|Minghao Hu et.al.|[2603.21058](http://arxiv.org/abs/2603.21058)|null|
+|**2026-03-21**|**AEGIS: From Clues to Verdicts -- Graph-Guided Deep Vulnerability Reasoning via Dialectics and Meta-Auditing**|Sen Fang et.al.|[2603.20637](http://arxiv.org/abs/2603.20637)|null|
+|**2026-03-20**|**MANA: Towards Efficient Mobile Ad Detection via Multimodal Agentic UI Navigation**|Yizhe Zhao et.al.|[2603.20351](http://arxiv.org/abs/2603.20351)|null|
+|**2026-03-23**|**Revealing Domain-Spatiality Patterns for Configuration Tuning: Domain Knowledge Meets Fitness Landscapes**|Yulong Ye et.al.|[2603.19897](http://arxiv.org/abs/2603.19897)|null|
 |**2026-03-19**|**SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits**|Edward Lin et.al.|[2603.19173](http://arxiv.org/abs/2603.19173)|null|
 |**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|
 |**2026-03-18**|**Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection**|Amine Lbath et.al.|[2603.17974](http://arxiv.org/abs/2603.17974)|null|
