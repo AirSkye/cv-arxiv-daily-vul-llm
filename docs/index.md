@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-28**|**Modeling isotropic polyconvex hyperelasticity by neural networks -- sufficient and necessary criteria for compressible and incompressible materials**|Gian-Luca Geuken et.al.|[2603.27351](http://arxiv.org/abs/2603.27351)|null|
+|**2026-03-28**|**A Multi-agent AI System for Deep Learning Model Migration from TensorFlow to JAX**|Stoyan Nikolov et.al.|[2603.27296](http://arxiv.org/abs/2603.27296)|null|
+|**2026-03-28**|**Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis**|Huihui Huang et.al.|[2603.27224](http://arxiv.org/abs/2603.27224)|null|
+|**2026-03-28**|**Detecting Protracted Vulnerabilities in Open Source Projects**|Arjun Sridharkumar et.al.|[2603.27067](http://arxiv.org/abs/2603.27067)|null|
+|**2026-03-27**|**Efficiently Reproducing Distributed Workflows in Notebook-based Systems**|Talha Azaz et.al.|[2603.26965](http://arxiv.org/abs/2603.26965)|null|
+|**2026-03-27**|**Enabling topography-resolving structural dynamic contact simulation**|Hendrik D. Linder et.al.|[2603.26446](http://arxiv.org/abs/2603.26446)|null|
+|**2026-03-27**|**Substitution for minimizing/maximizing a tropical linear (fractional) programming**|L. Truffet et.al.|[2603.26423](http://arxiv.org/abs/2603.26423)|null|
+|**2026-03-27**|**Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization**|Ziqiao Kong et.al.|[2603.26270](http://arxiv.org/abs/2603.26270)|null|
+|**2026-03-26**|**ALPS: Automated Least-Privilege Enforcement for Securing Serverless Functions**|Changhee Shin et.al.|[2603.25393](http://arxiv.org/abs/2603.25393)|null|
+|**2026-03-25**|**Efficient all-electron Bethe-Salpeter implementation using crystal symmetries**|Jörn Stöhler et.al.|[2603.24860](http://arxiv.org/abs/2603.24860)|null|
+|**2026-03-25**|**Bridging Code Property Graphs and Language Models for Program Analysis**|Ahmed Lekssays et.al.|[2603.24837](http://arxiv.org/abs/2603.24837)|null|
+|**2026-03-25**|**BLAZ4R and the eROSITA view of z>4 blazars**|Tullia Sbarrato et.al.|[2603.24659](http://arxiv.org/abs/2603.24659)|null|
+|**2026-03-25**|**An Empirical Analysis of Google Play Data Safety Disclosures: A Consistency Study of Privacy Indicators in Mobile Gaming Apps**|Bakheet Aljedaani et.al.|[2603.23935](http://arxiv.org/abs/2603.23935)|null|
+|**2026-03-24**|**LLMLOOP: Improving LLM-Generated Code and Tests through Automated Iterative Feedback Loops**|Ravin Ravi et.al.|[2603.23613](http://arxiv.org/abs/2603.23613)|null|
+|**2026-03-24**|**ConceptCoder: Improve Code Reasoning via Concept Learning**|Md Mahbubur Rahman et.al.|[2603.23470](http://arxiv.org/abs/2603.23470)|null|
 |**2026-03-24**|**Does Teaming-Up LLMs Improve Secure Code Generation? A Comprehensive Evaluation with Multi-LLMSecCodeEval**|Bushra Sabir et.al.|[2603.22717](http://arxiv.org/abs/2603.22717)|null|
 |**2026-03-24**|**Why Database Manuals Are Not Enough: Efficient and Reliable Configuration Tuning for DBMSs via Code-Driven LLM Agents**|Xinyi Zhang et.al.|[2603.22708](http://arxiv.org/abs/2603.22708)|null|
 |**2026-03-24**|**Dynamic analysis enhances issue resolution**|Mingwei Liu et.al.|[2603.22048](http://arxiv.org/abs/2603.22048)|null|
@@ -250,7 +265,7 @@ layout: default
 |**2026-03-10**|**MCP-in-SoS: Risk assessment framework for open-source MCP servers**|Pratyay Kumar et.al.|[2603.10194](http://arxiv.org/abs/2603.10194)|null|
 |**2026-03-10**|**Compatibility at a Cost: Systematic Discovery and Exploitation of MCP Clause-Compliance Vulnerabilities**|Nanzi Yang et.al.|[2603.10163](http://arxiv.org/abs/2603.10163)|null|
 |**2026-03-10**|**PrivPRISM: Automatically Detecting Discrepancies Between Google Play Data Safety Declarations and Developer Privacy Policies**|Bhanuka Silva et.al.|[2603.09214](http://arxiv.org/abs/2603.09214)|null|
-|**2026-03-09**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
+|**2026-03-27**|**SmartGraphical: A Human-in-the-Loop Framework for Detecting Smart Contract Logical Vulnerabilities via Pattern-Driven Static Analysis and Visual Abstraction**|Ali Fattahdizaji et.al.|[2603.08580](http://arxiv.org/abs/2603.08580)|null|
 |**2026-03-09**|**SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement**|Yi Chen et.al.|[2603.08520](http://arxiv.org/abs/2603.08520)|null|
 |**2026-03-09**|**More to Extract: Discovering MEV by Token Contract Analysis**|Jiaqi Chen et.al.|[2603.07996](http://arxiv.org/abs/2603.07996)|null|
 |**2026-03-09**|**LeJOT-AutoML: LLM-Driven Feature Engineering for Job Execution Time Prediction in Databricks Cost Optimization**|Lizhi Ma et.al.|[2603.07897](http://arxiv.org/abs/2603.07897)|null|
