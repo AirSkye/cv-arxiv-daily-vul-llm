@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,13 +220,36 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**A Case For Host Code Guided GPU Data Race Detector**|Ajay Nayak et.al.|[2604.02106](http://arxiv.org/abs/2604.02106)|null|
+|**2026-04-02**|**RuleForge: Automated Generation and Validation for Web Vulnerability Detection at Scale**|Ayush Garg et.al.|[2604.01977](http://arxiv.org/abs/2604.01977)|null|
+|**2026-04-02**|**Seclens: Role-specific Evaluation of LLM's for security vulnerablity detection**|Subho Halder et.al.|[2604.01637](http://arxiv.org/abs/2604.01637)|null|
+|**2026-04-02**|**ProdCodeBench: A Production-Derived Benchmark for Evaluating AI Coding Agents**|Smriti Jha et.al.|[2604.01527](http://arxiv.org/abs/2604.01527)|null|
+|**2026-04-01**|**Obfuscating Code Vulnerabilities against Static Analysis in JavaScript Code**|Francesco Pagano et.al.|[2604.01131](http://arxiv.org/abs/2604.01131)|null|
+|**2026-04-01**|**VibeGuard: A Security Gate Framework for AI-Generated Code**|Ying Xie et.al.|[2604.01052](http://arxiv.org/abs/2604.01052)|null|
+|**2026-04-01**|**Detecting Call Graph Unsoundness without Ground Truth**|Fangtian Zhong et.al.|[2604.00885](http://arxiv.org/abs/2604.00885)|null|
+|**2026-04-01**|**Quantum-Safe Code Auditing: LLM-Assisted Static Analysis and Quantum-Aware Risk Scoring for Post-Quantum Cryptography Migration**|Animesh Shaw et.al.|[2604.00560](http://arxiv.org/abs/2604.00560)|null|
+|**2026-03-31**|**When is Generated Code Difficult to Comprehend? Assessing AI Agent Python Code Proficiency in the Wild**|Nanthit Temkulkiat et.al.|[2604.00299](http://arxiv.org/abs/2604.00299)|null|
+|**2026-03-31**|**Efficient Software Vulnerability Detection Using Transformer-based Models**|Sameer Shaik et.al.|[2604.00112](http://arxiv.org/abs/2604.00112)|null|
+|**2026-03-31**|**When Labels Are Scarce: A Systematic Mapping of Label-Efficient Code Vulnerability Detection**|Noor Khalal et.al.|[2604.00079](http://arxiv.org/abs/2604.00079)|null|
+|**2026-03-31**|**Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations**|Izavan dos S. Correia et.al.|[2603.30040](http://arxiv.org/abs/2603.30040)|null|
+|**2026-03-31**|**An Empirical Comparison of Security and Privacy Characteristics of Android Messaging Apps**|Ioannis Karyotakis et.al.|[2603.29668](http://arxiv.org/abs/2603.29668)|null|
+|**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
+|**2026-03-31**|**Logging Like Humans for LLMs: Rethinking Logging via Execution and Runtime Feedback**|Xin Wang et.al.|[2603.29122](http://arxiv.org/abs/2603.29122)|null|
+|**2026-03-30**|**Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos**|Jingyuan Chen et.al.|[2603.29013](http://arxiv.org/abs/2603.29013)|null|
+|**2026-03-30**|**Debt Behind the AI Boom: A Large-Scale Empirical Study of AI-Generated Code in the Wild**|Yue Liu et.al.|[2603.28592](http://arxiv.org/abs/2603.28592)|null|
+|**2026-03-30**|**Crossing the NL/PL Divide: Information Flow Analysis Across the NL/PL Boundary in LLM-Integrated Code**|Zihao Xu et.al.|[2603.28345](http://arxiv.org/abs/2603.28345)|null|
+|**2026-03-30**|**VulnScout-C: A Lightweight Transformer for C Code Vulnerability Detection**|Aymen Lassoued et.al.|[2603.28309](http://arxiv.org/abs/2603.28309)|null|
+|**2026-03-30**|**Competitor-aware Race Management for Electric Endurance Racing**|Wytze de Vries et.al.|[2603.28286](http://arxiv.org/abs/2603.28286)|null|
+|**2026-03-30**|**ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment**|Tran Duong Minh Dai et.al.|[2603.28128](http://arxiv.org/abs/2603.28128)|null|
+|**2026-03-30**|**DAInfer+: Neurosymbolic Inference of API Specifications from Documentation via Embedding Models**|Maryam Masoudian et.al.|[2603.28060](http://arxiv.org/abs/2603.28060)|null|
+|**2026-03-29**|**Robust Smart Contract Vulnerability Detection via Contrastive Learning-Enhanced Granular-ball Training**|Zeli Wang et.al.|[2603.27734](http://arxiv.org/abs/2603.27734)|null|
 |**2026-03-28**|**Modeling isotropic polyconvex hyperelasticity by neural networks -- sufficient and necessary criteria for compressible and incompressible materials**|Gian-Luca Geuken et.al.|[2603.27351](http://arxiv.org/abs/2603.27351)|null|
 |**2026-03-28**|**A Multi-agent AI System for Deep Learning Model Migration from TensorFlow to JAX**|Stoyan Nikolov et.al.|[2603.27296](http://arxiv.org/abs/2603.27296)|null|
-|**2026-03-28**|**Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis**|Huihui Huang et.al.|[2603.27224](http://arxiv.org/abs/2603.27224)|null|
+|**2026-04-02**|**Finding Memory Leaks in C/C++ Programs via Neuro-Symbolic Augmented Static Analysis**|Huihui Huang et.al.|[2603.27224](http://arxiv.org/abs/2603.27224)|null|
 |**2026-03-28**|**Detecting Protracted Vulnerabilities in Open Source Projects**|Arjun Sridharkumar et.al.|[2603.27067](http://arxiv.org/abs/2603.27067)|null|
 |**2026-03-27**|**Efficiently Reproducing Distributed Workflows in Notebook-based Systems**|Talha Azaz et.al.|[2603.26965](http://arxiv.org/abs/2603.26965)|null|
 |**2026-03-27**|**Enabling topography-resolving structural dynamic contact simulation**|Hendrik D. Linder et.al.|[2603.26446](http://arxiv.org/abs/2603.26446)|null|
-|**2026-03-27**|**Substitution for minimizing/maximizing a tropical linear (fractional) programming**|L. Truffet et.al.|[2603.26423](http://arxiv.org/abs/2603.26423)|null|
+|**2026-04-02**|**Substitution for minimizing/maximizing a tropical linear (fractional) programming**|L. Truffet et.al.|[2603.26423](http://arxiv.org/abs/2603.26423)|null|
 |**2026-03-27**|**Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization**|Ziqiao Kong et.al.|[2603.26270](http://arxiv.org/abs/2603.26270)|null|
 |**2026-03-26**|**ALPS: Automated Least-Privilege Enforcement for Securing Serverless Functions**|Changhee Shin et.al.|[2603.25393](http://arxiv.org/abs/2603.25393)|null|
 |**2026-03-25**|**Efficient all-electron Bethe-Salpeter implementation using crystal symmetries**|Jörn Stöhler et.al.|[2603.24860](http://arxiv.org/abs/2603.24860)|null|
