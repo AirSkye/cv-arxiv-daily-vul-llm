@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.07
+## Updated on 2026.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
+|**2026-04-08**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
+|**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
+|**2026-04-07**|**Guiding Symbolic Execution with Static Analysis and LLMs for Vulnerability Discovery**|Md Shafiuzzaman et.al.|[2604.06506](http://arxiv.org/abs/2604.06506)|null|
+|**2026-04-07**|**Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects**|Syed Mohammad Kashif et.al.|[2604.06373](http://arxiv.org/abs/2604.06373)|null|
+|**2026-04-07**|**Foundations for Agentic AI Investigations from the Forensic Analysis of OpenClaw**|Jan Gruber et.al.|[2604.05589](http://arxiv.org/abs/2604.05589)|null|
+|**2026-04-06**|**A Multi-Agent Framework for Automated Exploit Generation with Constraint-Guided Comprehension and Reflection**|Siyi Chen et.al.|[2604.05130](http://arxiv.org/abs/2604.05130)|null|
+|**2026-04-06**|**Typify: A Lightweight Usage-driven Static Analyzer for Precise Python Type Inference**|Ali Aman et.al.|[2604.05067](http://arxiv.org/abs/2604.05067)|null|
 |**2026-04-03**|**Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems**|Yubin Qu et.al.|[2604.03081](http://arxiv.org/abs/2604.03081)|null|
 |**2026-04-03**|**Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**|Zhihao Chen et.al.|[2604.03070](http://arxiv.org/abs/2604.03070)|null|
 |**2026-04-03**|**Combining Static Code Analysis and Large Language Models Improves Correctness and Performance of Algorithm Recognition**|Denis Neumüller et.al.|[2604.03048](http://arxiv.org/abs/2604.03048)|null|
@@ -242,7 +250,7 @@ layout: default
 |**2026-03-31**|**An Empirical Comparison of Security and Privacy Characteristics of Android Messaging Apps**|Ioannis Karyotakis et.al.|[2603.29668](http://arxiv.org/abs/2603.29668)|null|
 |**2026-03-31**|**Software Vulnerability Detection Using a Lightweight Graph Neural Network**|Miles Farmer et.al.|[2603.29216](http://arxiv.org/abs/2603.29216)|null|
 |**2026-03-31**|**Logging Like Humans for LLMs: Rethinking Logging via Execution and Runtime Feedback**|Xin Wang et.al.|[2603.29122](http://arxiv.org/abs/2603.29122)|null|
-|**2026-03-30**|**Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos**|Jingyuan Chen et.al.|[2603.29013](http://arxiv.org/abs/2603.29013)|null|
+|**2026-04-06**|**Wherefore Art Thou? Provenance-Guided Automatic Online Debugging with Lumos**|Jingyuan Chen et.al.|[2603.29013](http://arxiv.org/abs/2603.29013)|null|
 |**2026-03-30**|**Debt Behind the AI Boom: A Large-Scale Empirical Study of AI-Generated Code in the Wild**|Yue Liu et.al.|[2603.28592](http://arxiv.org/abs/2603.28592)|null|
 |**2026-03-30**|**Crossing the NL/PL Divide: Information Flow Analysis Across the NL/PL Boundary in LLM-Integrated Code**|Zihao Xu et.al.|[2603.28345](http://arxiv.org/abs/2603.28345)|null|
 |**2026-03-30**|**VulnScout-C: A Lightweight Transformer for C Code Vulnerability Detection**|Aymen Lassoued et.al.|[2603.28309](http://arxiv.org/abs/2603.28309)|null|
