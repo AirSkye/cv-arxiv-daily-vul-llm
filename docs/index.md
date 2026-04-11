@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.09
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
+|**2026-04-09**|**Characterization of afterpulse in SiPMs with single-cell readout as a function of bias voltage and fluence**|P. Parygin et.al.|[2604.08308](http://arxiv.org/abs/2604.08308)|null|
+|**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[2604.08291](http://arxiv.org/abs/2604.08291)|null|
+|**2026-04-09**|**Flux variability of the "10 keV feature" of 4U 0115+63**|Katrin Berger et.al.|[2604.08051](http://arxiv.org/abs/2604.08051)|null|
+|**2026-04-09**|**An Empirical Analysis of Static Analysis Methods for Detection and Mitigation of Code Library Hallucinations**|Clarissa Miranda-Pena et.al.|[2604.07755](http://arxiv.org/abs/2604.07755)|null|
+|**2026-04-08**|**Program Analysis Guided LLM Agent for Proof-of-Concept Generation**|Achintya Desai et.al.|[2604.07624](http://arxiv.org/abs/2604.07624)|null|
+|**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)|null|
 |**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
 |**2026-04-08**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
 |**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|

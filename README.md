@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,19 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
+|**2026-04-09**|**Characterization of afterpulse in SiPMs with single-cell readout as a function of bias voltage and fluence**|P. Parygin et.al.|[2604.08308](http://arxiv.org/abs/2604.08308)|null|
+|**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[2604.08291](http://arxiv.org/abs/2604.08291)|null|
+|**2026-04-09**|**Flux variability of the "10 keV feature" of 4U 0115+63**|Katrin Berger et.al.|[2604.08051](http://arxiv.org/abs/2604.08051)|null|
+|**2026-04-09**|**An Empirical Analysis of Static Analysis Methods for Detection and Mitigation of Code Library Hallucinations**|Clarissa Miranda-Pena et.al.|[2604.07755](http://arxiv.org/abs/2604.07755)|null|
+|**2026-04-08**|**Program Analysis Guided LLM Agent for Proof-of-Concept Generation**|Achintya Desai et.al.|[2604.07624](http://arxiv.org/abs/2604.07624)|null|
+|**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)|null|
 |**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
 |**2026-04-08**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
 |**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
@@ -1316,7 +1323,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1364,7 +1371,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
