@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.13
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,15 +220,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
+|**2026-04-16**|**NFTDELTA: Detecting Permission Control Vulnerabilities in NFT Contracts through Multi-View Learning**|Hailu Kuang et.al.|[2604.15118](http://arxiv.org/abs/2604.15118)|null|
+|**2026-04-16**|**A simple relation: Neutron star magnetic field strength and spectral shape at low mass accretion rates**|Nicolas Zalot et.al.|[2604.14968](http://arxiv.org/abs/2604.14968)|null|
+|**2026-04-16**|**Systematic assessment of disk truncation in the black hole X-ray binary Swift J1727.8-1613 using NICER**|Ole König et.al.|[2604.14693](http://arxiv.org/abs/2604.14693)|null|
+|**2026-04-15**|**AndroScanner: Automated Backend Vulnerability Detection for Android Applications**|Harini Dandu et.al.|[2604.14431](http://arxiv.org/abs/2604.14431)|null|
+|**2026-04-15**|**Learned or Memorized ? Quantifying Memorization Advantage in Code LLMs**|Djiré Albérick Euraste et.al.|[2604.13997](http://arxiv.org/abs/2604.13997)|null|
+|**2026-04-10**|**CCCE: A Continuous Code Calibration Engine for Autonomous Enterprise Codebase Maintenance via Knowledge Graph Traversal and Adaptive Decision Gating**|Santhosh Kusuma Kumar Parimi et.al.|[2604.13102](http://arxiv.org/abs/2604.13102)|null|
+|**2026-04-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al.|[2604.11107](http://arxiv.org/abs/2604.11107)|null|
+|**2026-04-12**|**VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection**|Yiheng Cao et.al.|[2604.10767](http://arxiv.org/abs/2604.10767)|null|
+|**2026-04-12**|**DynamicsLLM: a Dynamic Analysis-based Tool for Generating Intelligent Execution Traces Using LLMs to Detect Android Behavioural Code Smells**|Houcine Abdelkader Cherief et.al.|[2604.10661](http://arxiv.org/abs/2604.10661)|null|
+|**2026-04-11**|**CodeComp: Structural KV Cache Compression for Agentic Coding**|Qiujiang Chen et.al.|[2604.10235](http://arxiv.org/abs/2604.10235)|null|
+|**2026-04-11**|**Agentic Application in Power Grid Static Analysis: Automatic Code Generation and Error Correction**|Qinjuan Wang et.al.|[2604.09995](http://arxiv.org/abs/2604.09995)|null|
+|**2026-04-08**|**Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines**|Tanzim Ahad et.al.|[2604.08608](http://arxiv.org/abs/2604.08608)|null|
 |**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
 |**2026-04-09**|**Characterization of afterpulse in SiPMs with single-cell readout as a function of bias voltage and fluence**|P. Parygin et.al.|[2604.08308](http://arxiv.org/abs/2604.08308)|null|
 |**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[2604.08291](http://arxiv.org/abs/2604.08291)|null|
 |**2026-04-09**|**Flux variability of the "10 keV feature" of 4U 0115+63**|Katrin Berger et.al.|[2604.08051](http://arxiv.org/abs/2604.08051)|null|
-|**2026-04-09**|**An Empirical Analysis of Static Analysis Methods for Detection and Mitigation of Code Library Hallucinations**|Clarissa Miranda-Pena et.al.|[2604.07755](http://arxiv.org/abs/2604.07755)|null|
+|**2026-04-10**|**An Empirical Analysis of Static Analysis Methods for Detection and Mitigation of Code Library Hallucinations**|Clarissa Miranda-Pena et.al.|[2604.07755](http://arxiv.org/abs/2604.07755)|null|
 |**2026-04-08**|**Program Analysis Guided LLM Agent for Proof-of-Concept Generation**|Achintya Desai et.al.|[2604.07624](http://arxiv.org/abs/2604.07624)|null|
 |**2026-04-08**|**TRUSTDESC: Preventing Tool Poisoning in LLM Applications via Trusted Description Generation**|Hengkai Ye et.al.|[2604.07536](http://arxiv.org/abs/2604.07536)|null|
-|**2026-04-08**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
-|**2026-04-08**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
+|**2026-04-13**|**PSR2: A Phase-based Semantic Reasoning Framework for Atomicity Violation Detection via Contract Refinement**|Xiaoqi Li et.al.|[2604.06975](http://arxiv.org/abs/2604.06975)|null|
+|**2026-04-14**|**Broken Quantum: A Systematic Formal Verification Study of Security Vulnerabilities Across the Open-Source Quantum Computing Simulator Ecosystem**|Dominik Blain et.al.|[2604.06712](http://arxiv.org/abs/2604.06712)|null|
 |**2026-04-08**|**Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection**|Zi Liang et.al.|[2604.06633](http://arxiv.org/abs/2604.06633)|null|
 |**2026-04-07**|**Guiding Symbolic Execution with Static Analysis and LLMs for Vulnerability Discovery**|Md Shafiuzzaman et.al.|[2604.06506](http://arxiv.org/abs/2604.06506)|null|
 |**2026-04-07**|**Beyond Functional Correctness: Design Issues in AI IDE-Generated Large-Scale Projects**|Syed Mohammad Kashif et.al.|[2604.06373](http://arxiv.org/abs/2604.06373)|null|
