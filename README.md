@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,20 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Hallucination Inspector: A Fact-Checking Judge for API Migration**|Marcos Tileria et.al.|[2604.20202](http://arxiv.org/abs/2604.20202)|null|
+|**2026-04-22**|**Taint-Style Vulnerability Detection and Confirmation for Node.js Packages Using LLM Agent Reasoning**|Ronghao Ni et.al.|[2604.20179](http://arxiv.org/abs/2604.20179)|null|
+|**2026-04-21**|**Malicious ML Model Detection by Learning Dynamic Behaviors**|Sarang Nambiar et.al.|[2604.19438](http://arxiv.org/abs/2604.19438)|null|
+|**2026-04-21**|**SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection**|Zhengyang Shan et.al.|[2604.19031](http://arxiv.org/abs/2604.19031)|null|
+|**2026-04-21**|**Security Is Relative: Training-Free Vulnerability Detection via Multi-Agent Behavioral Contract Synthesis**|Yongchao Wang et.al.|[2604.19012](http://arxiv.org/abs/2604.19012)|null|
+|**2026-04-20**|**Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts**|Tamás Aladics et.al.|[2604.18525](http://arxiv.org/abs/2604.18525)|null|
+|**2026-04-20**|**A Quasi-Experimental Developer Study of Security Training in LLM-Assisted Web Application Development**|Mohammed Kharma et.al.|[2604.17763](http://arxiv.org/abs/2604.17763)|null|
+|**2026-04-21**|**Revisiting Code Debloating with Ground Truth-based Evaluation**|Muhammad Bilal et.al.|[2604.17717](http://arxiv.org/abs/2604.17717)|null|
 |**2026-04-16**|**Feedback-Driven Execution for LLM-Based Binary Analysis**|XiangRui Zhang et.al.|[2604.15136](http://arxiv.org/abs/2604.15136)|null|
 |**2026-04-16**|**NFTDELTA: Detecting Permission Control Vulnerabilities in NFT Contracts through Multi-View Learning**|Hailu Kuang et.al.|[2604.15118](http://arxiv.org/abs/2604.15118)|null|
 |**2026-04-16**|**A simple relation: Neutron star magnetic field strength and spectral shape at low mass accretion rates**|Nicolas Zalot et.al.|[2604.14968](http://arxiv.org/abs/2604.14968)|null|
@@ -242,7 +250,7 @@
 |**2026-04-12**|**DynamicsLLM: a Dynamic Analysis-based Tool for Generating Intelligent Execution Traces Using LLMs to Detect Android Behavioural Code Smells**|Houcine Abdelkader Cherief et.al.|[2604.10661](http://arxiv.org/abs/2604.10661)|null|
 |**2026-04-11**|**CodeComp: Structural KV Cache Compression for Agentic Coding**|Qiujiang Chen et.al.|[2604.10235](http://arxiv.org/abs/2604.10235)|null|
 |**2026-04-11**|**Agentic Application in Power Grid Static Analysis: Automatic Code Generation and Error Correction**|Qinjuan Wang et.al.|[2604.09995](http://arxiv.org/abs/2604.09995)|null|
-|**2026-04-08**|**Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines**|Tanzim Ahad et.al.|[2604.08608](http://arxiv.org/abs/2604.08608)|null|
+|**2026-04-20**|**Semantic Intent Fragmentation: A Single-Shot Compositional Attack on Multi-Agent AI Pipelines**|Tanzim Ahad et.al.|[2604.08608](http://arxiv.org/abs/2604.08608)|null|
 |**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
 |**2026-04-09**|**Characterization of afterpulse in SiPMs with single-cell readout as a function of bias voltage and fluence**|P. Parygin et.al.|[2604.08308](http://arxiv.org/abs/2604.08308)|null|
 |**2026-04-09**|**VCAO: Verifier-Centered Agentic Orchestration for Strategic OS Vulnerability Discovery**|Suyash Mishra et.al.|[2604.08291](http://arxiv.org/abs/2604.08291)|null|
@@ -1336,7 +1344,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1384,7 +1392,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
