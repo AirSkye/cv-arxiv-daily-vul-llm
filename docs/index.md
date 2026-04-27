@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.25
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Train in Vain: Functionality-Preserving Poisoning to Prevent Unauthorized Use of Code Datasets**|Yuan Xiao et.al.|[2604.22291](http://arxiv.org/abs/2604.22291)|null|
+|**2026-04-23**|**Call-Chain-Aware LLM-Based Test Generation for Java Projects**|Guancheng Wang et.al.|[2604.22046](http://arxiv.org/abs/2604.22046)|null|
+|**2026-04-23**|**FlyCatcher: Neural Inference of Runtime Checkers from Tests**|Beatriz Souza et.al.|[2604.22028](http://arxiv.org/abs/2604.22028)|null|
 |**2026-04-23**|**CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis**|Arunabh Majumdar et.al.|[2604.21917](http://arxiv.org/abs/2604.21917)|null|
 |**2026-04-23**|**Less Is More: Measuring How LLM Involvement affects Chatbot Accuracy in Static Analysis**|Krishna Narasimhan et.al.|[2604.21746](http://arxiv.org/abs/2604.21746)|null|
 |**2026-04-23**|**MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks**|Run Hao et.al.|[2604.21477](http://arxiv.org/abs/2604.21477)|null|
