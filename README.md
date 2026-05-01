@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,13 +224,21 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-28**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
+|**2026-04-30**|**An Empirical Evaluation of Code Smell Detection in Angular Applications**|Maykon Nunes et.al.|[2604.27893](http://arxiv.org/abs/2604.27893)|null|
+|**2026-04-30**|**How Code Representation Shapes False-Positive Dynamics in Cross-Language LLM Vulnerability Detection**|Maofei Chen et.al.|[2604.27714](http://arxiv.org/abs/2604.27714)|null|
+|**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|null|
+|**2026-04-30**|**Static Attribution of Android Residential Proxy Malware Using Graph Kernels**|Peter Clark et.al.|[2604.27302](http://arxiv.org/abs/2604.27302)|null|
+|**2026-04-29**|**Theory Under Construction: Orchestrating Language Models for Research Software Where the Specification Evolves**|Halley Young et.al.|[2604.27209](http://arxiv.org/abs/2604.27209)|null|
+|**2026-04-29**|**An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code**|Mohamed Elsayed et.al.|[2604.27001](http://arxiv.org/abs/2604.27001)|null|
+|**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
+|**2026-04-29**|**VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection**|Chidera Biringa et.al.|[2604.26313](http://arxiv.org/abs/2604.26313)|null|
+|**2026-04-30**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
 |**2026-04-28**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700](http://arxiv.org/abs/2604.25700)|null|
 |**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
 |**2026-04-28**|**MARD: A Multi-Agent Framework for Robust Android Malware Detection**|Xueying Zeng et.al.|[2604.25264](http://arxiv.org/abs/2604.25264)|null|
@@ -1369,7 +1377,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1417,7 +1425,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,7 +220,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-28**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
+|**2026-04-30**|**An Empirical Evaluation of Code Smell Detection in Angular Applications**|Maykon Nunes et.al.|[2604.27893](http://arxiv.org/abs/2604.27893)|null|
+|**2026-04-30**|**How Code Representation Shapes False-Positive Dynamics in Cross-Language LLM Vulnerability Detection**|Maofei Chen et.al.|[2604.27714](http://arxiv.org/abs/2604.27714)|null|
+|**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|null|
+|**2026-04-30**|**Static Attribution of Android Residential Proxy Malware Using Graph Kernels**|Peter Clark et.al.|[2604.27302](http://arxiv.org/abs/2604.27302)|null|
+|**2026-04-29**|**Theory Under Construction: Orchestrating Language Models for Research Software Where the Specification Evolves**|Halley Young et.al.|[2604.27209](http://arxiv.org/abs/2604.27209)|null|
+|**2026-04-29**|**An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code**|Mohamed Elsayed et.al.|[2604.27001](http://arxiv.org/abs/2604.27001)|null|
+|**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
+|**2026-04-29**|**VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection**|Chidera Biringa et.al.|[2604.26313](http://arxiv.org/abs/2604.26313)|null|
+|**2026-04-30**|**Learning Generalizable Multimodal Representations for Software Vulnerability Detection**|Zeming Dong et.al.|[2604.25711](http://arxiv.org/abs/2604.25711)|null|
 |**2026-04-28**|**Bug-Report-Driven Fault Localization: Industrial Benchmarking and Lesson Learned at ABB Robotics**|Pernilla Hall et.al.|[2604.25700](http://arxiv.org/abs/2604.25700)|null|
 |**2026-04-28**|**PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection**|Mohamed Taoufik Kaouthar El Idrissi et.al.|[2604.25599](http://arxiv.org/abs/2604.25599)|null|
 |**2026-04-28**|**MARD: A Multi-Agent Framework for Robust Android Malware Detection**|Xueying Zeng et.al.|[2604.25264](http://arxiv.org/abs/2604.25264)|null|
