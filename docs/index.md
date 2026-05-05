@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,11 +220,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs**|Ruichao Liang et.al.|[2605.02868](http://arxiv.org/abs/2605.02868)|null|
+|**2026-05-04**|**Autonomous LLM Agent Worms: Cross-Platform Propagation, Automated Discovery and Temporal Re-Entry Defense**|Mingming Zha et.al.|[2605.02812](http://arxiv.org/abs/2605.02812)|null|
+|**2026-05-04**|**Static Analysis of Recursive SHACL**|Anouk Oudshoorn et.al.|[2605.02787](http://arxiv.org/abs/2605.02787)|null|
+|**2026-05-04**|**MPCS: Neuroplastic Continual Learning via Multi-Component Plasticity and Topology-Aware EWC**|Joern Hentsch et.al.|[2605.02509](http://arxiv.org/abs/2605.02509)|null|
+|**2026-05-04**|**DocSync: Agentic Documentation Maintenance via Critic-Guided Reflexion**|Sidhesh Badrinarayan et.al.|[2605.02163](http://arxiv.org/abs/2605.02163)|null|
+|**2026-05-03**|**What's on Your Mind? Exploring Privacy of Mental Health Apps**|Chloe Georgiou et.al.|[2605.02016](http://arxiv.org/abs/2605.02016)|null|
+|**2026-05-03**|**AgenticVM: Agentic AI for Adaptive Software Vulnerability Management**|Asrul Arifin et.al.|[2605.01739](http://arxiv.org/abs/2605.01739)|null|
+|**2026-05-01**|**Certified Purity for Cognitive Workflow Executors: From Static Analysis to Cryptographic Attestation**|Alan L. McCann et.al.|[2605.01037](http://arxiv.org/abs/2605.01037)|null|
 |**2026-04-30**|**An Empirical Evaluation of Code Smell Detection in Angular Applications**|Maykon Nunes et.al.|[2604.27893](http://arxiv.org/abs/2604.27893)|null|
 |**2026-04-30**|**How Code Representation Shapes False-Positive Dynamics in Cross-Language LLM Vulnerability Detection**|Maofei Chen et.al.|[2604.27714](http://arxiv.org/abs/2604.27714)|null|
 |**2026-04-30**|**Secret Stealing Attacks on Local LLM Fine-Tuning through Supply-Chain Model Code Backdoors**|Zi Li et.al.|[2604.27426](http://arxiv.org/abs/2604.27426)|null|
 |**2026-04-30**|**Static Attribution of Android Residential Proxy Malware Using Graph Kernels**|Peter Clark et.al.|[2604.27302](http://arxiv.org/abs/2604.27302)|null|
-|**2026-04-29**|**Theory Under Construction: Orchestrating Language Models for Research Software Where the Specification Evolves**|Halley Young et.al.|[2604.27209](http://arxiv.org/abs/2604.27209)|null|
+|**2026-05-01**|**Theory Under Construction: Orchestrating Language Models for Research Software Where the Specification Evolves**|Halley Young et.al.|[2604.27209](http://arxiv.org/abs/2604.27209)|null|
 |**2026-04-29**|**An Empirical Security Evaluation of LLM-Generated Cryptographic Rust Code**|Mohamed Elsayed et.al.|[2604.27001](http://arxiv.org/abs/2604.27001)|null|
 |**2026-04-29**|**Adaptive and AI-Augmented Security Testing: A Systematic Survey of Program Analysis, Feedback-Driven Testing, and Hybrid Learning-Based Approaches**|Michael Wienczkowski et.al.|[2604.27000](http://arxiv.org/abs/2604.27000)|null|
 |**2026-04-29**|**VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection**|Chidera Biringa et.al.|[2604.26313](http://arxiv.org/abs/2604.26313)|null|
