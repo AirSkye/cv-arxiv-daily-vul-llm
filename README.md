@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,21 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**A Changing-Look Seyfert Discovered by eROSITA Reveals a Two-Component Broad-Line Region**|Alex Markowitz et.al.|[2605.07965](http://arxiv.org/abs/2605.07965)|null|
+|**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
+|**2026-05-08**|**Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem**|Xinyi Hou et.al.|[2605.07836](http://arxiv.org/abs/2605.07836)|null|
+|**2026-05-08**|**Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software**|Bowei Ning et.al.|[2605.07737](http://arxiv.org/abs/2605.07737)|null|
+|**2026-05-08**|**Demystifying and Detecting Agentic Workflow Injection Vulnerabilities in GitHub Actions**|Shenao Wang et.al.|[2605.07135](http://arxiv.org/abs/2605.07135)|null|
+|**2026-05-07**|**TUANDROMD-X: Advanced Entropy and Visual Analytics Dataset for Enhanced Malware Detection and Classification**|Parthajit Borah et.al.|[2605.06718](http://arxiv.org/abs/2605.06718)|null|
+|**2026-05-07**|**On the Security of Research Artifacts**|Nanda Rani et.al.|[2605.06508](http://arxiv.org/abs/2605.06508)|null|
+|**2026-05-07**|**On Fixing Insecure AI-Generated Code through Model Fine-Tuning and Prompting Strategies**|Ali Soltanian Fard Jahromi et.al.|[2605.05867](http://arxiv.org/abs/2605.05867)|null|
+|**2026-05-07**|**LCC-LLM: Leveraging Code-Centric Large Language Models for Malware Attribution**|Christopher G. Pedraza Pohlenz et.al.|[2605.05807](http://arxiv.org/abs/2605.05807)|null|
 |**2026-05-06**|**Conflict Essences for Transformation Rules with Nested Application Conditions -- Long Version**|Alexander Lauer et.al.|[2605.04947](http://arxiv.org/abs/2605.04947)|null|
 |**2026-05-06**|**CodeEvolve: LLM-Driven Evolutionary Optimization with Runtime-Enriched Target Selection for Multi-Language Code Enhancement**|Ajay Krishna Borra et.al.|[2605.04677](http://arxiv.org/abs/2605.04677)|null|
 |**2026-05-05**|**Lightweight Vulnerability Detection from Code Metrics and Token Features**|Chun Yin Chiu et.al.|[2605.04260](http://arxiv.org/abs/2605.04260)|null|
@@ -1397,7 +1406,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1445,7 +1454,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
