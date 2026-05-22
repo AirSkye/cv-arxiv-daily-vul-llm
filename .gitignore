@@ -1,15 +1,51 @@
-CMakeLists.txt.user
-CMakeLists_modified.txt
-
-
-build/
-
-lib/
-bin/
-
-cmake_modules/
-cmake-build-debug/
-.idea/
-.vscode/
+```
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.ENV.*
+.python-version
 
+# Logs
+*.log
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*
+!env.example
+!env.sample
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Documentation builds
+docs/_build/
+```

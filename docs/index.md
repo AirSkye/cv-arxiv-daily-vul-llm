@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.18
+## Updated on 2026.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,42 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-21**|**Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching**|Chengyan Ma et.al.|[2605.22087](http://arxiv.org/abs/2605.22087)|null|
+|**2026-05-20**|**FuzzingBrain V2: A Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction**|Ze Sheng et.al.|[2605.21779](http://arxiv.org/abs/2605.21779)|null|
+|**2026-05-20**|**Quality and Security Signals in AI-Generated Python Refactoring Pull Requests**|Mohamed Almukhtar et.al.|[2605.21453](http://arxiv.org/abs/2605.21453)|null|
+|**2026-05-20**|**VIPER-MCP: Detecting and Exploiting Taint-Style Vulnerabilities in Model Context Protocol Servers**|Pengyu Sun et.al.|[2605.21392](http://arxiv.org/abs/2605.21392)|null|
+|**2026-05-20**|**LANCE: Locally Adaptive Neural Context Estimation for Overfitted Image Compression**|Martin Benjak et.al.|[2605.20672](http://arxiv.org/abs/2605.20672)|null|
+|**2026-05-19**|**Refusal Evaluation in Coding LLMs and Code Agents: A Systematic Review of Thirteen Malicious-Code Prompt Corpora (2023-2025)**|Richard J. Young et.al.|[2605.20351](http://arxiv.org/abs/2605.20351)|null|
+|**2026-05-19**|**Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study**|Priyansh Trivedi et.al.|[2605.20049](http://arxiv.org/abs/2605.20049)|null|
+|**2026-05-18**|**Breaking Status-Quo Inertia in Living Temporal Games: Dynamic Intervention, Implementation, and Structural Design**|Madjid Eshaghi Gordji et.al.|[2605.19087](http://arxiv.org/abs/2605.19087)|null|
+|**2026-05-18**|**Beyond Inference-Time Search: Reinforcement Learning Synthesizes Reusable Solvers**|Soheyl Massoudi et.al.|[2605.18374](http://arxiv.org/abs/2605.18374)|null|
+|**2026-05-18**|**Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection**|Xin Peng et.al.|[2605.18153](http://arxiv.org/abs/2605.18153)|null|
+|**2026-05-18**|**AutoVecCoder: Teaching LLMs to Generate Explicitly Vectorized Code**|Shangzhan Li et.al.|[2605.17978](http://arxiv.org/abs/2605.17978)|null|
+|**2026-05-18**|**Contextualized Code Pretraining for Code Generation**|Chen Liu et.al.|[2605.17957](http://arxiv.org/abs/2605.17957)|null|
+|**2026-05-18**|**LLM-Based Static Verification of Code Against Natural-Language Requirements: An Industrial Experience Report**|Zhi Quan Zhou et.al.|[2605.17926](http://arxiv.org/abs/2605.17926)|null|
+|**2026-05-18**|**Speed Kills: Exploring Confused Deputy Attacks Through Edge AI Accelerators**|Datta Manikanta Sri Hari Danduri et.al.|[2605.17707](http://arxiv.org/abs/2605.17707)|null|
+|**2026-05-19**|**DiagEval: Trajectory-Conditioned Diagnosis for Reliable Software Evaluation with GUI Agents**|Sirui Hong et.al.|[2605.17439](http://arxiv.org/abs/2605.17439)|null|
+|**2026-05-17**|**Fidelity Probes for Specification--Code Alignment**|Ferhat Erata et.al.|[2605.17246](http://arxiv.org/abs/2605.17246)|null|
+|**2026-05-16**|**Beyond Execution: Static-Analysis Rewards and Hint-Conditioned Diffusion RL for Code Generation**|Shuyin Ouyang et.al.|[2605.17174](http://arxiv.org/abs/2605.17174)|null|
+|**2026-05-16**|**The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance**|Tsvetomila Mihaylova et.al.|[2605.16933](http://arxiv.org/abs/2605.16933)|null|
+|**2026-05-15**|**Compile-time Security Analysis and Optimization of Sensitive String Producers**|Mike Samuel et.al.|[2605.16561](http://arxiv.org/abs/2605.16561)|null|
+|**2026-05-14**|**Veritas: A Semantically Grounded Agentic Framework for Memory Corruption Vulnerability Detection in Binaries**|Xinran Zheng et.al.|[2605.15097](http://arxiv.org/abs/2605.15097)|null|
+|**2026-05-13**|**Memory Forensics Techniques for Automated Detection and Analysis of Go Malware**|Hala Ali et.al.|[2605.14020](http://arxiv.org/abs/2605.14020)|null|
+|**2026-05-13**|**Linear-Time T-Gate Optimization via Random Abstraction**|Aws Albarghouthi et.al.|[2605.13929](http://arxiv.org/abs/2605.13929)|null|
+|**2026-05-13**|**Security Incentivization: An Empirical Study of how Micropayments Impact Code Security**|Stefan Rass et.al.|[2605.13100](http://arxiv.org/abs/2605.13100)|null|
+|**2026-05-12**|**Agentic Interpretation: Lattice-Structured Evidence for LLM-Based Program Analysis**|Jacqueline L. Mitchell et.al.|[2605.12694](http://arxiv.org/abs/2605.12694)|null|
+|**2026-05-11**|**Benchmarking LLM-Based Static Analysis for Secure Smart Contract Development: Reliability, Limitations, and Potential Hybrid Solutions**|Stefan-Claudiu Susan et.al.|[2605.11163](http://arxiv.org/abs/2605.11163)|null|
+|**2026-05-11**|**A Multi-Interface Firmware Acquisition and Validation Methodology for Low-Cost Consumer Drones: A Case Study on Three Holy Stone Platforms**|Sandesh More et.al.|[2605.11040](http://arxiv.org/abs/2605.11040)|null|
+|**2026-05-10**|**DCVD: Dual-Channel Cross-Modal Fusion for Joint Vulnerability Detection and Localization**|Wenxin Tang et.al.|[2605.11015](http://arxiv.org/abs/2605.11015)|null|
+|**2026-05-11**|**Threat Modelling using Domain-Adapted Language Models: Empirical Evaluation and Insights**|Saba Pourhanifeh et.al.|[2605.10808](http://arxiv.org/abs/2605.10808)|null|
+|**2026-05-11**|**Budget-Efficient Automatic Algorithm Design via Code Graph**|Maxime Bouscary et.al.|[2605.10598](http://arxiv.org/abs/2605.10598)|null|
+|**2026-05-11**|**Energy-resolved pulse profiles of Vela X-1: cross-calibrating XMM-Newton and NuSTAR to trace spectral features**|Dimitrios K. Maniadakis et.al.|[2605.10381](http://arxiv.org/abs/2605.10381)|null|
+|**2026-05-11**|**MARGIN: Margin-Aware Regularized Geometry for Imbalanced Vulnerability Detection**|Yuteng Zhang et.al.|[2605.10240](http://arxiv.org/abs/2605.10240)|null|
+|**2026-05-11**|**Towards LLM-Based Analysis of Virtualization-Obfuscated Code through Automated Data Generation**|Sangjun An et.al.|[2605.09961](http://arxiv.org/abs/2605.09961)|null|
+|**2026-05-10**|**ConCovUp: Effective Agent-Based Test Driver Generation for Concurrency Testing**|Yuandao Cai et.al.|[2605.09573](http://arxiv.org/abs/2605.09573)|null|
+|**2026-05-12**|**VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection**|Wenxin Tang et.al.|[2605.09461](http://arxiv.org/abs/2605.09461)|null|
+|**2026-05-10**|**Generating Complex Code Analyzers from Natural Language Questions**|Amirmohammad Nazari et.al.|[2605.09304](http://arxiv.org/abs/2605.09304)|null|
+|**2026-05-16**|**Smart Contract Security Beyond Detection**|Tamer Abdelaziz et.al.|[2605.09124](http://arxiv.org/abs/2605.09124)|null|
 |**2026-05-08**|**A Changing-Look Seyfert Discovered by eROSITA Reveals a Two-Component Broad-Line Region**|Alex Markowitz et.al.|[2605.07965](http://arxiv.org/abs/2605.07965)|null|
 |**2026-05-08**|**Longitudinal Analyses of SAST Tools: A CodeQL Case Study**|Jean-Charles Noirot Ferrand et.al.|[2605.07900](http://arxiv.org/abs/2605.07900)|null|
 |**2026-05-08**|**Unsafe by Flow: Uncovering Bidirectional Data-Flow Risks in MCP Ecosystem**|Xinyi Hou et.al.|[2605.07836](http://arxiv.org/abs/2605.07836)|null|
