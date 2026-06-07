@@ -1,4 +1,4 @@
-## Updated on 2026.06.01
+## Updated on 2026.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,44 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Metamorphic Testing with the Rashomon Set: Explanation Faithfulness in Machine Learning**|Helge Spieker et.al.|[2606.06056](http://arxiv.org/abs/2606.06056)|null|
+|**2026-06-04**|**AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling**|Gabriela Dobrita et.al.|[2606.05986](http://arxiv.org/abs/2606.05986)|null|
+|**2026-06-03**|**Willing but Unable: Separating Refusal from Capability in Code LLMs via Abliteration**|Cristina Carleo et.al.|[2606.05396](http://arxiv.org/abs/2606.05396)|null|
+|**2026-06-03**|**Description-Code Inconsistency in Real-world MCP Servers: Measurement, Detection, and Security Implications**|Yutao Shi et.al.|[2606.04769](http://arxiv.org/abs/2606.04769)|null|
+|**2026-06-03**|**Revisiting Vul-RAG: Reproducibility and Replicability of RAG-based Vulnerability Detection with Open-Weight Models**|Sabrina Kaniewski et.al.|[2606.04739](http://arxiv.org/abs/2606.04739)|null|
+|**2026-06-02**|**Don't Trust Us: A privacy-by-design android malware detection pipeline**|Emmanuele Massidda et.al.|[2606.03714](http://arxiv.org/abs/2606.03714)|null|
+|**2026-06-02**|**Bastet: A Fine-Grained Expert-Labeled Dataset for DeFi Smart Contract Vulnerability Detection**|Wan-Hsuan Hsu et.al.|[2606.03387](http://arxiv.org/abs/2606.03387)|null|
+|**2026-06-02**|**Decoupled Smart Contract Audits: Lightweight LLM Framework via Distillation and Aggregation**|Bagus Rakadyanto Oktavianto Putra et.al.|[2606.03128](http://arxiv.org/abs/2606.03128)|null|
+|**2026-06-01**|**PyFEX: Uncovering Evasive Python-based Threats via Resilient and Exhaustive Path Exploration**|Meng Wang et.al.|[2606.02196](http://arxiv.org/abs/2606.02196)|null|
+|**2026-05-31**|**ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree**|Vincent Koc et.al.|[2606.01494](http://arxiv.org/abs/2606.01494)|null|
+|**2026-05-31**|**When Parallelism Pays Off: Cohesion-Aware Task Partitioning for Multi-Agent Coding**|Xu Yang et.al.|[2606.00953](http://arxiv.org/abs/2606.00953)|null|
+|**2026-05-30**|**Sakura: An Approach for Generating Complex Tests from Natural Language Test Descriptions**|Tyler Stennett et.al.|[2606.00530](http://arxiv.org/abs/2606.00530)|null|
+|**2026-05-28**|**Automatically Attacking Software Reverse Engineering AI Agents**|Brian Crawford et.al.|[2605.30667](http://arxiv.org/abs/2605.30667)|null|
+|**2026-05-28**|**Improving Small Language Models for Code Generation with Reinforcement Learning from Verification Feedback**|Egor Skopin et.al.|[2605.30478](http://arxiv.org/abs/2605.30478)|null|
+|**2026-05-28**|**Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection**|Syafiq Al Atiiq et.al.|[2605.29901](http://arxiv.org/abs/2605.29901)|null|
+|**2026-05-28**|**Control Flow Graph Recovery for Dynamically Loaded Code via Symbolic Library Resolution**|Oleksandr Mostovyi et.al.|[2605.29620](http://arxiv.org/abs/2605.29620)|null|
+|**2026-05-28**|**Effect of increased DCR on the detection of minimum-ionizing particles with SiPMs**|Katjana Neumann et.al.|[2605.29600](http://arxiv.org/abs/2605.29600)|null|
+|**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault et.al.|[2605.29585](http://arxiv.org/abs/2605.29585)|null|
+|**2026-05-28**|**Harmless Yet Harmful: Neutral Prompting Attacks for Stealthy Hallucination Steering in Agent Skills**|Chia-Yi Hsu et.al.|[2605.29354](http://arxiv.org/abs/2605.29354)|null|
+|**2026-05-27**|**Compile-Time Simplification of Classically Controlled Operations in Dynamic Circuits**|Innocenzo Fulginiti et.al.|[2605.28439](http://arxiv.org/abs/2605.28439)|null|
+|**2026-05-27**|**Classification Theory and the Construction of PAC Fields**|Nicholas Ramsey et.al.|[2605.28299](http://arxiv.org/abs/2605.28299)|null|
+|**2026-05-26**|**Agentic Separation Logic Specification Synthesis**|Tarun Suresh et.al.|[2605.27531](http://arxiv.org/abs/2605.27531)|null|
+|**2026-05-28**|**Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena**|Joseph Fisher et.al.|[2605.26907](http://arxiv.org/abs/2605.26907)|null|
+|**2026-05-26**|**Control Physiology: An Agent-Based Model of FAIR-CAM Dynamics**|Jack Jones et.al.|[2605.26597](http://arxiv.org/abs/2605.26597)|null|
+|**2026-05-25**|**Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models**|Bar Weiss et.al.|[2605.26100](http://arxiv.org/abs/2605.26100)|null|
+|**2026-05-25**|**Ecosystem-Driven Privacy Exposure in Mobile Gaming Apps: A Configuration-Aware Empirical Analysis**|Bakheet Aljedaani et.al.|[2605.25713](http://arxiv.org/abs/2605.25713)|null|
+|**2026-05-25**|**Heimdall: Formally Verified Automated Migration of Legacy eBPF Programs to Rust**|Vishnu Asutosh Dasu et.al.|[2605.25411](http://arxiv.org/abs/2605.25411)|null|
+|**2026-05-22**|**Enhancing Reliability in LLM-Based Secure Code Generation**|Mohammed F. Kharma et.al.|[2605.24300](http://arxiv.org/abs/2605.24300)|null|
+|**2026-05-22**|**PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection**|Steffen J. Camarato et.al.|[2605.24171](http://arxiv.org/abs/2605.24171)|null|
+|**2026-05-22**|**Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks**|Vivek Dahiya et.al.|[2605.23243](http://arxiv.org/abs/2605.23243)|null|
+|**2026-05-21**|**Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems**|Mads H. Baattrup et.al.|[2605.22891](http://arxiv.org/abs/2605.22891)|null|
+|**2026-05-18**|**Expressive Power of Deep Homomorphism Networks over Relational Databases**|Moritz Schönherr et.al.|[2605.22852](http://arxiv.org/abs/2605.22852)|null|
 |**2026-05-21**|**Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching**|Chengyan Ma et.al.|[2605.22087](http://arxiv.org/abs/2605.22087)|null|
 |**2026-05-20**|**FuzzingBrain V2: A Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction**|Ze Sheng et.al.|[2605.21779](http://arxiv.org/abs/2605.21779)|null|
 |**2026-05-20**|**Quality and Security Signals in AI-Generated Python Refactoring Pull Requests**|Mohamed Almukhtar et.al.|[2605.21453](http://arxiv.org/abs/2605.21453)|null|
@@ -1442,7 +1474,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1490,7 +1522,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260607>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
