@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Slice-Profile-Enabled Phase Distribution Graphs for MRI Simulation**|Snawar Hussain et.al.|[2606.09233](http://arxiv.org/abs/2606.09233)|null|
+|**2026-06-07**|**Beyond Pass Rate: A Multilingual, Execution-Grounded Evaluation of Open Code LLMs**|Sayed Erfan Arefin et.al.|[2606.08840](http://arxiv.org/abs/2606.08840)|null|
+|**2026-06-07**|**FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection**|Hongyu Yang et.al.|[2606.08553](http://arxiv.org/abs/2606.08553)|null|
+|**2026-06-06**|**Demand-Driven Vulnerability Detection for Cloud Security Posture Management: Removing Human Rule Authoring from the Disclosure-to-Protection Critical Path**|Prashant Kumar Pathak et.al.|[2606.07957](http://arxiv.org/abs/2606.07957)|null|
+|**2026-06-05**|**Are We Lost in the Woods? Detecting Silent Semantic Faults for Random Forest Classifiers with Data-informed Static Analysis**|Willem Meijer et.al.|[2606.07709](http://arxiv.org/abs/2606.07709)|null|
+|**2026-06-05**|**On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus**|Xiaoting Zhang et.al.|[2606.07363](http://arxiv.org/abs/2606.07363)|null|
 |**2026-06-04**|**Metamorphic Testing with the Rashomon Set: Explanation Faithfulness in Machine Learning**|Helge Spieker et.al.|[2606.06056](http://arxiv.org/abs/2606.06056)|null|
 |**2026-06-04**|**AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling**|Gabriela Dobrita et.al.|[2606.05986](http://arxiv.org/abs/2606.05986)|null|
 |**2026-06-03**|**Willing but Unable: Separating Refusal from Capability in Code LLMs via Abliteration**|Cristina Carleo et.al.|[2606.05396](http://arxiv.org/abs/2606.05396)|null|

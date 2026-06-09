@@ -1,4 +1,4 @@
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,18 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-08**|**Slice-Profile-Enabled Phase Distribution Graphs for MRI Simulation**|Snawar Hussain et.al.|[2606.09233](http://arxiv.org/abs/2606.09233)|null|
+|**2026-06-07**|**Beyond Pass Rate: A Multilingual, Execution-Grounded Evaluation of Open Code LLMs**|Sayed Erfan Arefin et.al.|[2606.08840](http://arxiv.org/abs/2606.08840)|null|
+|**2026-06-07**|**FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection**|Hongyu Yang et.al.|[2606.08553](http://arxiv.org/abs/2606.08553)|null|
+|**2026-06-06**|**Demand-Driven Vulnerability Detection for Cloud Security Posture Management: Removing Human Rule Authoring from the Disclosure-to-Protection Critical Path**|Prashant Kumar Pathak et.al.|[2606.07957](http://arxiv.org/abs/2606.07957)|null|
+|**2026-06-05**|**Are We Lost in the Woods? Detecting Silent Semantic Faults for Random Forest Classifiers with Data-informed Static Analysis**|Willem Meijer et.al.|[2606.07709](http://arxiv.org/abs/2606.07709)|null|
+|**2026-06-05**|**On the Shoulders of Giants: Empowering Automated Smart Contract Auditing via the GiAnt Corpus**|Xiaoting Zhang et.al.|[2606.07363](http://arxiv.org/abs/2606.07363)|null|
 |**2026-06-04**|**Metamorphic Testing with the Rashomon Set: Explanation Faithfulness in Machine Learning**|Helge Spieker et.al.|[2606.06056](http://arxiv.org/abs/2606.06056)|null|
 |**2026-06-04**|**AttackPathGNN: Cross-function vulnerability detection in smart contracts using state interference graphs and conjunction pooling**|Gabriela Dobrita et.al.|[2606.05986](http://arxiv.org/abs/2606.05986)|null|
 |**2026-06-03**|**Willing but Unable: Separating Refusal from Capability in Code LLMs via Abliteration**|Cristina Carleo et.al.|[2606.05396](http://arxiv.org/abs/2606.05396)|null|
@@ -1474,7 +1480,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1522,7 +1528,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
