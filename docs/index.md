@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.09
+## Updated on 2026.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al.|[2606.11844](http://arxiv.org/abs/2606.11844)|null|
+|**2026-06-10**|**Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis**|Hongzhou Rao et.al.|[2606.11755](http://arxiv.org/abs/2606.11755)|null|
+|**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416](http://arxiv.org/abs/2606.11416)|null|
+|**2026-06-09**|**Early Comparative Evaluation of Transformer Models for Multilingual Software Vulnerability Detection**|Fiza Naseer et.al.|[2606.10925](http://arxiv.org/abs/2606.10925)|null|
+|**2026-06-08**|**Experimental evaluation of optimal abstract operators for sharing and linearity analysis**|Francesca Scozzari et.al.|[2606.10056](http://arxiv.org/abs/2606.10056)|null|
+|**2026-06-08**|**Data-aware Static Analysis: Improving Detection of Semantic Faults in Machine Learning Code Using Data Characteristics**|Willem Meijer et.al.|[2606.09957](http://arxiv.org/abs/2606.09957)|null|
 |**2026-06-08**|**Slice-Profile-Enabled Phase Distribution Graphs for MRI Simulation**|Snawar Hussain et.al.|[2606.09233](http://arxiv.org/abs/2606.09233)|null|
 |**2026-06-07**|**Beyond Pass Rate: A Multilingual, Execution-Grounded Evaluation of Open Code LLMs**|Sayed Erfan Arefin et.al.|[2606.08840](http://arxiv.org/abs/2606.08840)|null|
 |**2026-06-07**|**FusionVul: A Multimodal Feature Fusion Framework for Source Code Vulnerability Detection**|Hongyu Yang et.al.|[2606.08553](http://arxiv.org/abs/2606.08553)|null|
@@ -255,7 +261,7 @@ layout: default
 |**2026-05-25**|**Heimdall: Formally Verified Automated Migration of Legacy eBPF Programs to Rust**|Vishnu Asutosh Dasu et.al.|[2605.25411](http://arxiv.org/abs/2605.25411)|null|
 |**2026-05-22**|**Enhancing Reliability in LLM-Based Secure Code Generation**|Mohammed F. Kharma et.al.|[2605.24300](http://arxiv.org/abs/2605.24300)|null|
 |**2026-05-22**|**PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection**|Steffen J. Camarato et.al.|[2605.24171](http://arxiv.org/abs/2605.24171)|null|
-|**2026-05-22**|**Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks**|Vivek Dahiya et.al.|[2605.23243](http://arxiv.org/abs/2605.23243)|null|
+|**2026-06-09**|**Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks**|Vivek Dahiya et.al.|[2605.23243](http://arxiv.org/abs/2605.23243)|null|
 |**2026-05-21**|**Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems**|Mads H. Baattrup et.al.|[2605.22891](http://arxiv.org/abs/2605.22891)|null|
 |**2026-05-18**|**Expressive Power of Deep Homomorphism Networks over Relational Databases**|Moritz Schönherr et.al.|[2605.22852](http://arxiv.org/abs/2605.22852)|null|
 |**2026-05-21**|**Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching**|Chengyan Ma et.al.|[2605.22087](http://arxiv.org/abs/2605.22087)|null|
