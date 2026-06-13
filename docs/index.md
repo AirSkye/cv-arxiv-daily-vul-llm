@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.11
+## Updated on 2026.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories**|Oliver Aleksander Larsen et.al.|[2606.13298](http://arxiv.org/abs/2606.13298)|null|
 |**2026-06-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al.|[2606.11844](http://arxiv.org/abs/2606.11844)|null|
 |**2026-06-10**|**Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis**|Hongzhou Rao et.al.|[2606.11755](http://arxiv.org/abs/2606.11755)|null|
 |**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416](http://arxiv.org/abs/2606.11416)|null|
