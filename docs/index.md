@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.15
+## Updated on 2026.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-10**|**CMIP-Forge: An Agentic System that Retrieves, Computes, and Self-Reviews Climate Science**|Dmitrii Pantiukhin et.al.|[2606.17076](http://arxiv.org/abs/2606.17076)|null|
+|**2026-06-14**|**AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age of LLMs**|Mohamadreza Rostami et.al.|[2606.15809](http://arxiv.org/abs/2606.15809)|null|
+|**2026-06-12**|**Formal Semantics and Type System for Vega Data Transformations**|Kristýna Petrlíková et.al.|[2606.15013](http://arxiv.org/abs/2606.15013)|null|
+|**2026-06-16**|**AgentCyberRange: Benchmarking Frontier AI Systems in Realistic Cyber Ranges**|Fengyu Liu et.al.|[2606.14295](http://arxiv.org/abs/2606.14295)|null|
+|**2026-06-12**|**Security in a Workflow: Exploring Role-Based Agentic Architectures for Vulnerability Handling**|Srijita Basu et.al.|[2606.14261](http://arxiv.org/abs/2606.14261)|null|
+|**2026-06-12**|**Evaluating LLMs for Obfuscation Detection and Classification in Android Apps**|Luca Ferrari et.al.|[2606.14233](http://arxiv.org/abs/2606.14233)|null|
+|**2026-06-11**|**SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents**|Rui Melo et.al.|[2606.13757](http://arxiv.org/abs/2606.13757)|null|
 |**2026-06-11**|**Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories**|Oliver Aleksander Larsen et.al.|[2606.13298](http://arxiv.org/abs/2606.13298)|null|
 |**2026-06-10**|**TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data**|Dayananda Herurkar et.al.|[2606.11844](http://arxiv.org/abs/2606.11844)|null|
 |**2026-06-10**|**Acoda: Adversarial Code Obfuscation for Defending against LLM-based Analysis**|Hongzhou Rao et.al.|[2606.11755](http://arxiv.org/abs/2606.11755)|null|
@@ -253,16 +260,16 @@ layout: default
 |**2026-05-28**|**World Models in Words: Auditing Physical State-Transition Commitments in Vision-Language Models**|Emmanuelle Bourigault et.al.|[2605.29585](http://arxiv.org/abs/2605.29585)|null|
 |**2026-05-28**|**Harmless Yet Harmful: Neutral Prompting Attacks for Stealthy Hallucination Steering in Agent Skills**|Chia-Yi Hsu et.al.|[2605.29354](http://arxiv.org/abs/2605.29354)|null|
 |**2026-05-27**|**Compile-Time Simplification of Classically Controlled Operations in Dynamic Circuits**|Innocenzo Fulginiti et.al.|[2605.28439](http://arxiv.org/abs/2605.28439)|null|
-|**2026-05-27**|**Classification Theory and the Construction of PAC Fields**|Nicholas Ramsey et.al.|[2605.28299](http://arxiv.org/abs/2605.28299)|null|
+|**2026-06-15**|**Classification Theory and the Construction of PAC Fields**|Nicholas Ramsey et.al.|[2605.28299](http://arxiv.org/abs/2605.28299)|null|
 |**2026-05-26**|**Agentic Separation Logic Specification Synthesis**|Tarun Suresh et.al.|[2605.27531](http://arxiv.org/abs/2605.27531)|null|
-|**2026-05-28**|**Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena**|Joseph Fisher et.al.|[2605.26907](http://arxiv.org/abs/2605.26907)|null|
+|**2026-06-15**|**Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena**|Joseph Fisher et.al.|[2605.26907](http://arxiv.org/abs/2605.26907)|null|
 |**2026-05-26**|**Control Physiology: An Agent-Based Model of FAIR-CAM Dynamics**|Jack Jones et.al.|[2605.26597](http://arxiv.org/abs/2605.26597)|null|
 |**2026-05-25**|**Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models**|Bar Weiss et.al.|[2605.26100](http://arxiv.org/abs/2605.26100)|null|
 |**2026-05-25**|**Ecosystem-Driven Privacy Exposure in Mobile Gaming Apps: A Configuration-Aware Empirical Analysis**|Bakheet Aljedaani et.al.|[2605.25713](http://arxiv.org/abs/2605.25713)|null|
 |**2026-05-25**|**Heimdall: Formally Verified Automated Migration of Legacy eBPF Programs to Rust**|Vishnu Asutosh Dasu et.al.|[2605.25411](http://arxiv.org/abs/2605.25411)|null|
 |**2026-05-22**|**Enhancing Reliability in LLM-Based Secure Code Generation**|Mohammed F. Kharma et.al.|[2605.24300](http://arxiv.org/abs/2605.24300)|null|
 |**2026-05-22**|**PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection**|Steffen J. Camarato et.al.|[2605.24171](http://arxiv.org/abs/2605.24171)|null|
-|**2026-06-09**|**Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks**|Vivek Dahiya et.al.|[2605.23243](http://arxiv.org/abs/2605.23243)|null|
+|**2026-06-16**|**Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks**|Vivek Dahiya et.al.|[2605.23243](http://arxiv.org/abs/2605.23243)|null|
 |**2026-05-21**|**Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems**|Mads H. Baattrup et.al.|[2605.22891](http://arxiv.org/abs/2605.22891)|null|
 |**2026-05-18**|**Expressive Power of Deep Homomorphism Networks over Relational Databases**|Moritz Schönherr et.al.|[2605.22852](http://arxiv.org/abs/2605.22852)|null|
 |**2026-05-21**|**Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching**|Chengyan Ma et.al.|[2605.22087](http://arxiv.org/abs/2605.22087)|null|
