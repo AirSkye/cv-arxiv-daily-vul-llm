@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software**|Arastoo Zibaeirad et.al.|[2606.20502](http://arxiv.org/abs/2606.20502)|null|
+|**2026-06-18**|**BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling**|Bharathi Kannan Nithyanantham et.al.|[2606.20146](http://arxiv.org/abs/2606.20146)|null|
+|**2026-06-18**|**OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing**|Nahum Korda et.al.|[2606.19149](http://arxiv.org/abs/2606.19149)|null|
+|**2026-06-17**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
+|**2026-06-17**|**Toward Semantically-Seeded, Graph-Propagated Impact Analysis Across Software Artifacts: A Vision**|Momil Seedat et.al.|[2606.18855](http://arxiv.org/abs/2606.18855)|null|
+|**2026-06-17**|**Code-Augur: Agentic Vulnerability Detection via Specification Inference**|Zhengxiong Luo et.al.|[2606.18619](http://arxiv.org/abs/2606.18619)|null|
+|**2026-06-16**|**Electromagnetic Shower Reconstruction and Identification in FASER's Emulsion Detector for LHC Forward Neutrino Measurements**| FASER Collaboration et.al.|[2606.18517](http://arxiv.org/abs/2606.18517)|null|
 |**2026-06-10**|**CMIP-Forge: An Agentic System that Retrieves, Computes, and Self-Reviews Climate Science**|Dmitrii Pantiukhin et.al.|[2606.17076](http://arxiv.org/abs/2606.17076)|null|
 |**2026-06-14**|**AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age of LLMs**|Mohamadreza Rostami et.al.|[2606.15809](http://arxiv.org/abs/2606.15809)|null|
 |**2026-06-12**|**Formal Semantics and Type System for Vega Data Transformations**|Kristýna Petrlíková et.al.|[2606.15013](http://arxiv.org/abs/2606.15013)|null|
@@ -262,7 +269,7 @@ layout: default
 |**2026-05-27**|**Compile-Time Simplification of Classically Controlled Operations in Dynamic Circuits**|Innocenzo Fulginiti et.al.|[2605.28439](http://arxiv.org/abs/2605.28439)|null|
 |**2026-06-15**|**Classification Theory and the Construction of PAC Fields**|Nicholas Ramsey et.al.|[2605.28299](http://arxiv.org/abs/2605.28299)|null|
 |**2026-05-26**|**Agentic Separation Logic Specification Synthesis**|Tarun Suresh et.al.|[2605.27531](http://arxiv.org/abs/2605.27531)|null|
-|**2026-06-15**|**Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena**|Joseph Fisher et.al.|[2605.26907](http://arxiv.org/abs/2605.26907)|null|
+|**2026-06-17**|**Future Detections of the Warm-Hot Intergalactic Medium using Bright Power Law Sources with NewAthena**|Joseph Fisher et.al.|[2605.26907](http://arxiv.org/abs/2605.26907)|null|
 |**2026-05-26**|**Control Physiology: An Agent-Based Model of FAIR-CAM Dynamics**|Jack Jones et.al.|[2605.26597](http://arxiv.org/abs/2605.26597)|null|
 |**2026-05-25**|**Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models**|Bar Weiss et.al.|[2605.26100](http://arxiv.org/abs/2605.26100)|null|
 |**2026-05-25**|**Ecosystem-Driven Privacy Exposure in Mobile Gaming Apps: A Configuration-Aware Empirical Analysis**|Bakheet Aljedaani et.al.|[2605.25713](http://arxiv.org/abs/2605.25713)|null|
