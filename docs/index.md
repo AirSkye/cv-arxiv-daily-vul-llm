@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.19
+## Updated on 2026.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -226,7 +226,7 @@ layout: default
 |**2026-06-17**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
 |**2026-06-17**|**Toward Semantically-Seeded, Graph-Propagated Impact Analysis Across Software Artifacts: A Vision**|Momil Seedat et.al.|[2606.18855](http://arxiv.org/abs/2606.18855)|null|
 |**2026-06-17**|**Code-Augur: Agentic Vulnerability Detection via Specification Inference**|Zhengxiong Luo et.al.|[2606.18619](http://arxiv.org/abs/2606.18619)|null|
-|**2026-06-16**|**Electromagnetic Shower Reconstruction and Identification in FASER's Emulsion Detector for LHC Forward Neutrino Measurements**| FASER Collaboration et.al.|[2606.18517](http://arxiv.org/abs/2606.18517)|null|
+|**2026-06-16**|**Electromagnetic Shower Reconstruction and Identification in FASER's Emulsion Detector for LHC Forward Neutrino Measurements**|FASER Collaboration et.al.|[2606.18517](http://arxiv.org/abs/2606.18517)|null|
 |**2026-06-10**|**CMIP-Forge: An Agentic System that Retrieves, Computes, and Self-Reviews Climate Science**|Dmitrii Pantiukhin et.al.|[2606.17076](http://arxiv.org/abs/2606.17076)|null|
 |**2026-06-14**|**AttackonCTF: Defending Hardware Security Competition Benchmarks in the Age of LLMs**|Mohamadreza Rostami et.al.|[2606.15809](http://arxiv.org/abs/2606.15809)|null|
 |**2026-06-12**|**Formal Semantics and Type System for Vega Data Transformations**|Kristýna Petrlíková et.al.|[2606.15013](http://arxiv.org/abs/2606.15013)|null|
