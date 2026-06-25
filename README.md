@@ -1,4 +1,4 @@
-## Updated on 2026.06.23
+## Updated on 2026.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,18 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973](http://arxiv.org/abs/2606.25973)|null|
+|**2026-06-24**|**Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning**|Andrew Stoltman et.al.|[2606.25356](http://arxiv.org/abs/2606.25356)|null|
+|**2026-06-23**|**Machine learning is revolutionizing weather forecasting -- the next step is a change in how we work**|Peter Dueben et.al.|[2606.25076](http://arxiv.org/abs/2606.25076)|null|
+|**2026-06-23**|**FirmCure:Towards Autonomous and Adaptive Rehosting of Linux-Based Firmware**|Chuan Hong et.al.|[2606.24549](http://arxiv.org/abs/2606.24549)|null|
+|**2026-06-22**|**VeriPilot: An LLM-Powered Verilog Debugging Framework**|Yihan Wang et.al.|[2606.23759](http://arxiv.org/abs/2606.23759)|null|
+|**2026-06-23**|**Understanding the (In)Security of Vibe-Coded Applications**|Junquan Deng et.al.|[2606.23130](http://arxiv.org/abs/2606.23130)|null|
 |**2026-06-21**|**Apple Neural Engine: Architecture, Programming, and Performance**|Spencer H. Bryngelson et.al.|[2606.22283](http://arxiv.org/abs/2606.22283)|null|
 |**2026-06-20**|**Revelio: Cost-Efficient Agentic Memory Safety Vulnerability Detection For Repository-Scale Codebases**|Yiwei Hou et.al.|[2606.22263](http://arxiv.org/abs/2606.22263)|null|
 |**2026-06-20**|**Analyzing the Analyzers: Model Counting Meets Abstract Interpretation**|Junda Zheng et.al.|[2606.21992](http://arxiv.org/abs/2606.21992)|null|
@@ -241,9 +247,9 @@
 |**2026-06-18**|**AutoACSL: Synthesizing ACSL Specifications by Integrating LLMs with CPG-Based Static Analysis**|Han Zhou et.al.|[2606.20969](http://arxiv.org/abs/2606.20969)|null|
 |**2026-06-16**|**MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents**|Xuelong Dai et.al.|[2606.20717](http://arxiv.org/abs/2606.20717)|null|
 |**2026-06-18**|**Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software**|Arastoo Zibaeirad et.al.|[2606.20502](http://arxiv.org/abs/2606.20502)|null|
-|**2026-06-18**|**BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling**|Bharathi Kannan Nithyanantham et.al.|[2606.20146](http://arxiv.org/abs/2606.20146)|null|
+|**2026-06-23**|**BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling**|Bharathi Kannan Nithyanantham et.al.|[2606.20146](http://arxiv.org/abs/2606.20146)|null|
 |**2026-06-18**|**OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing**|Nahum Korda et.al.|[2606.19149](http://arxiv.org/abs/2606.19149)|null|
-|**2026-06-17**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
+|**2026-06-24**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
 |**2026-06-17**|**Toward Semantically-Seeded, Graph-Propagated Impact Analysis Across Software Artifacts: A Vision**|Momil Seedat et.al.|[2606.18855](http://arxiv.org/abs/2606.18855)|null|
 |**2026-06-17**|**Code-Augur: Agentic Vulnerability Detection via Specification Inference**|Zhengxiong Luo et.al.|[2606.18619](http://arxiv.org/abs/2606.18619)|null|
 |**2026-06-16**|**Electromagnetic Shower Reconstruction and Identification in FASER's Emulsion Detector for LHC Forward Neutrino Measurements**| FASER Collaboration et.al.|[2606.18517](http://arxiv.org/abs/2606.18517)|null|
@@ -1512,7 +1518,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1560,7 +1566,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260623>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
