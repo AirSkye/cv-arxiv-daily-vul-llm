@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.25
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision**|Chenhui Cui et.al.|[2606.27080](http://arxiv.org/abs/2606.27080)|null|
+|**2026-06-25**|**How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring**|Zhihao Lin et.al.|[2606.26979](http://arxiv.org/abs/2606.26979)|null|
+|**2026-06-25**|**Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**|Marco De Luca et.al.|[2606.26927](http://arxiv.org/abs/2606.26927)|null|
+|**2026-06-25**|**Empirical Software Engineering TerraProbe: A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform**|Manar Alsaid et.al.|[2606.26590](http://arxiv.org/abs/2606.26590)|null|
+|**2026-06-24**|**CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?**|Jintao Huang et.al.|[2606.26216](http://arxiv.org/abs/2606.26216)|null|
 |**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973](http://arxiv.org/abs/2606.25973)|null|
 |**2026-06-24**|**Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning**|Andrew Stoltman et.al.|[2606.25356](http://arxiv.org/abs/2606.25356)|null|
 |**2026-06-23**|**Machine learning is revolutionizing weather forecasting -- the next step is a change in how we work**|Peter Dueben et.al.|[2606.25076](http://arxiv.org/abs/2606.25076)|null|

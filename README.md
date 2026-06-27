@@ -1,4 +1,4 @@
-## Updated on 2026.06.25
+## Updated on 2026.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,17 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision**|Chenhui Cui et.al.|[2606.27080](http://arxiv.org/abs/2606.27080)|null|
+|**2026-06-25**|**How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring**|Zhihao Lin et.al.|[2606.26979](http://arxiv.org/abs/2606.26979)|null|
+|**2026-06-25**|**Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**|Marco De Luca et.al.|[2606.26927](http://arxiv.org/abs/2606.26927)|null|
+|**2026-06-25**|**Empirical Software Engineering TerraProbe: A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform**|Manar Alsaid et.al.|[2606.26590](http://arxiv.org/abs/2606.26590)|null|
+|**2026-06-24**|**CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?**|Jintao Huang et.al.|[2606.26216](http://arxiv.org/abs/2606.26216)|null|
 |**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973](http://arxiv.org/abs/2606.25973)|null|
 |**2026-06-24**|**Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning**|Andrew Stoltman et.al.|[2606.25356](http://arxiv.org/abs/2606.25356)|null|
 |**2026-06-23**|**Machine learning is revolutionizing weather forecasting -- the next step is a change in how we work**|Peter Dueben et.al.|[2606.25076](http://arxiv.org/abs/2606.25076)|null|
@@ -1518,7 +1523,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1566,7 +1571,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
