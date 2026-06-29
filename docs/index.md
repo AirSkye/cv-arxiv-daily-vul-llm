@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.27
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-25**|**Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code**|Ali Asgari et.al.|[2606.27601](http://arxiv.org/abs/2606.27601)|null|
+|**2026-06-25**|**Two-Dimensional Locally Adaptive Non-Hydrostatic Extension of Shallow Water Equations**|Kemal Firdaus et.al.|[2606.27562](http://arxiv.org/abs/2606.27562)|null|
 |**2026-06-25**|**ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision**|Chenhui Cui et.al.|[2606.27080](http://arxiv.org/abs/2606.27080)|null|
 |**2026-06-25**|**How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring**|Zhihao Lin et.al.|[2606.26979](http://arxiv.org/abs/2606.26979)|null|
 |**2026-06-25**|**Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**|Marco De Luca et.al.|[2606.26927](http://arxiv.org/abs/2606.26927)|null|
@@ -244,7 +246,7 @@ layout: default
 |**2026-06-18**|**Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software**|Arastoo Zibaeirad et.al.|[2606.20502](http://arxiv.org/abs/2606.20502)|null|
 |**2026-06-23**|**BIM-Edit: Benchmarking Large Language Models for IFC-Based Building Information Modeling**|Bharathi Kannan Nithyanantham et.al.|[2606.20146](http://arxiv.org/abs/2606.20146)|null|
 |**2026-06-18**|**OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing**|Nahum Korda et.al.|[2606.19149](http://arxiv.org/abs/2606.19149)|null|
-|**2026-06-24**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
+|**2026-06-26**|**PYPILINE: Malicious PyPI Package Detection via Suspicious API Knowledge and Agent Workflow**|Siyuan Pang et.al.|[2606.19063](http://arxiv.org/abs/2606.19063)|null|
 |**2026-06-17**|**Toward Semantically-Seeded, Graph-Propagated Impact Analysis Across Software Artifacts: A Vision**|Momil Seedat et.al.|[2606.18855](http://arxiv.org/abs/2606.18855)|null|
 |**2026-06-17**|**Code-Augur: Agentic Vulnerability Detection via Specification Inference**|Zhengxiong Luo et.al.|[2606.18619](http://arxiv.org/abs/2606.18619)|null|
 |**2026-06-16**|**Electromagnetic Shower Reconstruction and Identification in FASER's Emulsion Detector for LHC Forward Neutrino Measurements**| FASER Collaboration et.al.|[2606.18517](http://arxiv.org/abs/2606.18517)|null|
