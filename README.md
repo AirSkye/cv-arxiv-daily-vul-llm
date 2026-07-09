@@ -1,4 +1,4 @@
-## Updated on 2026.07.06
+## Updated on 2026.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,38 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models**|Yizhi Wang et.al.|[2607.06748](http://arxiv.org/abs/2607.06748)|null|
+|**2026-07-07**|**A Decomposition-Based Framework for Joint Optimization and Spatial Packaging of Interconnected Systems with Physical Interactions**|Julien Bückmann et.al.|[2607.06087](http://arxiv.org/abs/2607.06087)|null|
+|**2026-07-07**|**xDECAF: An Extensible Data Flow Diagram Analysis Framework for Information Security**|Benjamin Arp et.al.|[2607.05913](http://arxiv.org/abs/2607.05913)|null|
+|**2026-07-07**|**Hidden Amplifiers: Cross-Level Risk in Software Supply Chains**|Rakesh Podder et.al.|[2607.05894](http://arxiv.org/abs/2607.05894)|null|
+|**2026-07-07**|**Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis**|Mingchen Li et.al.|[2607.05842](http://arxiv.org/abs/2607.05842)|null|
+|**2026-07-07**|**Detecting Vulnerability-Inducing Commits via Multi-Stage Reasoning with LLM-Based Agents**|Liyou Chen et.al.|[2607.05772](http://arxiv.org/abs/2607.05772)|null|
+|**2026-07-07**|**The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities**|Mohammadreza Rashidi et.al.|[2607.05743](http://arxiv.org/abs/2607.05743)|null|
+|**2026-07-06**|**ShadowProbe: Language-Extensible Detection of Hidden Algorithmic Complexity Vulnerabilities**|Yuanmin Xie et.al.|[2607.05474](http://arxiv.org/abs/2607.05474)|null|
+|**2026-07-06**|**Modeling Fatigue-Induced Anisotropic Quasi-Brittle Damage Based on the Endurance Surface Concept**|Klas Feike et.al.|[2607.04818](http://arxiv.org/abs/2607.04818)|null|
+|**2026-07-06**|**RustMizan: A Compilable, Contamination-Aware Benchmarking Framework for Rust Vulnerabilities**|Tarek Elsayed et.al.|[2607.04729](http://arxiv.org/abs/2607.04729)|null|
+|**2026-07-04**|**Neuro-Symbolic Reasoning for Vulnerability Detection**|Yanjie Zhao et.al.|[2607.03963](http://arxiv.org/abs/2607.03963)|null|
+|**2026-07-04**|**Inferring the Shape of Data Frames in R Programs using Abstract Interpretation**|Oliver Gerstl et.al.|[2607.03889](http://arxiv.org/abs/2607.03889)|null|
+|**2026-07-03**|**LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection**|Hang Gao et.al.|[2607.03350](http://arxiv.org/abs/2607.03350)|null|
+|**2026-07-03**|**TATG: Tracking-Aware Testing Objective for LLM-based Test Generation**|Guancheng Wang et.al.|[2607.03194](http://arxiv.org/abs/2607.03194)|null|
+|**2026-07-03**|**Towards Automatically Inferring Constraints to Identify Implicit Assumptions in Data Analysis**|Florian Sihler et.al.|[2607.03114](http://arxiv.org/abs/2607.03114)|null|
+|**2026-07-02**|**JavaVulBench: A Java Vulnerability Benchmark with Realistic Splits, a Unified Multi-Backend Harness, and a Leakage-Aware Evaluation Mode**|Norbert Sandor Szolnoki et.al.|[2607.02825](http://arxiv.org/abs/2607.02825)|null|
+|**2026-07-02**|**From Codebases to LLMs: Non-Inclusive Naming in Linux Foundation Repositories**|Honghao Tan et.al.|[2607.02772](http://arxiv.org/abs/2607.02772)|null|
+|**2026-07-02**|**Benefits of Applying Software Design Patterns to Backend Rust Applications**|Leon Heuer et.al.|[2607.02744](http://arxiv.org/abs/2607.02744)|null|
+|**2026-07-02**|**A large-scale dataset of Android applications and their SDK dependencies**|Aurora Gori Savellini et.al.|[2607.02627](http://arxiv.org/abs/2607.02627)|null|
+|**2026-07-03**|**Cloak and Detonate: Scanner Evasion and Dynamic Detection of Agent Skill Malware**|Zimo Ji et.al.|[2607.02357](http://arxiv.org/abs/2607.02357)|null|
+|**2026-07-02**|**Knowledge Over Parameters: Evolving Smart Contract Vulnerability Detection**|Yuqiang Sun et.al.|[2607.01742](http://arxiv.org/abs/2607.01742)|null|
+|**2026-07-02**|**When Agents Do Not Stop: Uncovering Infinite Agentic Loops in LLM Agents**|Xinyi Hou et.al.|[2607.01641](http://arxiv.org/abs/2607.01641)|null|
+|**2026-07-02**|**AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs**|Shenao Wang et.al.|[2607.01640](http://arxiv.org/abs/2607.01640)|null|
+|**2026-07-01**|**Practical Range Refinement Types with Inference**|Valentin Aebi et.al.|[2607.00824](http://arxiv.org/abs/2607.00824)|null|
+|**2026-07-01**|**Rise From The Ashes: LLM-based Static Analysis for Deep Learning Framework Bugs**|Shaoyu Yang et.al.|[2607.00555](http://arxiv.org/abs/2607.00555)|null|
+|**2026-07-05**|**The Illusion of Safety: Multi-Tier Verification of AI vs. Human C++ Code**|Saif Mahmud et.al.|[2607.00107](http://arxiv.org/abs/2607.00107)|null|
 |**2026-06-30**|**JETO-Bench: A Reproducible Benchmark for Execution Time Improvement Patches in Java**|Khashayar Etemadi et.al.|[2606.31767](http://arxiv.org/abs/2606.31767)|null|
 |**2026-06-29**|**Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection**|Asif Shahriar et.al.|[2606.30587](http://arxiv.org/abs/2606.30587)|null|
 |**2026-06-29**|**MirrorCode: AI can rebuild entire programs from behavior alone**|Tom Adamczewski et.al.|[2606.30182](http://arxiv.org/abs/2606.30182)|null|
@@ -239,7 +265,7 @@
 |**2026-06-25**|**Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code**|Ali Asgari et.al.|[2606.27601](http://arxiv.org/abs/2606.27601)|null|
 |**2026-06-25**|**Two-Dimensional Locally Adaptive Non-Hydrostatic Extension of Shallow Water Equations**|Kemal Firdaus et.al.|[2606.27562](http://arxiv.org/abs/2606.27562)|null|
 |**2026-06-25**|**ATGBuilder: Feature-Assisted Graph Learning for Activity Transition Graph Construction with Seed Supervision**|Chenhui Cui et.al.|[2606.27080](http://arxiv.org/abs/2606.27080)|null|
-|**2026-06-25**|**How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring**|Zhihao Lin et.al.|[2606.26979](http://arxiv.org/abs/2606.26979)|null|
+|**2026-07-02**|**How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring**|Zhihao Lin et.al.|[2606.26979](http://arxiv.org/abs/2606.26979)|null|
 |**2026-06-25**|**Are LLMs Ready for Anti-Pattern Detection in Microservice Architectures?**|Marco De Luca et.al.|[2606.26927](http://arxiv.org/abs/2606.26927)|null|
 |**2026-06-25**|**Empirical Software Engineering TerraProbe: A Layered-Oracle Framework for Detecting Deceptive Fixes in LLM-Assisted Terraform**|Manar Alsaid et.al.|[2606.26590](http://arxiv.org/abs/2606.26590)|null|
 |**2026-06-24**|**CyberChainBench: Can AI Agents Secure Smart Contracts Against Real-World On-Chain Vulnerabilities?**|Jintao Huang et.al.|[2606.26216](http://arxiv.org/abs/2606.26216)|null|
@@ -1531,7 +1557,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1579,7 +1605,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
