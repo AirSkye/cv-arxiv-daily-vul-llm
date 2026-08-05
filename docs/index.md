@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,10 +220,50 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**CodeAssay: A Multi-Metric Benchmark with Audited Ground Truth for LLM Code Generation**|Shahbaz Siddeeq et.al.|[2608.03535](http://arxiv.org/abs/2608.03535)|null|
+|**2026-08-04**|**SkillSentry: Adaptive Honey Worlds for Dynamic Safety Testing of Agent Skills**|Nizhang Li et.al.|[2608.03485](http://arxiv.org/abs/2608.03485)|null|
+|**2026-08-04**|**ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection**|Md Faisal Ahmed et.al.|[2608.03250](http://arxiv.org/abs/2608.03250)|null|
+|**2026-08-04**|**CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection**|Sungju Yun et.al.|[2608.03134](http://arxiv.org/abs/2608.03134)|null|
+|**2026-08-03**|**Generation of Correlated Time Series for X-ray Astronomy Applications**|Seth Rowan Larner et.al.|[2608.02584](http://arxiv.org/abs/2608.02584)|null|
+|**2026-08-03**|**Vulnerability Detection in AArch64 Machine Code Using a Digital Twin**|Oleksandr Mostovyi et.al.|[2608.02125](http://arxiv.org/abs/2608.02125)|null|
+|**2026-08-03**|**Pretraining on Call Graphs: When Binary Analysis Tasks Profit From Context**|Samuel Valenzuela et.al.|[2608.02084](http://arxiv.org/abs/2608.02084)|null|
+|**2026-08-03**|**VulnGym: Benchmarking Coding Agents for Repository-Level Vulnerability Detection**|Kexing Ji et.al.|[2608.02001](http://arxiv.org/abs/2608.02001)|null|
+|**2026-08-01**|**Odd-Cycle Span Defect: A Polynomial Lower Bound and a Square-Root Upper Bound**|Shuyan Chen et.al.|[2608.00691](http://arxiv.org/abs/2608.00691)|null|
+|**2026-07-31**|**Modelling Android applications through static analysis and systematic exploratory testing**|Jordan Doyle et.al.|[2608.00228](http://arxiv.org/abs/2608.00228)|null|
+|**2026-07-31**|**CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention**|Bryan Kwan et.al.|[2607.29604](http://arxiv.org/abs/2607.29604)|null|
+|**2026-07-29**|**Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts**|Stella Lau et.al.|[2607.27480](http://arxiv.org/abs/2607.27480)|null|
+|**2026-07-29**|**Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection**|Yikun Li et.al.|[2607.26656](http://arxiv.org/abs/2607.26656)|null|
+|**2026-07-31**|**Fingerprint-Driven Automation: Coupling Reconnaissance with POC Verification**|Hongping Wang et.al.|[2607.26655](http://arxiv.org/abs/2607.26655)|null|
+|**2026-07-28**|**Hybrid Analysis for Secure MCP Tool Use in LLM Agents**|Ping He et.al.|[2607.25297](http://arxiv.org/abs/2607.25297)|null|
+|**2026-07-28**|**SecDrift: Measuring Sector-Conditioned Security Drift in AI-Generated Code**|Narayanaswami Natraj Bharadwaj et.al.|[2607.25225](http://arxiv.org/abs/2607.25225)|null|
+|**2026-07-27**|**ZIMPAF & RedPhuzz: High-fidelity Web Application Fuzzing via Branch, Language Construct, and Function Call Monitoring**|Tennov Simanjuntak et.al.|[2607.25012](http://arxiv.org/abs/2607.25012)|null|
+|**2026-07-27**|**Characterizing Structural Testability in JavaScript: An Empirical Study**|Shahrzad Mirzaei et.al.|[2607.24965](http://arxiv.org/abs/2607.24965)|null|
+|**2026-07-27**|**ALIBI: Adaptive Agentic Attacks on LLM-Based Vulnerability Detectors via Adversarial Code Comments**|Zixuan Wu et.al.|[2607.24964](http://arxiv.org/abs/2607.24964)|null|
+|**2026-07-27**|**FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis**|Zhenghong Yu et.al.|[2607.23971](http://arxiv.org/abs/2607.23971)|null|
+|**2026-07-26**|**The Illusion of Secure LLM Code: Closing the Security Gap via Iterative Reprompting**|Ishpuneet Singh et.al.|[2607.23710](http://arxiv.org/abs/2607.23710)|null|
+|**2026-07-26**|**Characterizing Warp Divergence from Pascal to Blackwell**|Alpin Dale et.al.|[2607.23402](http://arxiv.org/abs/2607.23402)|null|
+|**2026-07-25**|**Energetics of frontogenesis in simple balanced models**|Yue Bai et.al.|[2607.22970](http://arxiv.org/abs/2607.22970)|null|
+|**2026-07-24**|**Ethereum NFT Smart Contracts: Knowledge-Guided Vulnerability Detection with LLM and Code Slicing**|Deyu Yang et.al.|[2607.21983](http://arxiv.org/abs/2607.21983)|null|
+|**2026-07-21**|**Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code**|Vidyut Sriram et.al.|[2607.21641](http://arxiv.org/abs/2607.21641)|null|
+|**2026-07-22**|**Multi-Source and Cross-Scenario Strategy-Guided Code Optimization**|Yuwei Zhao et.al.|[2607.20353](http://arxiv.org/abs/2607.20353)|null|
+|**2026-07-22**|**An Approach to the Abstract Interpretation of Goal-Directed Answer Set Programming**|Daniel Jurjo-Rivas et.al.|[2607.20252](http://arxiv.org/abs/2607.20252)|null|
+|**2026-07-22**|**Quantum Term Rewrite Systems: Applications to Complexity Analysis**|Kostia Chardonnet et.al.|[2607.20170](http://arxiv.org/abs/2607.20170)|null|
+|**2026-07-22**|**Context Matters: Improving the Practical Reliability of LLM-Based Unit Test Generation**|Junjie Chen et.al.|[2607.19682](http://arxiv.org/abs/2607.19682)|null|
+|**2026-07-20**|**Beyond Resolved Rate: A Non-Functional Quality Study**|Xin Sun et.al.|[2607.18462](http://arxiv.org/abs/2607.18462)|null|
+|**2026-08-01**|**When and How Context Rot Appears in Coding Agents: A White-Box Study of Agent Skills in Code Auditing**|Yue Xue et.al.|[2607.17937](http://arxiv.org/abs/2607.17937)|null|
+|**2026-07-17**|**TaintRadar: Semantic-Aware Taint-Style Vulnerability Detection via Augmented Code Property Graphs**|Elie Rizk et.al.|[2607.16456](http://arxiv.org/abs/2607.16456)|null|
+|**2026-07-17**|**Beyond Detection: Agentic Attack Synthesis and Simulation for Smart Contracts**|Xianhao Zhang et.al.|[2607.15673](http://arxiv.org/abs/2607.15673)|null|
+|**2026-07-16**|**Can LLMs Build a MaxSAT Solver from Papers? The CoreForge Experience**|Ruben Martins et.al.|[2607.14818](http://arxiv.org/abs/2607.14818)|null|
+|**2026-07-16**|**Large Language Models for Code Generation from Multilingual Prompts: A Curated Benchmark and a Study on Code Quality**|Saima Afrin et.al.|[2607.14816](http://arxiv.org/abs/2607.14816)|null|
+|**2026-07-16**|**Routing Ceilings Are Domain-Independent: Structural Prior Injection in Code Security Vulnerability Detection**|Manuel Israel Cázares et.al.|[2607.14628](http://arxiv.org/abs/2607.14628)|null|
+|**2026-07-15**|**ProfMalPlus: Agent-Coordinated Detection of Malicious NPM Packages via Static-Dynamic Analysis Synergy**|Yiheng Huang et.al.|[2607.13965](http://arxiv.org/abs/2607.13965)|null|
+|**2026-07-15**|**DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection**|Mingyang Sun et.al.|[2607.13439](http://arxiv.org/abs/2607.13439)|null|
+|**2026-07-14**|**Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable**|Ruhan Wang et.al.|[2607.13285](http://arxiv.org/abs/2607.13285)|null|
+|**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206](http://arxiv.org/abs/2607.13206)|null|
 |**2026-07-14**|**Bulkhead: Automated Semantic Detection and Remediation of Container Escape Vulnerabilities**|Qiyuan Fan et.al.|[2607.12723](http://arxiv.org/abs/2607.12723)|null|
 |**2026-07-14**|**Taming the Drift: Context-aware Repair of Dockerfile Drift during Software Evolution**|Chengjie Wang et.al.|[2607.12541](http://arxiv.org/abs/2607.12541)|null|
 |**2026-07-14**|**Antiproof: Synthesizing Vulnerability Detectors and Proofs of Exploitability**|Alon Shakevsky et.al.|[2607.12316](http://arxiv.org/abs/2607.12316)|null|
-|**2026-07-14**|**Mystra: Declarative Dynamic Taint Analysis via Shadow Virtual Machine**|Zhuohao Zhang et.al.|[2607.12308](http://arxiv.org/abs/2607.12308)|null|
+|**2026-07-15**|**Mystra: Declarative Dynamic Taint Analysis via Shadow Virtual Machine**|Zhuohao Zhang et.al.|[2607.12308](http://arxiv.org/abs/2607.12308)|null|
 |**2026-07-13**|**Beyond Test Presence: Assessing the Quality and Robustness of Agent-Generated Tests in Open-Source Projects**|Preet Jhanglani et.al.|[2607.12068](http://arxiv.org/abs/2607.12068)|null|
 |**2026-07-13**|**AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration**|Arastoo Zibaeirad et.al.|[2607.12058](http://arxiv.org/abs/2607.12058)|null|
 |**2026-07-13**|**LP Mining with LP2Graph: A Use Case for Railway Rescheduling**|Jörn Maurischat et.al.|[2607.11980](http://arxiv.org/abs/2607.11980)|null|
