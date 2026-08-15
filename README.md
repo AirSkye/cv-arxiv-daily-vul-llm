@@ -1,4 +1,4 @@
-## Updated on 2026.08.10
+## Updated on 2026.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260815>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,12 +224,37 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260815>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**LLM-Assisted Dynamic Threat Analysis for Attacker-Reachable Software Weaknesses in Autonomous Vehicles**|Md Wasiul Haque et.al.|[2608.13450](http://arxiv.org/abs/2608.13450)|null|
+|**2026-08-13**|**The low luminosity end of Galactic HMXBs with eROSITA: Establishing a luminosity floor for accreting BeXRBs**|Aafia Zainab et.al.|[2608.13259](http://arxiv.org/abs/2608.13259)|null|
+|**2026-08-13**|**Validation-Centric AI-Assisted GPU Porting of a 250,000+ Line Legacy Weather Simulation Code**|Tetsuya Hoshino et.al.|[2608.13122](http://arxiv.org/abs/2608.13122)|null|
+|**2026-08-13**|**Static analysis-guided agentic AI translation enables Rust as a full stack bioinformatics language**|Johan Henriksson et.al.|[2608.13029](http://arxiv.org/abs/2608.13029)|null|
+|**2026-08-12**|**VICBench: A Multi-Language Benchmark for Code Vulnerability Detection**|Jin Lu et.al.|[2608.12246](http://arxiv.org/abs/2608.12246)|null|
+|**2026-08-12**|**Inferring Empirical Sound Resource Bounds via Symbolic Execution and Linear Programming (Extended Version)**|Samuel Frontull et.al.|[2608.11833](http://arxiv.org/abs/2608.11833)|null|
+|**2026-08-11**|**Cross-Corpus Evaluation of Generalizable Vulnerability Detection in IoT Firmware**|Sadib Hassan Rumman et.al.|[2608.11492](http://arxiv.org/abs/2608.11492)|null|
+|**2026-08-11**|**A Systematic Sample Size Analysis of ML-Based Path Loss Prediction for LPWAN**|Robert Bitterling et.al.|[2608.11083](http://arxiv.org/abs/2608.11083)|null|
+|**2026-08-11**|**CausalRepair: Bridging the Causality Gap in Large Language Model-Based Automated Program Repair via Dual-Slicing**|Linhao Wu et.al.|[2608.10613](http://arxiv.org/abs/2608.10613)|null|
+|**2026-08-10**|**SmellCC: A Tool for Automated Code Smells Remediation**|Xiaoting Zhang et.al.|[2608.09477](http://arxiv.org/abs/2608.09477)|null|
+|**2026-08-10**|**"Will This Data Break My Task?" - Interactive Synthesis of Task-Aware Data Unit Tests**|Hao Chen et.al.|[2608.09376](http://arxiv.org/abs/2608.09376)|null|
+|**2026-08-09**|**SkillsMetric: Mapping the Detection Boundary of Static Analysis for Malicious Agent Skills**|Xinze Chen et.al.|[2608.08468](http://arxiv.org/abs/2608.08468)|null|
+|**2026-08-07**|**SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional Graph Alignment**|Chaofan Meng et.al.|[2608.07639](http://arxiv.org/abs/2608.07639)|null|
+|**2026-08-07**|**PyFlow: An Inter-procedural Static Analysis Framework for Python**|Zinan Gu et.al.|[2608.07026](http://arxiv.org/abs/2608.07026)|null|
+|**2026-08-07**|**Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection**|Minami Yoda et.al.|[2608.06960](http://arxiv.org/abs/2608.06960)|null|
+|**2026-08-07**|**Probing Variations in Earth's Ionosphere Using Pulsars**|Yanqing Cai et.al.|[2608.06744](http://arxiv.org/abs/2608.06744)|null|
+|**2026-08-06**|**Characterizing the Quality Profile of AI-Generated C++ in Production**|Michael Tran et.al.|[2608.06640](http://arxiv.org/abs/2608.06640)|null|
+|**2026-08-06**|**A unified modeling of X-ray and gamma-ray spectro-polarimetric data: the case of Cygnus X-1**|Tristan Bouchet et.al.|[2608.06328](http://arxiv.org/abs/2608.06328)|null|
+|**2026-08-06**|**RustGo: Fairly Directed Greybox Fuzzing for Enforcing Rust Memory Safety**|Dongyeon Yu et.al.|[2608.05870](http://arxiv.org/abs/2608.05870)|null|
+|**2026-08-06**|**Agent-Based Test Assertion Generation via Diverse Perspective Aggregation**|Dong Wang et.al.|[2608.05822](http://arxiv.org/abs/2608.05822)|null|
+|**2026-08-05**|**Accelerating C/C++ Pointer Analysis via Compiler-Based Offline Simplifications**|Zinan Gu et.al.|[2608.04466](http://arxiv.org/abs/2608.04466)|null|
+|**2026-08-05**|**Zero-Instrumentation Dependency Discovery for Guided Microservice Migration Using eBPF**|Eshan Trivedi et.al.|[2608.04413](http://arxiv.org/abs/2608.04413)|null|
+|**2026-08-04**|**LLM-based Vulnerability Discovery in Business Process Documentation**|Ben Falchuk et.al.|[2608.04271](http://arxiv.org/abs/2608.04271)|null|
+|**2026-08-04**|**MergeSE: Post-Hoc Model Merging for Software Engineering Tasks Without Retraining**|Palash R. Roy et.al.|[2608.04181](http://arxiv.org/abs/2608.04181)|null|
+|**2026-08-04**|**An Approach for Embedding-Guided Function Reuse Detection in Embedded C Software**|A A Talha Talukder et.al.|[2608.04137](http://arxiv.org/abs/2608.04137)|null|
 |**2026-08-04**|**CodeAssay: A Multi-Metric Benchmark with Audited Ground Truth for LLM Code Generation**|Shahbaz Siddeeq et.al.|[2608.03535](http://arxiv.org/abs/2608.03535)|null|
 |**2026-08-04**|**SkillSentry: Adaptive Honey Worlds for Dynamic Safety Testing of Agent Skills**|Nizhang Li et.al.|[2608.03485](http://arxiv.org/abs/2608.03485)|null|
 |**2026-08-04**|**ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection**|Md Faisal Ahmed et.al.|[2608.03250](http://arxiv.org/abs/2608.03250)|null|
@@ -249,7 +274,7 @@
 |**2026-07-27**|**ZIMPAF & RedPhuzz: High-fidelity Web Application Fuzzing via Branch, Language Construct, and Function Call Monitoring**|Tennov Simanjuntak et.al.|[2607.25012](http://arxiv.org/abs/2607.25012)|null|
 |**2026-07-27**|**Characterizing Structural Testability in JavaScript: An Empirical Study**|Shahrzad Mirzaei et.al.|[2607.24965](http://arxiv.org/abs/2607.24965)|null|
 |**2026-07-27**|**ALIBI: Adaptive Agentic Attacks on LLM-Based Vulnerability Detectors via Adversarial Code Comments**|Zixuan Wu et.al.|[2607.24964](http://arxiv.org/abs/2607.24964)|null|
-|**2026-07-27**|**FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis**|Zhenghong Yu et.al.|[2607.23971](http://arxiv.org/abs/2607.23971)|null|
+|**2026-08-13**|**FlowLog: Re-thinking Datalog for Fast and Extensible Static Analysis**|Zhenghong Yu et.al.|[2607.23971](http://arxiv.org/abs/2607.23971)|null|
 |**2026-07-26**|**The Illusion of Secure LLM Code: Closing the Security Gap via Iterative Reprompting**|Ishpuneet Singh et.al.|[2607.23710](http://arxiv.org/abs/2607.23710)|null|
 |**2026-07-26**|**Characterizing Warp Divergence from Pascal to Blackwell**|Alpin Dale et.al.|[2607.23402](http://arxiv.org/abs/2607.23402)|null|
 |**2026-07-25**|**Energetics of frontogenesis in simple balanced models**|Yue Bai et.al.|[2607.22970](http://arxiv.org/abs/2607.22970)|null|
@@ -1619,12 +1644,13 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260815>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**Cross-Corpus Evaluation of Generalizable Vulnerability Detection in IoT Firmware**|Sadib Hassan Rumman et.al.|[2608.11492](http://arxiv.org/abs/2608.11492)|null|
 |**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
 |**2025-11-23**|**LLMs as Firmware Experts: A Runtime-Grown Tree-of-Agents Framework**|Xiangrui Zhang et.al.|[2511.18438](http://arxiv.org/abs/2511.18438)|null|
 |**2025-11-03**|**A Large Scale Study of AI-based Binary Function Similarity Detection Techniques for Security Researchers and Practitioners**|Jingyi Shi et.al.|[2511.01180](http://arxiv.org/abs/2511.01180)|null|
@@ -1667,7 +1693,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
