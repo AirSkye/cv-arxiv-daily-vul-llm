@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,14 +224,31 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption**|Yegor Denisov-Blanch et.al.|[2608.25241](http://arxiv.org/abs/2608.25241)|null|
+|**2026-08-25**|**Static Detection of Post-Quantum Cryptographic Algorithms in Stripped Binaries for Digital Forensic Examination and Migration Assurance**|Muhammad Shaheer Bin Junaid et.al.|[2608.25122](http://arxiv.org/abs/2608.25122)|null|
+|**2026-08-25**|**Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code**|Maitreyee Das Urmi et.al.|[2608.24857](http://arxiv.org/abs/2608.24857)|null|
+|**2026-08-25**|**Fingerprints of thermal Comptonization in accreting neutron stars. Plasma-vacuum interplay in cyclotron lines and polarisation**|E. Sokolova-Lapa et.al.|[2608.24396](http://arxiv.org/abs/2608.24396)|null|
+|**2026-08-25**|**Towards LLM-Enhanced Android Taint Analysis**|Nicholas Miazzo et.al.|[2608.24269](http://arxiv.org/abs/2608.24269)|null|
+|**2026-08-24**|**TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers**|Mehrdad Rostamzadeh et.al.|[2608.23763](http://arxiv.org/abs/2608.23763)|null|
+|**2026-08-22**|**Identifying Latent Declarative Representations of Code for Assisting Repository Migration**|Shraddha Surana et.al.|[2608.23619](http://arxiv.org/abs/2608.23619)|null|
+|**2026-08-21**|**REFINE: A Multi-Agent LLM Approach for Evidence-Guided Code Refactoring**|Muhammad Waseem et.al.|[2608.23611](http://arxiv.org/abs/2608.23611)|null|
+|**2026-08-24**|**From Metrics to Improvement: A Lifecycle-Aware LLM Feedback Framework for Research Software Quality**|Nafis Tanveer Islam et.al.|[2608.23118](http://arxiv.org/abs/2608.23118)|null|
+|**2026-08-24**|**What Process Evaluation of Coding Agents Actually Measures: Action, Task, and Step Are Three Different Levels**|Jiawei He et.al.|[2608.22960](http://arxiv.org/abs/2608.22960)|null|
+|**2026-08-23**|**Mitigating Error Propagation in Chain-of-Thought: A Tree-of-Thought Framework for Smart Contract Repair**|Jingping Zhu et.al.|[2608.22345](http://arxiv.org/abs/2608.22345)|null|
+|**2026-08-22**|**XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models**|Jingwen Wu et.al.|[2608.21718](http://arxiv.org/abs/2608.21718)|null|
+|**2026-08-21**|**Loadability Limits Under Periodic Load Forcing**|Maitraya Avadhut Desai et.al.|[2608.21256](http://arxiv.org/abs/2608.21256)|null|
+|**2026-08-21**|**Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda**|Wei Lin et.al.|[2608.21107](http://arxiv.org/abs/2608.21107)|null|
+|**2026-08-21**|**Pulse profiles of accreting neutron stars - A review of analysis methods, observations, and theoretical models**|Katja Pottschmidt et.al.|[2608.20876](http://arxiv.org/abs/2608.20876)|null|
+|**2026-08-21**|**ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection**|Chunyi Wang et.al.|[2608.20637](http://arxiv.org/abs/2608.20637)|null|
+|**2026-08-20**|**More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment**|Shiqi Liu et.al.|[2608.20584](http://arxiv.org/abs/2608.20584)|null|
 |**2026-08-20**|**Frequency-Aware Continual Learning for Smart Contract Vulnerability Detection with Large Language Models**|Tenghui Huang et.al.|[2608.19680](http://arxiv.org/abs/2608.19680)|null|
-|**2026-08-19**|**Uncovering the Limits of Proof Sharing for Neural Networks**|Kanak Das et.al.|[2608.19351](http://arxiv.org/abs/2608.19351)|null|
+|**2026-08-25**|**Uncovering the Limits of Proof Sharing for Neural Networks**|Kanak Das et.al.|[2608.19351](http://arxiv.org/abs/2608.19351)|null|
 |**2026-08-18**|**TRUSS: Towards Task-Reliable and User-Safe Automated Agent Skill Generation**|Zhibo Zhang et.al.|[2608.17588](http://arxiv.org/abs/2608.17588)|null|
 |**2026-08-18**|**SNIPTEST: Fuzzing Multi-Level Code Slices for Validating Vulnerabilities**|Aniruddhan Murali et.al.|[2608.17396](http://arxiv.org/abs/2608.17396)|null|
 |**2026-08-17**|**Comparing the Quality of Code Generated by Vibe Coding Tools**|Gustavo da Mota et.al.|[2608.16302](http://arxiv.org/abs/2608.16302)|null|
@@ -1655,7 +1672,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1704,7 +1721,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260827>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
