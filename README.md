@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,7 +137,7 @@
 |**2023-10-18**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2025-10-15**|**K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection**|Yifan Zhang et.al.|[2208.08067](http://arxiv.org/abs/2208.08067)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## LLMVulData
 
@@ -224,14 +224,25 @@
 |**2023-06-06**|**Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?**|Aaron Chan et.al.|[2306.01754](http://arxiv.org/abs/2306.01754)|null|
 |**2023-08-10**|**DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection**|Yizheng Chen et.al.|[2304.00409](http://arxiv.org/abs/2304.00409)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## VulDetect
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Optimized Modular Design and Development of a Tilt-Rotor Bicopter Drone**|Saideep Verma et.al.|[2608.30222](http://arxiv.org/abs/2608.30222)|null|
+|**2026-08-30**|**POLYFLOW: A Neuro-Symbolic Framework for Static Cross-Language Information Flow Analysis**|Haoran Yang et.al.|[2608.29808](http://arxiv.org/abs/2608.29808)|null|
+|**2026-08-28**|**FlowCheck: Helping End-Users Specify and Verify Intent in Vibe-Coded Web Apps**|Reya Vir et.al.|[2608.28880](http://arxiv.org/abs/2608.28880)|null|
+|**2026-08-28**|**X-ray grating spectroscopy as a mission enhancement**|Hans Moritz Guenther et.al.|[2608.28804](http://arxiv.org/abs/2608.28804)|null|
+|**2026-08-11**|**Terminal-Bench-LILT: Multilingual Agentic Coding Benchmark Grounded in Language, Region, and Culture**|Yunsu Kim et.al.|[2608.28641](http://arxiv.org/abs/2608.28641)|null|
+|**2026-08-28**|**CHISEL-ing Back Source Code with AI-enabled Iterative Recovery**|Varun Kohli et.al.|[2608.27981](http://arxiv.org/abs/2608.27981)|null|
+|**2026-08-28**|**GraftyVul: Synthesising Insecure Programs Through Real-World Vulnerability Grafting**|Omri Ram et.al.|[2608.27928](http://arxiv.org/abs/2608.27928)|null|
+|**2026-08-28**|**Decoupling is a Necessity: Transformation-Agnostic Decompiled Code Recovery under Optimization and Obfuscation**|Zhiping Zhou et.al.|[2608.27889](http://arxiv.org/abs/2608.27889)|null|
+|**2026-08-27**|**Dynamic Tree Colors: Adaptive Discriminable Hierarchies with Minimum Instability**|Tobias Mertz et.al.|[2608.26734](http://arxiv.org/abs/2608.26734)|null|
+|**2026-08-27**|**KubeCap: A Framework for Capability Minimization in Kubernetes via Static Analysis and LLM-Assisted Rule Inference**|Yuhao Liu et.al.|[2608.26699](http://arxiv.org/abs/2608.26699)|null|
+|**2026-08-26**|**Investigating Software Aging in LLM-Generated Software Systems across Generation-and-Execution Environments**|Cesar Santos et.al.|[2608.26391](http://arxiv.org/abs/2608.26391)|null|
 |**2026-08-26**|**A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption**|Yegor Denisov-Blanch et.al.|[2608.25241](http://arxiv.org/abs/2608.25241)|null|
-|**2026-08-25**|**Static Detection of Post-Quantum Cryptographic Algorithms in Stripped Binaries for Digital Forensic Examination and Migration Assurance**|Muhammad Shaheer Bin Junaid et.al.|[2608.25122](http://arxiv.org/abs/2608.25122)|null|
+|**2026-08-30**|**Static Detection of Post-Quantum Cryptographic Algorithms in Stripped Binaries for Digital Forensic Examination and Migration Assurance**|Muhammad Shaheer Bin Junaid et.al.|[2608.25122](http://arxiv.org/abs/2608.25122)|null|
 |**2026-08-25**|**Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code**|Maitreyee Das Urmi et.al.|[2608.24857](http://arxiv.org/abs/2608.24857)|null|
 |**2026-08-25**|**Fingerprints of thermal Comptonization in accreting neutron stars. Plasma-vacuum interplay in cyclotron lines and polarisation**|E. Sokolova-Lapa et.al.|[2608.24396](http://arxiv.org/abs/2608.24396)|null|
 |**2026-08-25**|**Towards LLM-Enhanced Android Taint Analysis**|Nicholas Miazzo et.al.|[2608.24269](http://arxiv.org/abs/2608.24269)|null|
@@ -1672,7 +1683,7 @@
 |**2013-05-17**|**Combining Static and Dynamic Analysis for Vulnerability Detection**|Sanjay Rawat et.al.|[1305.3883](http://arxiv.org/abs/1305.3883)|null|
 |**2008-12-11**|**Accelerated Data-Flow Analysis**|Jérôme Leroux et.al.|[0812.2011](http://arxiv.org/abs/0812.2011)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 ## FirmwareVulDetect
 
@@ -1721,7 +1732,7 @@
 |**2018-07-27**|**Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection**|Xiaojun Xu et.al.|[1708.06525](http://arxiv.org/abs/1708.06525)|null|
 |**2017-02-17**|**On Ladder Logic Bombs in Industrial Control Systems**|Naman Govil et.al.|[1702.05241](http://arxiv.org/abs/1702.05241)|null|
 
-<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
