@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
