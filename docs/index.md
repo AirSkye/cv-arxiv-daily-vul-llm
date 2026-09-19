@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,53 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**Delphi Scanner: efficient and interpretable static malware detection via API sequence modeling**|Bijied Brahimi et.al.|[2609.19900](http://arxiv.org/abs/2609.19900)|null|
+|**2026-09-16**|**MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs**|Albert Wu et.al.|[2609.19391](http://arxiv.org/abs/2609.19391)|null|
+|**2026-09-16**|**LocQE: Principled Domain Adaptation for Localisation Quality Estimation by Leveraging Post-Edits**|Kathy Hämmerl et.al.|[2609.18720](http://arxiv.org/abs/2609.18720)|null|
+|**2026-09-16**|**A Security Risk Assessment Framework for AI-Powered Development Tools**|Salem AlJanah et.al.|[2609.18658](http://arxiv.org/abs/2609.18658)|null|
+|**2026-09-16**|**AIJon: Automated Generation of Annotations for Fuzzing**|Jayakrishna Menon Vadayath et.al.|[2609.18457](http://arxiv.org/abs/2609.18457)|null|
+|**2026-09-16**|**Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention**|Minfeng Qi et.al.|[2609.18344](http://arxiv.org/abs/2609.18344)|null|
+|**2026-09-15**|**Behavioral Analysis of Timed Actors using Syntactic Slice Equivalence**|Ali Ataollahi et.al.|[2609.17840](http://arxiv.org/abs/2609.17840)|null|
+|**2026-09-15**|**SEMA-GUARD: Semantic and Graph-Based Vulnerability Detection in Assembly Code**|Halil Dursunoglu et.al.|[2609.17254](http://arxiv.org/abs/2609.17254)|null|
+|**2026-09-15**|**GANADI: Uncovering C/C++ OSS Reuse Genealogies via Pivotal Function-Based Clustering to Enhance Supply Chain Security**|Dongyeon Kim et.al.|[2609.17018](http://arxiv.org/abs/2609.17018)|null|
+|**2026-09-15**|**Beyond Measurement Metrics: A Human-Centered Framework for Semantic Validation of Network Traffic Classification**|Igor Cherepanov et.al.|[2609.17014](http://arxiv.org/abs/2609.17014)|null|
+|**2026-09-15**|**TasmScan: Continuation-Aware Taint Analysis for TVM Bytecode with Savelist Abstraction**|Yixuan Liu et.al.|[2609.16987](http://arxiv.org/abs/2609.16987)|null|
+|**2026-09-15**|**RepoAtlas: Guiding Coding Agents via Evolving Multimodal Repository Views**|Yunxiang Zhang et.al.|[2609.16936](http://arxiv.org/abs/2609.16936)|null|
+|**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963](http://arxiv.org/abs/2609.15963)|null|
+|**2026-09-14**|**Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale**|Aman Priyanshu et.al.|[2609.15939](http://arxiv.org/abs/2609.15939)|null|
+|**2026-09-14**|**Externalizing Requirement-to-Repair Artifacts as Observable Traces for LLM-Based Program Repair**|Zewen Tao et.al.|[2609.14913](http://arxiv.org/abs/2609.14913)|null|
+|**2026-09-13**|**When Apps Outlive Vendors: Security Implications of IoT Abandonware**|Dayeon Kang et.al.|[2609.14798](http://arxiv.org/abs/2609.14798)|null|
+|**2026-09-13**|**EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models**|Juanen Li et.al.|[2609.14475](http://arxiv.org/abs/2609.14475)|null|
+|**2026-09-13**|**Fusing Spectral Signatures and Activation Clustering for Backdoor Detection in Healthcare Imaging Models: Method, Implementation, and Evaluation**|Suresh Tamang et.al.|[2609.14290](http://arxiv.org/abs/2609.14290)|null|
+|**2026-09-12**|**TyPatch: Transforming Patches into Typestate Rules for Kernel Bug Detection**|Ruoyu Wang et.al.|[2609.13728](http://arxiv.org/abs/2609.13728)|null|
+|**2026-09-12**|**PatchRisk: Forecasting Future Vulnerability Exposure in Open-Source Dependency Networks**|Ashfaq Ali Shafin et.al.|[2609.13719](http://arxiv.org/abs/2609.13719)|null|
+|**2026-09-11**|**Detecting HTTP Status Code Misuses in REST APIs via Static and Dynamic Analysis**|Alix Decrop et.al.|[2609.12770](http://arxiv.org/abs/2609.12770)|null|
+|**2026-09-11**|**What is the Difference Between Me and You? Benchmarking the Quality Gap Between Human-Written and AI-Generated Code**|Cristina Improta et.al.|[2609.12708](http://arxiv.org/abs/2609.12708)|null|
+|**2026-09-10**|**Investigating Developer-Reported Software Security Testing Challenges**|Md Erfan et.al.|[2609.12008](http://arxiv.org/abs/2609.12008)|null|
+|**2026-09-10**|**Quasi-static analysis of passive stability in a novel underactuated multi-finger hand**|Léonie Plancoulaine et.al.|[2609.11579](http://arxiv.org/abs/2609.11579)|null|
+|**2026-09-10**|**Study of the multiplicity dependence of non-flow correlations in pp collisions at $\sqrt{s}=200$ GeV using PYTHIA**|Milan Stojanovic et.al.|[2609.11526](http://arxiv.org/abs/2609.11526)|null|
+|**2026-09-10**|**BenchShield: Formal Model-Backed Instrumentation for Reward Integrity in LLM-Agent Evaluation Infrastructure**|Shenghan Zheng et.al.|[2609.11028](http://arxiv.org/abs/2609.11028)|null|
+|**2026-09-10**|**LLMVul: A Vulnerability-Labeled Dataset of LLM-Generated C/C++ Functions from Real Production Repositories**|Mohammad Farhad et.al.|[2609.10945](http://arxiv.org/abs/2609.10945)|null|
+|**2026-09-09**|**Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code**|Jessica Pourleyli et.al.|[2609.10762](http://arxiv.org/abs/2609.10762)|null|
+|**2026-09-08**|**On the Relation between Code Quality and Machine Learning Performance: A Large-scale Empirical Study**|Marius Mignard et.al.|[2609.10610](http://arxiv.org/abs/2609.10610)|null|
+|**2026-09-09**|**Towards Scalable and Cost-Efficient Vulnerability Detection: A Study on Automatic Query Generation**|Ivana Clairine Irsan et.al.|[2609.10412](http://arxiv.org/abs/2609.10412)|null|
+|**2026-09-09**|**UnsafeChecker: Finding Soundness Bugs in Rust Safe Abstractions**|Xizhe Yin et.al.|[2609.09641](http://arxiv.org/abs/2609.09641)|null|
+|**2026-09-08**|**LLMSec-AV: A Vulnerability Taxonomy and LLM-Driven Software Weakness Discovery Framework for Autonomous Vehicles**|Md. Wasiul Haque et.al.|[2609.09386](http://arxiv.org/abs/2609.09386)|null|
+|**2026-09-07**|**EventSpec: Defining and Detecting Event-Semantic Issues in Blockchain Ecosystems**|Yixuan Liu et.al.|[2609.07865](http://arxiv.org/abs/2609.07865)|null|
+|**2026-09-05**|**SemVul: Semantic-Enhanced Graph Neural Networks for Code Property Graph-based Vulnerability Detection**|Younas Affan et.al.|[2609.06035](http://arxiv.org/abs/2609.06035)|null|
+|**2026-09-05**|**Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models**|Andrej Andrejev et.al.|[2609.05779](http://arxiv.org/abs/2609.05779)|null|
+|**2026-09-04**|**Propagation Model for SSC attacks: Why SBOM (tools) don't tell the whole truth**|Ljubica Grgic et.al.|[2609.05380](http://arxiv.org/abs/2609.05380)|null|
+|**2026-09-04**|**When LLM Decompilers Recompile More and Preserve Less**|Chang Liu et.al.|[2609.05370](http://arxiv.org/abs/2609.05370)|null|
+|**2026-09-04**|**CPL: A Compact C-like Systems Language with Explicit Low-Level Control**|Nikolay Fot et.al.|[2609.04904](http://arxiv.org/abs/2609.04904)|null|
+|**2026-09-04**|**Cost-Aware Hierarchical Multi-Agent Ransomware Detection and Family Attribution**|Mubashar Iqbal et.al.|[2609.04820](http://arxiv.org/abs/2609.04820)|null|
+|**2026-09-15**|**An Empirical Analysis of CodeQL False Positives and Query Refinements for Java Vulnerabilities**|Amirali Sajadi et.al.|[2609.04535](http://arxiv.org/abs/2609.04535)|null|
+|**2026-09-02**|**ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases**|Afsana Tasnim et.al.|[2609.02789](http://arxiv.org/abs/2609.02789)|null|
+|**2026-09-02**|**Automated Vulnerability Injection in Smart Contracts Using Large Language Models**|Luca Migliaccio et.al.|[2609.02624](http://arxiv.org/abs/2609.02624)|null|
+|**2026-09-02**|**SpiderSapien: Client-Centric Web Crawler and Security Scanner**|Eric Olsson et.al.|[2609.02532](http://arxiv.org/abs/2609.02532)|null|
+|**2026-09-01**|**Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs**|Enna Basic et.al.|[2609.01758](http://arxiv.org/abs/2609.01758)|null|
+|**2026-09-01**|**Automating Static Code Analysis Through CI/CD Pipeline Integration**|Zachary Wadhams et.al.|[2609.00676](http://arxiv.org/abs/2609.00676)|null|
+|**2026-08-31**|**U-PAST: A Phase-Aware Audio Spectrogram Transformer-U-Net for Single-Channel Speech Enhancement**|Cao Duong Ly et.al.|[2609.00431](http://arxiv.org/abs/2609.00431)|null|
+|**2026-08-31**|**Beyond Locks and Thread IDs: Static Data Race Detection Off The Beaten Path (Extended Version)**|Daniel Bund et.al.|[2609.00246](http://arxiv.org/abs/2609.00246)|null|
 |**2026-08-31**|**Optimized Modular Design and Development of a Tilt-Rotor Bicopter Drone**|Saideep Verma et.al.|[2608.30222](http://arxiv.org/abs/2608.30222)|null|
 |**2026-08-30**|**POLYFLOW: A Neuro-Symbolic Framework for Static Cross-Language Information Flow Analysis**|Haoran Yang et.al.|[2608.29808](http://arxiv.org/abs/2608.29808)|null|
 |**2026-08-28**|**FlowCheck: Helping End-Users Specify and Verify Intent in Vibe-Coded Web Apps**|Reya Vir et.al.|[2608.28880](http://arxiv.org/abs/2608.28880)|null|
