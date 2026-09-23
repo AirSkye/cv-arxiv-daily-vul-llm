@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.21
+## Updated on 2026.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**From Approval to Execution: Reconstruction-Aware Repair Analysis for LLM-Agent Software**|Junchi Zhu et.al.|[2609.26529](http://arxiv.org/abs/2609.26529)|null|
+|**2026-09-22**|**FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation**|Xutian Li et.al.|[2609.26480](http://arxiv.org/abs/2609.26480)|null|
+|**2026-09-22**|**C-to-Rust Fallacy: Automatic Refactoring != Memory Security**|Hung-Mao Chen et.al.|[2609.25682](http://arxiv.org/abs/2609.25682)|null|
+|**2026-09-22**|**An Empirical Analysis of Cross-OS Portability Issues in Python Projects**|Denini Silva et.al.|[2609.25531](http://arxiv.org/abs/2609.25531)|null|
+|**2026-09-18**|**CPyGraph: A Version-Aware Static Analysis Framework for Native CPython Bytecode**|Baihong Chen et.al.|[2609.25083](http://arxiv.org/abs/2609.25083)|null|
+|**2026-09-20**|**MCPGen: Benchmarking LLMs on Executable MCPWorkflow Development**|Yingxuan Yang et.al.|[2609.23925](http://arxiv.org/abs/2609.23925)|null|
+|**2026-09-19**|**SoK: From Finding to Deployment: Systematizing the OS Kernel Bug Lifecycle**|Luyao bai et.al.|[2609.23218](http://arxiv.org/abs/2609.23218)|null|
+|**2026-09-19**|**Beyond Linear Context: Graph-Guided Evidence Navigation for Long-Novel Reasoning with a Local 9B Language Model**|Wenji Fu et.al.|[2609.22939](http://arxiv.org/abs/2609.22939)|null|
+|**2026-09-19**|**From Code to Requirements: Agentic Reverse Engineering of Business Rules at Enterprise Scale**|Garima Agrawal et.al.|[2609.22719](http://arxiv.org/abs/2609.22719)|null|
 |**2026-09-17**|**Delphi Scanner: efficient and interpretable static malware detection via API sequence modeling**|Bijied Brahimi et.al.|[2609.19900](http://arxiv.org/abs/2609.19900)|null|
 |**2026-09-16**|**MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs**|Albert Wu et.al.|[2609.19391](http://arxiv.org/abs/2609.19391)|null|
 |**2026-09-16**|**LocQE: Principled Domain Adaptation for Localisation Quality Estimation by Leveraging Post-Edits**|Kathy Hämmerl et.al.|[2609.18720](http://arxiv.org/abs/2609.18720)|null|
@@ -241,7 +250,7 @@ layout: default
 |**2026-09-12**|**TyPatch: Transforming Patches into Typestate Rules for Kernel Bug Detection**|Ruoyu Wang et.al.|[2609.13728](http://arxiv.org/abs/2609.13728)|null|
 |**2026-09-12**|**PatchRisk: Forecasting Future Vulnerability Exposure in Open-Source Dependency Networks**|Ashfaq Ali Shafin et.al.|[2609.13719](http://arxiv.org/abs/2609.13719)|null|
 |**2026-09-11**|**Detecting HTTP Status Code Misuses in REST APIs via Static and Dynamic Analysis**|Alix Decrop et.al.|[2609.12770](http://arxiv.org/abs/2609.12770)|null|
-|**2026-09-11**|**What is the Difference Between Me and You? Benchmarking the Quality Gap Between Human-Written and AI-Generated Code**|Cristina Improta et.al.|[2609.12708](http://arxiv.org/abs/2609.12708)|null|
+|**2026-09-21**|**What is the Difference Between Me and You? Benchmarking the Quality Gap Between Human-Written and AI-Generated Code**|Cristina Improta et.al.|[2609.12708](http://arxiv.org/abs/2609.12708)|null|
 |**2026-09-10**|**Investigating Developer-Reported Software Security Testing Challenges**|Md Erfan et.al.|[2609.12008](http://arxiv.org/abs/2609.12008)|null|
 |**2026-09-10**|**Quasi-static analysis of passive stability in a novel underactuated multi-finger hand**|Léonie Plancoulaine et.al.|[2609.11579](http://arxiv.org/abs/2609.11579)|null|
 |**2026-09-10**|**Study of the multiplicity dependence of non-flow correlations in pp collisions at $\sqrt{s}=200$ GeV using PYTHIA**|Milan Stojanovic et.al.|[2609.11526](http://arxiv.org/abs/2609.11526)|null|
