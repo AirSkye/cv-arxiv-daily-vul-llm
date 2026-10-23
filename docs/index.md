@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.19
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Typed Template Fuzzing**|Lu Maltsis et.al.|[2610.31342](http://arxiv.org/abs/2610.31342)|null|
+|**2026-10-20**|**Self-Evolving Static Analysis via LLM Pseudo-Labeling**|Rui Melo et.al.|[2610.30184](http://arxiv.org/abs/2610.30184)|null|
+|**2026-10-20**|**How Much Does the Harness Matter, and for Whom? A Multi-Model Study of Context in LLM-Driven Vulnerability Discovery**|Ganni Galea Curmi et.al.|[2610.28802](http://arxiv.org/abs/2610.28802)|null|
+|**2026-10-20**|**Raise or Check? Predicting the Necessity of Additional Fuzzing for Continuous Fuzzing**|Riku Kato et.al.|[2610.27828](http://arxiv.org/abs/2610.27828)|null|
+|**2026-10-20**|**How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection**|Kaiyang Wan et.al.|[2610.27711](http://arxiv.org/abs/2610.27711)|null|
+|**2026-10-19**|**A Hybrid Information Flow Analysis Framework for Android Hybrid Apps**|Jyoti Prakash et.al.|[2610.27288](http://arxiv.org/abs/2610.27288)|null|
+|**2026-10-19**|**Towards Robust Model Organisms for Eliciting Latent Knowledge**|Lennart Finke et.al.|[2610.26698](http://arxiv.org/abs/2610.26698)|null|
+|**2026-10-20**|**Secure Agentic Coding through Counterexample-Grounded Feedback**|Tue Le et.al.|[2610.25916](http://arxiv.org/abs/2610.25916)|null|
+|**2026-10-19**|**How Effectively Do Security Skills Guide Coding Agents in Vulnerability Detection in Linux Kernel?**|Haoran Xue et.al.|[2610.25705](http://arxiv.org/abs/2610.25705)|null|
+|**2026-10-18**|**Heuristic-Driven Resource Optimization for Decoupled Memory Channels on FPGAs**|Arnab A. Purkayastha et.al.|[2610.25528](http://arxiv.org/abs/2610.25528)|null|
+|**2026-10-17**|**The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents**|Jinwei Hu et.al.|[2610.24873](http://arxiv.org/abs/2610.24873)|null|
+|**2026-10-16**|**Pattern-Based Precondition Inference from Method Implementations**|Shanyue Zhou et.al.|[2610.24204](http://arxiv.org/abs/2610.24204)|null|
+|**2026-10-16**|**Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps**|Ethan Myers et.al.|[2610.23851](http://arxiv.org/abs/2610.23851)|null|
+|**2026-10-15**|**Managing complexity for integrated fusion reactor design using a differentiable graph-based MDAO framework: PROCESS as a case study**|Timo J. Bogaarts et.al.|[2610.22687](http://arxiv.org/abs/2610.22687)|null|
+|**2026-10-15**|**Beyond Confidence: Rethinking Uncertainty Calibration in Deep Code Models**|Ravishka Rathnasuriya et.al.|[2610.21248](http://arxiv.org/abs/2610.21248)|null|
+|**2026-10-14**|**FreeSBee: A Constant-Time Compilation Pipeline**|Julian Ganz et.al.|[2610.20171](http://arxiv.org/abs/2610.20171)|null|
+|**2026-10-14**|**Mission (Im)Possible: Towards Autonomous Discovery of Autopilot Logic Flaws in Open-Source Drone Frameworks**|Ziyi Liang et.al.|[2610.19566](http://arxiv.org/abs/2610.19566)|null|
+|**2026-10-14**|**Why shaking faster does not untangle: frequency-selective extraction of filaments from tangled matter**|Ishant Tiwari et.al.|[2610.19480](http://arxiv.org/abs/2610.19480)|null|
+|**2026-10-13**|**Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills**|Ratnesh Pandey et.al.|[2610.19264](http://arxiv.org/abs/2610.19264)|null|
+|**2026-10-13**|**Beyond Functional Correctness: Static Code Quality Profiling of LLM-Generated Code**|Jue Huang et.al.|[2610.19167](http://arxiv.org/abs/2610.19167)|null|
+|**2026-10-13**|**Sim4RAD: A MATLAB Toolkit for Design-Phase Sizing, Actuator Selection and URDF-Model Verification of Serial Robotic Arms**|Jingchen Li et.al.|[2610.17534](http://arxiv.org/abs/2610.17534)|null|
+|**2026-10-12**|**Unveiling the Hot Interstellar Medium in Nearby Galaxies with eROSITA**|Roman Laktionov et.al.|[2610.16936](http://arxiv.org/abs/2610.16936)|null|
+|**2026-10-11**|**Hardware-Assisted Multi-Stage Ransomware Detection with Adaptive Machine Learning**|Salma Aboelmagd et.al.|[2610.15951](http://arxiv.org/abs/2610.15951)|null|
+|**2026-10-11**|**LLM-based Code Auditing by Inferring and Evaluating Developer Assumptions**|Junming Liu et.al.|[2610.15729](http://arxiv.org/abs/2610.15729)|null|
+|**2026-10-10**|**Humans vs. Machines: A Comparison With AI Agents in Software Reverse Engineering**|Samuele Doria et.al.|[2610.14960](http://arxiv.org/abs/2610.14960)|null|
+|**2026-10-14**|**SecReason: Vulnerability Detection and In-Stream Self-Repair for LLM Code Generation**|Ruidong Han et.al.|[2610.14453](http://arxiv.org/abs/2610.14453)|null|
+|**2026-10-09**|**Diagnosing Generalization Boundaries in AI-Based Vulnerability Detection via Calibrated Embedding Distances**|Konstantin Ievtushenko et.al.|[2610.14296](http://arxiv.org/abs/2610.14296)|null|
+|**2026-10-09**|**Evaluation of Software Quality Through Refactoring Commit-Impact Analysis**|Md Safayat Hossen et.al.|[2610.12890](http://arxiv.org/abs/2610.12890)|null|
+|**2026-10-17**|**NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems**|Runze Wu et.al.|[2610.11875](http://arxiv.org/abs/2610.11875)|null|
+|**2026-10-08**|**ObliVul: Alert-Conditioned Safety Obligation Modeling and Bidirectional Counterfactual Validation for Code Vulnerability Detection**|Heyang Tan et.al.|[2610.11801](http://arxiv.org/abs/2610.11801)|null|
+|**2026-10-07**|**GRAML: Graph-Grounded Reasoning and Multi-Task Learning for LLM-Based Software Vulnerability Detection**|Ruohan Li et.al.|[2610.09605](http://arxiv.org/abs/2610.09605)|null|
+|**2026-10-06**|**CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?**|Hang He et.al.|[2610.07557](http://arxiv.org/abs/2610.07557)|null|
+|**2026-10-04**|**VulValidate: Auditing Function-Level Vulnerability Labels with Executable Evidence**|Leizhen Zhang et.al.|[2610.05103](http://arxiv.org/abs/2610.05103)|null|
+|**2026-10-03**|**Attestable Audit: Property-Based Attestation for Proprietary Workloads without Artifact Disclosure**|Takuma Imamura et.al.|[2610.04480](http://arxiv.org/abs/2610.04480)|null|
+|**2026-10-02**|**PrivDev: Mapping Static-Analysis Data Types to DPV**|Simon Bernbeck et.al.|[2610.03518](http://arxiv.org/abs/2610.03518)|null|
+|**2026-10-02**|**Beyond Predefined Sinks: Security-Aware Dependency Analysis for LLM Agents**|Hang Cui et.al.|[2610.03014](http://arxiv.org/abs/2610.03014)|null|
+|**2026-10-02**|**Engineering Sustainable Agents: A Systematic Comparison of Agentic LLMs for Developer Workflows**|Merve Astekin et.al.|[2610.03010](http://arxiv.org/abs/2610.03010)|null|
+|**2026-10-01**|**Refactoring React Component Hierarchies to Eliminate Prop Drilling**|Vangelis Gkinis et.al.|[2610.01376](http://arxiv.org/abs/2610.01376)|null|
+|**2026-10-01**|**A Design Theory for AI-Assisted Software Development Derived from Christopher Alexander's Theory of Form**|Chien-Tsun Chen et.al.|[2610.01372](http://arxiv.org/abs/2610.01372)|null|
+|**2026-10-01**|**ABSENTIA: Detecting Broken Access Control Vulnerabilities in Web Applications**|André V. Duarte et.al.|[2610.00977](http://arxiv.org/abs/2610.00977)|null|
+|**2026-10-08**|**Pretext: Defeating Malicious Skill Detection Frameworks for AI Agents**|Tobias Kaiser et.al.|[2609.39607](http://arxiv.org/abs/2609.39607)|null|
+|**2026-09-30**|**Trustworthy Runtime Error Healing in Real-World Repositories: A Benchmark and Guardrail**|Gou Tan et.al.|[2609.39086](http://arxiv.org/abs/2609.39086)|null|
+|**2026-10-18**|**A Trust Ledger and an Execution Check for CPG-Based C-to-Lean 4 Autoformalization: Separating Declined from Silently Incorrect Translations**|Ishan K Singavarapu et.al.|[2609.38237](http://arxiv.org/abs/2609.38237)|null|
+|**2026-09-29**|**A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript**|Tamás Viszkok et.al.|[2609.38012](http://arxiv.org/abs/2609.38012)|null|
+|**2026-09-29**|**Retrieve, Reproduce, Reveal: Dissecting Retrieval-Augmented Software Vulnerability Detection**|Sabrina Kaniewski et.al.|[2609.37669](http://arxiv.org/abs/2609.37669)|null|
+|**2026-09-29**|**Agent-Based Evolutionary Dynamics for Mixed Autonomy Weaving Ramps**|Sheryl Paul et.al.|[2609.36424](http://arxiv.org/abs/2609.36424)|null|
+|**2026-09-28**|**StateTape: Action-Conditioned Evidence Lifecycle Modeling for Long-Horizon Coding Agents**|Ziyang Yu et.al.|[2609.36319](http://arxiv.org/abs/2609.36319)|null|
+|**2026-09-29**|**Refactoring the SIXTE simulator: Towards a more modular code base**|Christian Kirsch et.al.|[2609.35494](http://arxiv.org/abs/2609.35494)|null|
+|**2026-09-28**|**Trajectory-Level Security Debt in LLM Coding Agents**|Prateek Kumar Rajput et.al.|[2609.35199](http://arxiv.org/abs/2609.35199)|null|
+|**2026-09-28**|**SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent**|Zeqin Liao et.al.|[2609.34983](http://arxiv.org/abs/2609.34983)|null|
 |**2026-09-22**|**From Approval to Execution: Reconstruction-Aware Repair Analysis for LLM-Agent Software**|Junchi Zhu et.al.|[2609.26529](http://arxiv.org/abs/2609.26529)|null|
 |**2026-09-22**|**FeatLens: Feature-Guided Dynamic Code Graph Construction and Retrieval for Repository-Level Code Generation**|Xutian Li et.al.|[2609.26480](http://arxiv.org/abs/2609.26480)|null|
 |**2026-09-22**|**C-to-Rust Fallacy: Automatic Refactoring != Memory Security**|Hung-Mao Chen et.al.|[2609.25682](http://arxiv.org/abs/2609.25682)|null|
