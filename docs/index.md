@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.23
+## Updated on 2026.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## LLMVulDetect
@@ -220,6 +220,56 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**What Does Skill Lift Actually Measure? A Source-Code-Level Audit and Noise-Aware Reanalysis of SkillsBench**|Haozhe Zhang et.al.|[2611.33943](http://arxiv.org/abs/2611.33943)|null|
+|**2026-11-24**|**Constructively Embedding Quantum Error-Correcting Codes**|Yucheng He et.al.|[2611.33389](http://arxiv.org/abs/2611.33389)|null|
+|**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119](http://arxiv.org/abs/2611.33119)|null|
+|**2026-11-25**|**Increasing the Precision of IR Mapping for Incremental Data Flow Analysis**|Anushri Jana et.al.|[2611.32920](http://arxiv.org/abs/2611.32920)|null|
+|**2026-11-24**|**MALET & Katalina: A Large-Scale Dataset and Static Analysis of macOS Malware**|Godwin Attigah et.al.|[2611.31949](http://arxiv.org/abs/2611.31949)|null|
+|**2026-11-23**|**RTLDetective: Agentic RTL Debugging through Dataflow Analysis and Simulation-Guided Fault Localization**|Neusha Javidnia et.al.|[2611.31709](http://arxiv.org/abs/2611.31709)|null|
+|**2026-11-23**|**CrossCheck I: Cost Bounds of Imperative Programs as Constrained Optimization, with a Sound Cost Logic and a Verified Certificate Checker**|Luca Dall'Olio et.al.|[2611.31430](http://arxiv.org/abs/2611.31430)|null|
+|**2026-11-23**|**Vortex rings shape the feeding-efficiency landscape of jellyfish**|Harry Walden et.al.|[2611.31170](http://arxiv.org/abs/2611.31170)|null|
+|**2026-11-23**|**Preflight: Agentic Last-Mile Verification for AI Software Supply Chains**|Yaman Jandali et.al.|[2611.31110](http://arxiv.org/abs/2611.31110)|null|
+|**2026-11-23**|**Carried-Over and Agent-Native Threats in the Supply Chain of LLM Agent Skills**|Kaixuan Li et.al.|[2611.30932](http://arxiv.org/abs/2611.30932)|null|
+|**2026-11-23**|**Interrupt-Aware Static Detection of Deadlocks in Rust Operating Systems**|Yuzhi Li et.al.|[2611.30713](http://arxiv.org/abs/2611.30713)|null|
+|**2026-11-25**|**Fixed or Deleted? External Feedback Lets Cheaper AI Coding Agents Repair Rule Violations**|Laura Wynter et.al.|[2611.29162](http://arxiv.org/abs/2611.29162)|null|
+|**2026-11-21**|**VAPY: Circuit Optimization with Backpropagation**|Anthony Yang et.al.|[2611.28554](http://arxiv.org/abs/2611.28554)|null|
+|**2026-11-19**|**How Far Can LLMs Go in Generating Android Lint Checks from Natural Language?**|Moshood A. Fakorede et.al.|[2611.28159](http://arxiv.org/abs/2611.28159)|null|
+|**2026-11-20**|**Testing for Coordination Failures in Cooperative Multi-Agent Reinforcement Learning**|Dennis Gross et.al.|[2611.27368](http://arxiv.org/abs/2611.27368)|null|
+|**2026-11-19**|**Geometric formulation of the orbital magnetic susceptibility of periodic insulators**|J. W. F. Venderbos et.al.|[2611.26356](http://arxiv.org/abs/2611.26356)|null|
+|**2026-11-19**|**Static Analysis Guidance for Secure LLM Code Generation**|Daniele Lunghi et.al.|[2611.26312](http://arxiv.org/abs/2611.26312)|null|
+|**2026-11-19**|**SkillBridge: Cost-Aware Diagnosis and Repair of Cross-OS Compatibility Defects in Agent Skills**|Anjie Xu et.al.|[2611.26256](http://arxiv.org/abs/2611.26256)|null|
+|**2026-11-19**|**Hardening JavaScript Programs against LLM-Based Vulnerability Detection**|Zhenhao Tian et.al.|[2611.25718](http://arxiv.org/abs/2611.25718)|null|
+|**2026-11-19**|**Behavioral Containment: Source-to-Binary Function Matching for 1-Day Vulnerability Detection**|Yifei Yang et.al.|[2611.25394](http://arxiv.org/abs/2611.25394)|null|
+|**2026-11-18**|**Mitigating fix reversal: Counterfactual constraints for function-level vulnerability detection**|Yun Bian et.al.|[2611.24489](http://arxiv.org/abs/2611.24489)|null|
+|**2026-11-17**|**ACaM: Automated Capability Modeling for Agentic AI Security**|Monika Santra et.al.|[2611.23507](http://arxiv.org/abs/2611.23507)|null|
+|**2026-11-09**|**LLMs for Software Vulnerability Prediction and Prioritization: A Review**|Faheem Ullah et.al.|[2611.23304](http://arxiv.org/abs/2611.23304)|null|
+|**2026-11-16**|**Determining Concentration from Raman Spectroscopy with Manifold Learning and Y-shaped Conformal Autoencoders**|Anna Taka et.al.|[2611.21196](http://arxiv.org/abs/2611.21196)|null|
+|**2026-11-16**|**Laser Processing for Energy Applications**|Marcos Soldera et.al.|[2611.21024](http://arxiv.org/abs/2611.21024)|null|
+|**2026-11-21**|**Taint Analysis via Heap-Aware Propagation**|Yusen Su et.al.|[2611.20453](http://arxiv.org/abs/2611.20453)|null|
+|**2026-11-14**|**Small Harnesses, Default Checks, Limited Coverage: Bounded Model Checking in Practice**|Kevin Kolyakov et.al.|[2611.19267](http://arxiv.org/abs/2611.19267)|null|
+|**2026-11-14**|**Beyond Benchmarks: Evaluating Large Language Models and Agentic Patterns for Static Code Analysis Warning Classification**|Lakmal Deshapriya et.al.|[2611.19086](http://arxiv.org/abs/2611.19086)|null|
+|**2026-11-14**|**Using machine learning approaches to classify false-positives generated by static analysis tools - An empirical study using small datasets**|Lakmal Deshapriya et.al.|[2611.19079](http://arxiv.org/abs/2611.19079)|null|
+|**2026-11-12**|**Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents**| Xianpeng et.al.|[2611.17388](http://arxiv.org/abs/2611.17388)|null|
+|**2026-11-12**|**Preserve the Vulnerability, Break the Alert: Testing the Robustness of CodeQL Taint Tracking with Natural Rewrites**|Zhezhen Cao et.al.|[2611.17123](http://arxiv.org/abs/2611.17123)|null|
+|**2026-11-11**|**Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents**|Yuchen Zeng et.al.|[2611.15118](http://arxiv.org/abs/2611.15118)|null|
+|**2026-11-11**|**Typify: A Tool for Usage-driven Type Inference in Python**|Hassan Aman et.al.|[2611.14879](http://arxiv.org/abs/2611.14879)|null|
+|**2026-11-10**|**Reconstructing Fine-grained Memory Reuse Structure in GPU Kernels**|Yanbo Zhao et.al.|[2611.14741](http://arxiv.org/abs/2611.14741)|null|
+|**2026-11-10**|**An Empirical Study on CVE-based Vulnerabilities Propagation from one System to another System (IntraProject vs InterProject)**|Junaid Akram et.al.|[2611.14164](http://arxiv.org/abs/2611.14164)|null|
+|**2026-11-10**|**Comparing WeChat and Telegram MiniApp Security Architectures: Toward Cross-Platform Analysis**|Luca Ferrari et.al.|[2611.13965](http://arxiv.org/abs/2611.13965)|null|
+|**2026-11-09**|**Code-Grounded Agentic Explanations for Static Analysis Vulnerability Findings**|Oshando Johnson et.al.|[2611.13041](http://arxiv.org/abs/2611.13041)|null|
+|**2026-11-09**|**Lessons Not Learned: Why Cross-Chain Bridges Keep Losing Billions the Same Way**|Mohsen Ahmadvand et.al.|[2611.12252](http://arxiv.org/abs/2611.12252)|null|
+|**2026-11-07**|**Sensitivity of jet and dijet observables to medium effects in pp collisions at $\sqrt{s}=13$ TeV using X-SCAPE/JETSCAPE**|Lakshitha Fernando et.al.|[2611.11012](http://arxiv.org/abs/2611.11012)|null|
+|**2026-11-05**|**Executable Specifications as First-Class Independent Verification and Validation Artifacts for Quantum Information and Machine Learning**|Ragib Shahariar Ayon et.al.|[2611.10023](http://arxiv.org/abs/2611.10023)|null|
+|**2026-11-06**|**Wake 5: A Python Framework for Solidity Testing, Fuzzing, and Static Analysis**|Josef Gattermayer et.al.|[2611.09307](http://arxiv.org/abs/2611.09307)|null|
+|**2026-11-05**|**I Don't Care How You Hide It, I Care What You Do: Runtime Detection of Malicious ML Models**|Hala Ali et.al.|[2611.08745](http://arxiv.org/abs/2611.08745)|null|
+|**2026-11-04**|**τ-bench-LILT: Evaluating Conversational Agents on Realistic Multilingual Tool-Use Tasks**|Kaden Uhlig et.al.|[2611.07203](http://arxiv.org/abs/2611.07203)|null|
+|**2026-11-03**|**KG-AST for Cheaper CI/CD: Budgeted Test Selection and AI Bug Review**|Henry Yeung et.al.|[2611.06950](http://arxiv.org/abs/2611.06950)|null|
+|**2026-11-04**|**PatchCon: Patch-aware Weighted Supervised Contrastive Learning for Vulnerability Detection**|Chaomeng Lu et.al.|[2611.06583](http://arxiv.org/abs/2611.06583)|null|
+|**2026-11-04**|**Reassessing Dataset Quality and Fine-Tuning Practices for Vulnerability Detection on PrimeVul dataset**|Norbert Sándor Szolnoki et.al.|[2611.06373](http://arxiv.org/abs/2611.06373)|null|
+|**2026-11-04**|**SBVUL: Statement-Based Vulnerability Detection**|Martin Pinzger et.al.|[2611.06135](http://arxiv.org/abs/2611.06135)|null|
+|**2026-11-02**|**Non-equilibrium orientational dynamics of pinned topological defects in two-dimensional nematic liquid crystals**|Petur Bryde et.al.|[2611.04071](http://arxiv.org/abs/2611.04071)|null|
+|**2026-11-02**|**Constraints on a Long-Lived X17 Vector Boson with FASER**| FASER Collaboration et.al.|[2611.03904](http://arxiv.org/abs/2611.03904)|null|
+|**2026-11-02**|**Towards Effective Fuzzing of EDK2 Components**|Datta Manikanta Sri Hari Danduri et.al.|[2611.03854](http://arxiv.org/abs/2611.03854)|null|
 |**2026-10-22**|**Typed Template Fuzzing**|Lu Maltsis et.al.|[2610.31342](http://arxiv.org/abs/2610.31342)|null|
 |**2026-10-20**|**Self-Evolving Static Analysis via LLM Pseudo-Labeling**|Rui Melo et.al.|[2610.30184](http://arxiv.org/abs/2610.30184)|null|
 |**2026-10-20**|**How Much Does the Harness Matter, and for Whom? A Multi-Model Study of Context in LLM-Driven Vulnerability Discovery**|Ganni Galea Curmi et.al.|[2610.28802](http://arxiv.org/abs/2610.28802)|null|
